@@ -6,6 +6,7 @@
   "engines": { "node": ">=22.12.0" },
   "scripts": {
     "dev": "concurrently -k -n API,WEB -c cyan,green \"npm run dev -w @loxx/api\" \"npm run dev -w @loxx/web\"",
+    "start": "concurrently -k -n API,WEB -c cyan,green \"npm run start -w @loxx/api\" \"npm run start -w @loxx/web\"",
     "setup:local": "node tools/setup-local.mjs",
     "build": "npm run build -w @loxx/api && npm run build -w @loxx/web",
     "typecheck": "npm run typecheck -w @loxx/api && npm run typecheck -w @loxx/web",

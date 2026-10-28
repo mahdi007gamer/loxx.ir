@@ -5,6 +5,7 @@ import '@fontsource/vazirmatn/600.css';
 import '@fontsource/vazirmatn/700.css';
 import '@fontsource/vazirmatn/800.css';
 import './globals.css';
+import './experience.css';
 export const metadata: Metadata = {
  metadataBase:new URL(process.env.NEXT_PUBLIC_SITE_URL||'https://loxx.ir'),
  title:{default:'LOXX | طراحی و توسعه محصولات دیجیتال',template:'%s | LOXX'},

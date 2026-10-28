@@ -1,10 +1,68 @@
 'use client';
+
 import { useEffect, useState } from 'react';
 import { services } from '@/lib/content';
 import { Icon } from './Icons';
-export function ProjectForm(){
- const [service,setService]=useState(services[0].title); const [mode,setMode]=useState('consultation'); const [state,setState]=useState('idle'); const [message,setMessage]=useState('');
- useEffect(()=>{const incoming=new URLSearchParams(window.location.search).get('service'); if(incoming&&services.some(s=>s.title===incoming))setService(incoming)},[]);
- async function submit(e:React.FormEvent<HTMLFormElement>){e.preventDefault();setState('sending');setMessage('');const form=e.currentTarget;const data=new FormData(form);const common={name:data.get('name'),phone:data.get('phone'),email:data.get('email'),service};const payload=mode==='quote'?{...common,features:String(data.get('message')).match(/[\s\S]{1,100}/gu)||[],budget:data.get('budget')}:{...common,message:data.get('message')};try{const res=await fetch(`/api/${mode==='quote'?'quotes':'leads'}`,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(payload)});if(!res.ok)throw new Error('ارسال درخواست انجام نشد؛ لطفاً دوباره تلاش کنید.');setState('success');setMessage('درخواست شما ثبت شد. برای هماهنگی و بررسی جزئیات با شما تماس می‌گیریم.');form.reset()}catch{setState('error');setMessage('ارتباط با سرور برقرار نشد. اطلاعات فرم حفظ شده؛ لطفاً دوباره تلاش کنید.')}}
- return <form className="project-form" onSubmit={submit}><div className="form-tabs"><button type="button" className={mode==='consultation'?'active':''} onClick={()=>setMode('consultation')}>مشاوره رایگان</button><button type="button" className={mode==='quote'?'active':''} onClick={()=>setMode('quote')}>درخواست برآورد هزینه</button></div><div className="form-row"><label>نام و نام خانوادگی<input name="name" autoComplete="name" placeholder="نام شما" required maxLength={90}/></label><label>شماره تماس<input name="phone" type="tel" inputMode="tel" autoComplete="tel" placeholder="۰۹۱۲ …" required minLength={7} maxLength={32}/></label></div><div className="form-row"><label>ایمیل <span>(اختیاری)</span><input type="email" name="email" autoComplete="email" placeholder="you@example.com" maxLength={200}/></label><label>خدمت موردنظر<select value={service} onChange={e=>setService(e.target.value)}>{services.map(s=><option key={s.title}>{s.title}</option>)}</select></label></div>{mode==='quote'&&<label>بودجه تقریبی <span>(اختیاری)</span><input name="budget" placeholder="بازه بودجه موردنظر شما" maxLength={90}/></label>}<label>از ایده‌تان بگویید<textarea name="message" rows={3} placeholder="چه محصولی می‌خواهید بسازیم؟" required maxLength={mode==='quote'?2400:2500}/></label><button type="submit" className="button" disabled={state==='sending'}>{state==='sending'?'در حال ارسال…':mode==='quote'?'ثبت درخواست برآورد':'شروع گفت‌وگو درباره پروژه'}<Icon name="arrow" size={18}/></button><p className={`form-status ${state}`} role="status" aria-live="polite">{message||'اطلاعات شما فقط برای هماهنگی همین درخواست استفاده می‌شود.'}</p></form>
+
+export function ProjectForm() {
+  const [service, setService] = useState(services[0].title);
+  const [mode, setMode] = useState('consultation');
+  const [state, setState] = useState('idle');
+  const [message, setMessage] = useState('');
+  const [brief, setBrief] = useState('');
+  const [prefilled, setPrefilled] = useState(false);
+
+  useEffect(() => {
+    const incoming = new URLSearchParams(window.location.search).get('service');
+    if (incoming && services.some(item => item.title === incoming)) setService(incoming);
+    function receiveBrief(event: Event) {
+      const detail = (event as CustomEvent<{ service: string; features: string[] }>).detail;
+      if (!detail || !services.some(item => item.title === detail.service)) return;
+      setService(detail.service);
+      setMode('quote');
+      setBrief(`درخواست ${detail.service}\nاولویت‌های پروژه:\n${detail.features.map(item => `• ${item}`).join('\n')}`);
+      setPrefilled(true);
+      setState('idle');
+      setMessage('');
+    }
+    window.addEventListener('loxx:project-brief', receiveBrief);
+    return () => window.removeEventListener('loxx:project-brief', receiveBrief);
+  }, []);
+
+  async function submit(event: React.FormEvent<HTMLFormElement>) {
+    event.preventDefault();
+    setState('sending'); setMessage('');
+    const form = event.currentTarget;
+    const data = new FormData(form);
+    const common = { name: data.get('name'), phone: data.get('phone'), email: data.get('email'), service };
+    const payload = mode === 'quote'
+      ? { ...common, features: String(data.get('message')).match(/[\s\S]{1,100}/gu) || [], budget: data.get('budget') }
+      : { ...common, message: data.get('message') };
+    try {
+      const response = await fetch(`/api/${mode === 'quote' ? 'quotes' : 'leads'}`, {
+        method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(payload), signal: AbortSignal.timeout(15000),
+      });
+      if (!response.ok) throw new Error();
+      setState('success');
+      setMessage('درخواست شما ثبت شد. برای هماهنگی و بررسی جزئیات با شما تماس می‌گیریم.');
+      form.reset(); setBrief(''); setPrefilled(false);
+    } catch {
+      setState('error');
+      setMessage('ارتباط با سرور برقرار نشد. اطلاعات فرم حفظ شده؛ لطفاً دوباره تلاش کنید.');
+    }
+  }
+
+  return <form className="project-form" onSubmit={submit}>
+    <div className="form-tabs"><button type="button" aria-pressed={mode === 'consultation'} className={mode === 'consultation' ? 'active' : ''} onClick={() => setMode('consultation')}>مشاوره رایگان</button>
+      <button type="button" aria-pressed={mode === 'quote'} className={mode === 'quote' ? 'active' : ''} onClick={() => setMode('quote')}>درخواست برآورد هزینه</button></div>
+    {prefilled && <p className="form-prefill" role="status">انتخاب‌های پروژه شما منتقل شد. جزئیات را می‌توانید ویرایش کنید.</p>}
+    <div className="form-row"><label>نام و نام خانوادگی<input name="name" autoComplete="name" placeholder="نام شما" required maxLength={90} /></label>
+      <label>شماره تماس<input name="phone" type="tel" inputMode="tel" autoComplete="tel" placeholder="۰۹۱۲ …" required minLength={7} maxLength={32} /></label></div>
+    <div className="form-row"><label>ایمیل <span>(اختیاری)</span><input type="email" name="email" autoComplete="email" placeholder="you@example.com" maxLength={200} /></label>
+      <label>خدمت موردنظر<select value={service} onChange={event => setService(event.target.value)}>{services.map(item => <option key={item.title}>{item.title}</option>)}</select></label></div>
+    {mode === 'quote' && <label>بودجه تقریبی <span>(اختیاری)</span><input name="budget" placeholder="بازه بودجه موردنظر شما" maxLength={90} /></label>}
+    <label>از ایده‌تان بگویید<textarea name="message" rows={3} placeholder="چه محصولی می‌خواهید بسازیم؟" value={brief} onChange={event => setBrief(event.target.value)} required maxLength={mode === 'quote' ? 2400 : 2500} /></label>
+    <button type="submit" className="button" disabled={state === 'sending'}>{state === 'sending' ? 'در حال ارسال…' : mode === 'quote' ? 'ثبت درخواست برآورد' : 'شروع گفت‌وگو درباره پروژه'}<Icon name="arrow" size={18} /></button>
+    <p className={`form-status ${state}`} role="status" aria-live="polite">{message || 'اطلاعات شما فقط برای هماهنگی همین درخواست استفاده می‌شود.'}</p>
+  </form>;
 }
