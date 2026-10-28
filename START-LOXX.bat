@@ -7,42 +7,44 @@ echo =====================================================
 echo  LOXX Digital Product Studio - Local Launcher
 echo =====================================================
 echo.
-where git >nul 2>&1
-if errorlevel 1 (
-  echo [ERROR] Git is required. Install: https://git-scm.com/download/win
-  pause
-  exit /b 1
-)
 where node >nul 2>&1
 if errorlevel 1 (
   echo [ERROR] Node.js 22 LTS or newer is required: https://nodejs.org
   pause
   exit /b 1
 )
-node -e "if(Number(process.versions.node.split('.')[0]) < 22) process.exit(1)"
+node -e "const v=process.versions.node.split('.').map(Number);if(v[0]<22||(v[0]===22&&v[1]<12))process.exit(1)"
 if errorlevel 1 (
   echo [ERROR] Please install Node.js 22 LTS or newer.
   pause
   exit /b 1
 )
-set "PROJECT=%~dp0loxx.ir"
-if not exist "%PROJECT%\.git" (
+set "PROJECT=D:\loxx\website"
+if exist "%~dp0package.json" set "PROJECT=%~dp0"
+if not exist "%PROJECT%\package.json" (
+  where git >nul 2>&1
+  if errorlevel 1 (
+    echo [ERROR] Git is required to download the source: https://git-scm.com/download/win
+    pause
+    exit /b 1
+  )
   echo [1/4] Cloning GitHub repository...
   git clone https://github.com/mahdi007gamer/loxx.ir.git "%PROJECT%"
   if errorlevel 1 goto FAIL
 ) else (
   echo [1/4] Checking existing local repository...
   cd /d "%PROJECT%"
-  git diff --quiet
-  if errorlevel 1 (
-    echo [WARN] Local source changes detected. Git pull skipped to preserve your work.
-  ) else (
-    git diff --cached --quiet
-    if errorlevel 1 (
-      echo [WARN] Staged changes detected. Git pull skipped to preserve your work.
-    ) else (
-      git pull --ff-only
-      if errorlevel 1 echo [WARN] Git update failed. Existing files will be used.
+  if exist ".git" (
+    where git >nul 2>&1
+    if not errorlevel 1 (
+      set "LOCAL_CHANGES="
+      for /f "delims=" %%G in ('git status --porcelain') do set "LOCAL_CHANGES=1"
+      if defined LOCAL_CHANGES (
+        echo [WARN] Local changes detected. Git update skipped to preserve your work.
+      ) else (
+        git pull --ff-only
+        if errorlevel 1 echo [WARN] Git update failed. Existing files will be used.
+      )
     )
   )
 )
