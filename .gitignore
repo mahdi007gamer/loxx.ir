@@ -1,0 +1,15 @@
+node_modules/
+.next/
+dist/
+*.tsbuildinfo
+*.log
+.env
+.env.local
+apps/api/.env
+apps/api/prisma/*.db
+apps/api/prisma/*.db-journal
+apps/api/prisma/*.db-wal
+apps/api/prisma/*.db-shm
+LOCAL_LOGIN.txt
+.DS_Store
+coverage/
