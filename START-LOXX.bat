@@ -120,7 +120,7 @@ function syncRepository(root, state, log, repository = REPOSITORY) {
   }
   if (!g(['remote', 'get-url', 'origin'], { allowFailure: true })) g(['remote', 'add', 'origin', repository]);
 
-  log('[1/5] Fetching the latest origin/main...');
+  log('[1/6] Fetching the latest origin/main...');
   for (let attempt = 1; attempt <= 3; attempt++) {
     try {
       g(['fetch', '--no-tags', 'origin', '+refs/heads/' + BRANCH + ':refs/remotes/origin/' + BRANCH]);
@@ -230,7 +230,7 @@ async function main() {
     git(os.tmpdir(), ['--version'], { log });
     syncRepository(root, state, log);
     if (!exists(path.join(root, 'package-lock.json'))) throw new Error('package-lock.json is missing. A reproducible install is required.');
-    log('[2/5] Checking dependencies...');
+    log('[2/6] Checking dependencies...');
     const inputs = ['package.json', 'package-lock.json', 'apps/api/package.json', 'apps/web/package.json'];
     const hash = crypto.createHash('sha256').update(process.version + process.platform + process.arch);
     for (const file of inputs) hash.update(fs.readFileSync(path.join(root, file)));
@@ -249,14 +249,18 @@ async function main() {
       await run(['ci', '--no-audit', '--no-fund']);
       fs.writeFileSync(marker, fingerprint);
     } else log('Dependency versions unchanged; existing verified install reused.');
-    log('[3/5] Removing generated build caches...');
+    log('[3/6] Removing generated build caches...');
     for (const file of ['apps/web/.next', 'apps/web/tsconfig.tsbuildinfo', 'apps/api/dist']) fs.rmSync(path.join(root, file), { recursive: true, force: true });
-    log('[4/5] Preparing the local database...');
+    log('[4/6] Preparing the local database...');
     await run(['run', 'setup:local']);
     if (interrupted) return;
     await assertPortsFree();
-    log('[5/5] Starting the API and website...');
-    const task = npmCommand(['run', 'dev'], root, log);
+    log('[5/6] Building the latest production website...');
+    await run(['run', 'build']);
+    if (interrupted) return;
+    await assertPortsFree();
+    log('[6/6] Starting the API and website...');
+    const task = npmCommand(['start'], root, log);
     active = task.child;
     let ended = false;
     task.done.then(() => { ended = true; }, () => { ended = true; });

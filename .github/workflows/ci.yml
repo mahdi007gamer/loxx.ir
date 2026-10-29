@@ -27,3 +27,5 @@ jobs:
       - run: npm run db:generate -w @loxx/api
       - run: npm test
       - run: npm run build
+      - name: Verify production web, API, publishing and request routes
+        run: node tools/smoke-studio.mjs

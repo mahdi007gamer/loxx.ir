@@ -66,3 +66,7 @@ The supplied transparent branding pack is the source of the logo and symbol. The
 
 The edge detail and transparent white halo in the supplied raster pack are part of that source. A future supplied vector master can improve edge quality without redrawing the brand.
 
+### Navigation logo derivative
+
+`/brand/loxx-wordmark-nav.webp` is a purely mechanical resize of the unchanged full wordmark to426×151px, encoded as WebP quality87 with alpha quality90 (17,468bytes). It retains the source transparent logo and tagline; it is intended for the approximately148px header display at about3× resolution. The full-size lossless wordmark remains unchanged.
+

@@ -2,8 +2,12 @@
   "name": "loxx-platform",
   "private": true,
   "version": "0.1.0",
-  "workspaces": ["apps/*"],
-  "engines": { "node": ">=22.12.0" },
+  "workspaces": [
+    "apps/*"
+  ],
+  "engines": {
+    "node": ">=22.12.0"
+  },
   "scripts": {
     "dev": "node tools/run-studio.mjs dev",
     "start": "node tools/run-studio.mjs start",
