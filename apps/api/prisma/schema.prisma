@@ -51,6 +51,11 @@ model Article {
   title       String
   excerpt     String
   body        String
+  category    String   @default("راهنمای پروژه")
+  coverImage  String   @default("/images/devices.webp")
+  metaTitle   String   @default("")
+  metaDescription String @default("")
+  keywords    String   @default("")
   published   Boolean  @default(false)
   createdAt   DateTime @default(now())
   updatedAt   DateTime @updatedAt

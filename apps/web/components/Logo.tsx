@@ -1,1 +1,5 @@
-export function Logo() { return <a className="logo" href="/" aria-label="لوکس، صفحه اصلی"><svg viewBox="0 0 165 44" fill="none" aria-hidden="true"><text x="0" y="35" fontFamily="Arial, sans-serif" fontSize="47" fontWeight="900" letterSpacing="-3" fill="currentColor">LO</text><path d="M76 3h16l17 18-17 19H76l17-19Z" fill="#00d4a7"/><path d="M113 3h17l-17 18 17 19h-17L96 21Zm25 0h17l-17 18 17 19h-17l-17-19Z" fill="currentColor"/></svg><span>Digital Product Studio</span></a> }
+export function Logo({ compact = false }: { compact?: boolean }) {
+  return <a className={`logo brand-logo${compact ? ' brand-logo-compact' : ''}`} href="/" aria-label="استودیو LOXX، صفحه اصلی">
+    <img src={compact ? '/brand/loxx-symbol.webp' : '/brand/loxx-wordmark.webp'} alt="LOXX — Digital Product Studio" width={compact ? 180 : 710} height={compact ? 155 : 252} />
+  </a>;
+}

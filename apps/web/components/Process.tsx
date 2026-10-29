@@ -14,6 +14,7 @@ export function Process() {
   const [active, setActive] = useState(0);
   const step = steps[active];
   return <div className="process-experience">
+    <div className="journey-progress" aria-hidden="true"><span style={{ width: `${(active + 1) * 25}%` }}/></div>
     <div className="journey-selectors" aria-label="مراحل همکاری">
       {steps.map((item, index) => <button type="button" key={item.title} aria-pressed={active === index}
         onClick={() => setActive(index)}><span className="journey-number">0{index + 1}</span><Icon name={item.icon} size={26} />
@@ -25,7 +26,7 @@ export function Process() {
         <span className="journey-visual-caption" lang="en">Every great product<br />starts with a clear path.</span>
       </div>
       <div className="journey-content" aria-live="polite"><div className="journey-active-label"><span>مرحله {active + 1} از ۴</span><span lang="en">{step.english}</span></div>
-        <h3>{step.heading}</h3><p>{step.text}</p><ul>{step.outputs.map(output => <li key={output}><Icon name="check" size={16} />{output}</li>)}</ul>
+        <h3>{step.heading}</h3><p>{step.text}</p><span className="journey-deliverables-label">خروجی قابل بررسی این مرحله</span><ul>{step.outputs.map(output => <li key={output}><Icon name="check" size={16} />{output}</li>)}</ul>
         <div className="journey-controls"><a className="text-link" href="#contact">از قدم اول شروع کنیم <Icon name="arrow" size={17} /></a>
           <button type="button" aria-label={active === 3 ? 'بازگشت به مرحله اول' : 'نمایش مرحله بعد'} onClick={() => setActive((active + 1) % 4)}><Icon name="arrow" size={20} /></button></div>
       </div>

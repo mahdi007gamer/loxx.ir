@@ -1,10 +1,11 @@
 import 'reflect-metadata';
 import 'dotenv/config';
 import { NestFactory } from '@nestjs/core';
-import { Module, Controller, Get, Post, Patch, Delete, Body, Req, Res, Param, BadRequestException, ConflictException, UnauthorizedException, NotFoundException, HttpCode } from '@nestjs/common';
+import { Module, Controller, Get, Post, Patch, Delete, Body, Req, Res, Param, Query, BadRequestException, ConflictException, UnauthorizedException, NotFoundException, HttpCode } from '@nestjs/common';
 import { PrismaClient } from '@prisma/client';
 import { z } from 'zod';
 import type { Request, Response } from 'express';
+import { json } from 'express';
 import { clearSession, hashPassword, requireTrustedOrigin, requireUser, session, setSession, verifyPassword } from './security';
 
 const db = new PrismaClient();
@@ -20,10 +21,23 @@ const quoteSchema = z.object({
 const loginSchema = z.object({ email: z.string().email(), password: z.string().min(8).max(200) });
 const registerSchema = loginSchema.extend({ name: trim(90) });
 const articleSchema = z.object({
-  slug: z.string().regex(/^[a-z0-9-]{3,100}$/),
-  title: trim(160), excerpt: trim(400), body: trim(20000), published: z.boolean()
+  slug: z.string().min(3).max(100).regex(/^[a-z0-9]+(?:-[a-z0-9]+)*$/),
+  title: trim(160), excerpt: trim(400), body: trim(80000), published: z.boolean(),
+  category: trim(100).default('راهنمای پروژه'),
+  coverImage: z.string().max(500).refine(value => /^\/images\/[a-zA-Z0-9_./-]+$/.test(value) || /^https:\/\/[^\s]+$/.test(value)).default('/images/devices.webp'),
+  metaTitle: z.string().trim().max(160).default(''),
+  metaDescription: z.string().trim().max(350).default(''),
+  keywords: z.string().trim().max(1000).default('')
 });
-const validate = <T>(schema: z.ZodType<T>, input: unknown): T => {
+const statusSchema = z.object({ status: z.enum(['new', 'contacted', 'in_progress', 'closed']) });
+const listSchema = z.object({
+  q: z.string().trim().max(150).optional(),
+  status: z.enum(['new', 'contacted', 'in_progress', 'closed']).optional(),
+  page: z.coerce.number().int().min(1).max(100000).default(1),
+  pageSize: z.coerce.number().int().min(1).max(100).default(20),
+  paginated: z.literal('1').optional()
+});
+const validate = <T extends z.ZodTypeAny>(schema: T, input: unknown): z.infer<T> => {
   const result = schema.safeParse(input);
   if (!result.success) throw new BadRequestException('مقادیر فرم معتبر نیستند.');
   return result.data;
@@ -97,7 +111,7 @@ class ApiController {
     return { leads, quotes };
   }
   @Get('articles')
-  async articles() { return db.article.findMany({ where: { published: true }, orderBy: { createdAt: 'desc' }, select: { id: true, slug: true, title: true, excerpt: true, createdAt: true } }); }
+  async articles() { return db.article.findMany({ where: { published: true }, orderBy: { createdAt: 'desc' }, select: { id: true, slug: true, title: true, excerpt: true, category: true, coverImage: true, metaTitle: true, metaDescription: true, keywords: true, published: true, createdAt: true, updatedAt: true } }); }
   @Get('articles/:slug')
   async article(@Param('slug') slug: string) {
     const found = await db.article.findUnique({ where: { slug } });
@@ -107,20 +121,44 @@ class ApiController {
   @Get('admin/overview')
   async overview(@Req() req: Request) {
     requireUser(req, true);
-    const [leads, quotes, users, articles] = await Promise.all([db.lead.count(), db.quote.count(), db.user.count(), db.article.count()]);
-    return { leads, quotes, users, articles };
+    const [leads, quotes, users, articles, newLeads, newQuotes, publishedArticles] = await Promise.all([db.lead.count(), db.quote.count(), db.user.count(), db.article.count(), db.lead.count({ where: { status: 'new' } }), db.quote.count({ where: { status: 'new' } }), db.article.count({ where: { published: true } })]);
+    return { leads, quotes, users, articles, newLeads, newQuotes, publishedArticles, drafts: articles - publishedArticles };
   }
   @Get('admin/leads')
-  async allLeads(@Req() req: Request) { requireUser(req, true); return db.lead.findMany({ orderBy: { createdAt: 'desc' }, take: 200 }); }
+  async allLeads(@Req() req: Request, @Query() query: unknown) {
+    requireUser(req, true);
+    const filter = validate(listSchema, query);
+    const where = { ...(filter.status ? { status: filter.status } : {}), ...(filter.q ? { OR: [{ name: { contains: filter.q } }, { phone: { contains: filter.q } }, { service: { contains: filter.q } }, { message: { contains: filter.q } }] } : {}) };
+    const items = await db.lead.findMany({ where, orderBy: { createdAt: 'desc' }, skip: filter.paginated ? (filter.page - 1) * filter.pageSize : 0, take: filter.paginated ? filter.pageSize : 200 });
+    return filter.paginated ? { items, total: await db.lead.count({ where }), page: filter.page, pageSize: filter.pageSize } : items;
+  }
   @Get('admin/quotes')
-  async allQuotes(@Req() req: Request) { requireUser(req, true); return db.quote.findMany({ orderBy: { createdAt: 'desc' }, take: 200 }); }
+  async allQuotes(@Req() req: Request, @Query() query: unknown) {
+    requireUser(req, true);
+    const filter = validate(listSchema, query);
+    const where = { ...(filter.status ? { status: filter.status } : {}), ...(filter.q ? { OR: [{ name: { contains: filter.q } }, { phone: { contains: filter.q } }, { service: { contains: filter.q } }] } : {}) };
+    const items = await db.quote.findMany({ where, orderBy: { createdAt: 'desc' }, skip: filter.paginated ? (filter.page - 1) * filter.pageSize : 0, take: filter.paginated ? filter.pageSize : 200 });
+    return filter.paginated ? { items, total: await db.quote.count({ where }), page: filter.page, pageSize: filter.pageSize } : items;
+  }
+  @Get('admin/users')
+  async allUsers(@Req() req: Request) {
+    requireUser(req, true);
+    return db.user.findMany({ orderBy: { createdAt: 'desc' }, take: 200, select: { id: true, name: true, email: true, role: true, createdAt: true, _count: { select: { leads: true, quotes: true } } } });
+  }
   @Patch('admin/leads/:id')
   async changeLead(@Req() req: Request, @Param('id') id: string, @Body() body: unknown) {
     requireUser(req, true); requireTrustedOrigin(req);
-    const { status } = validate(z.object({ status: z.enum(['new', 'contacted', 'in_progress', 'closed']) }), body);
+    const { status } = validate(statusSchema, body);
     const exists = await db.lead.findUnique({ where: { id } });
     if (!exists) throw new NotFoundException();
     return db.lead.update({ where: { id }, data: { status } });
+  }
+  @Patch('admin/quotes/:id')
+  async changeQuote(@Req() req: Request, @Param('id') id: string, @Body() body: unknown) {
+    requireUser(req, true); requireTrustedOrigin(req);
+    const { status } = validate(statusSchema, body);
+    if (!await db.quote.findUnique({ where: { id } })) throw new NotFoundException();
+    return db.quote.update({ where: { id }, data: { status } });
   }
   @Get('admin/articles')
   async allArticles(@Req() req: Request) { requireUser(req, true); return db.article.findMany({ orderBy: { updatedAt: 'desc' } }); }
@@ -128,7 +166,17 @@ class ApiController {
   async saveArticle(@Req() req: Request, @Body() body: unknown) {
     requireUser(req, true); requireTrustedOrigin(req);
     const data = validate(articleSchema, body);
-    return db.article.upsert({ where: { slug: data.slug }, create: data, update: data });
+    if (await db.article.findUnique({ where: { slug: data.slug } })) throw new ConflictException('این نشانی مقاله قبلاً استفاده شده است. مقاله موجود را ویرایش کنید.');
+    return db.article.create({ data });
+  }
+  @Patch('admin/articles/:id')
+  async updateArticle(@Req() req: Request, @Param('id') id: string, @Body() body: unknown) {
+    requireUser(req, true); requireTrustedOrigin(req);
+    const data = validate(articleSchema, body);
+    if (!await db.article.findUnique({ where: { id } })) throw new NotFoundException();
+    const slugOwner = await db.article.findUnique({ where: { slug: data.slug } });
+    if (slugOwner && slugOwner.id !== id) throw new ConflictException('این نشانی مقاله قبلاً استفاده شده است.');
+    return db.article.update({ where: { id }, data });
   }
   @Delete('admin/articles/:id')
   async deleteArticle(@Req() req: Request, @Param('id') id: string) {
@@ -141,7 +189,9 @@ class ApiController {
 @Module({ controllers: [ApiController] })
 class AppModule {}
 async function bootstrap() {
-  const app = await NestFactory.create(AppModule, { cors: false });
+  if ((process.env.SESSION_SECRET || '').length < 32) throw new Error('SESSION_SECRET must be at least 32 characters. Run npm run setup:local or configure a unique secret before starting the API.');
+  const app = await NestFactory.create(AppModule, { cors: false, bodyParser: false });
+  app.use(json({ limit: '512kb' }));
   app.enableCors({
     origin: (process.env.WEB_ORIGIN || 'http://localhost:3000').split(',').map(s => s.trim()),
     credentials: true, methods: ['GET', 'POST', 'PATCH', 'DELETE', 'OPTIONS']
