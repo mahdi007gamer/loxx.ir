@@ -87,8 +87,11 @@ function syncRepository(root, state, log, repository = REPOSITORY) {
     }
   } else {
     const top = g(['rev-parse', '--show-toplevel']);
-    const real = value => process.platform === 'win32' ? fs.realpathSync(value).toLowerCase() : fs.realpathSync(value);
-    if (real(top) !== real(root)) throw new Error('The project must be the repository root.');
+    // Windows may spell the same directory with long names or 8.3 aliases.
+    // Compare directory identity rather than path text.
+    const topStat = fs.statSync(top, { bigint: true });
+    const rootStat = fs.statSync(root, { bigint: true });
+    if (topStat.dev !== rootStat.dev || topStat.ino !== rootStat.ino) throw new Error('The project must be the repository root.');
     for (const name of ['MERGE_HEAD', 'CHERRY_PICK_HEAD', 'REVERT_HEAD', 'rebase-merge', 'rebase-apply']) {
       const p = g(['rev-parse', '--git-path', name]);
       if (exists(path.resolve(root, p))) throw new Error('Finish the Git merge/rebase before updating.');
