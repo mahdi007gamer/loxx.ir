@@ -38,6 +38,7 @@ model Quote {
   email     String?
   service   String
   features  String
+  brief     String   @default("")
   budget    String?
   status    String   @default("new")
   userId    String?

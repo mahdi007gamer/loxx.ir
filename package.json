@@ -12,6 +12,7 @@
     "dev": "node tools/run-studio.mjs dev",
     "start": "node tools/run-studio.mjs start",
     "setup:local": "node tools/setup-local.mjs",
+    "check:production": "node tools/check-production.mjs",
     "build": "npm run build -w @loxx/api && npm run build -w @loxx/web",
     "typecheck": "npm run typecheck -w @loxx/api && npm run typecheck -w @loxx/web",
     "test": "node --test tests/*.test.mjs"

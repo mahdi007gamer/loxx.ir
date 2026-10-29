@@ -213,7 +213,38 @@ async function main() {
     assert.equal(leadResponse.status, 201, 'The real contact endpoint accepts a valid proxied request.');
     const lead = await leadResponse.json();
     assert.equal(typeof lead.id, 'string'); assert.equal(lead.status, 'new');
-    console.log('[SMOKE] PASS: five production pages, sitemap, API proxy, nine full articles, private admin rejection and real lead creation.');
+    const login = await request('/api/auth/login', {
+      method: 'POST', headers: { Origin: webOrigin, 'Content-Type': 'application/json' },
+      body: JSON.stringify({ email: environment.ADMIN_EMAIL, password: environment.ADMIN_PASSWORD }),
+    });
+    assert.equal(login.status, 200);
+    const cookie = login.headers.get('set-cookie')?.split(';')[0];
+    assert.ok(cookie, 'The isolated administrator receives a session.');
+    const adminRequest = (url, method, body) => request('/api/' + url, {
+      method, headers: { Origin: webOrigin, Cookie: cookie, 'Content-Type': 'application/json' },
+      ...(body === undefined ? {} : { body: JSON.stringify(body) }),
+    });
+    const editorial = { ...curated[0], slug: 'production-live-editorial-test', title: 'آزمون انتشار زنده مدیریت', body: '## محتوای ذخیره‌شده\n\nاین متن فقط در دیتابیس موقت آزمون وجود دارد.', metaDescription: 'توضیح سئو برای بررسی انتشار زنده مقاله از مدیریت.', published: true };
+    const created = await adminRequest('admin/articles', 'POST', editorial);
+    assert.equal(created.status, 201);
+    const createdArticle = await created.json();
+    const publicArticle = await request('/blog/' + editorial.slug);
+    assert.equal(publicArticle.status, 200);
+    const publicHtml = await publicArticle.text();
+    assert.ok(publicHtml.includes(editorial.title), 'A new managed article reaches the server-rendered blog without rebuilding.');
+    assert.ok(publicHtml.includes(editorial.metaDescription), 'Live SEO metadata reaches the article page.');
+    assert.ok((await (await request('/sitemap.xml')).text()).includes('/blog/' + editorial.slug));
+    assert.equal((await adminRequest('admin/articles/' + createdArticle.id, 'PATCH', { ...editorial, published: false })).status, 200);
+    assert.equal((await request('/blog/' + editorial.slug)).status, 404, 'An unpublished article is removed from the actual production page.');
+    assert.equal((await (await request('/sitemap.xml')).text()).includes('/blog/' + editorial.slug), false);
+    assert.equal((await adminRequest('admin/articles/' + createdArticle.id, 'DELETE')).status, 200);
+    const brief = 'هدف: راه‌اندازی فروشگاه\nامکانات: مدیریت سفارش و پرداخت\nاین متن باید یکپارچه ذخیره شود.';
+    const quoteResponse = await adminRequest('quotes', 'POST', { name: 'آزمون برآورد تولید', phone: '۰۹۰۰۰۰۰۰۰۰۰', service: 'فروشگاه آنلاین', features: ['مدیریت سفارش', 'درگاه پرداخت'], brief, budget: '۴۵ تا ۱۰۰ میلیون تومان' });
+    assert.equal(quoteResponse.status, 201);
+    const quoteId = (await quoteResponse.json()).id;
+    const own = await (await adminRequest('my/requests', 'GET')).json();
+    assert.equal(own.quotes.find(quote => quote.id === quoteId)?.brief, brief);
+    console.log('[SMOKE] PASS: production pages, API proxy, nine complete articles, live CMS publish/unpublish and sitemap changes without rebuilding, private admin protection and persisted contact/quote briefs.');
   } catch (error) {
     if (output) console.error('\n[SMOKE] Recent production-server output:\n' + output.slice(-12000));
     throw error;

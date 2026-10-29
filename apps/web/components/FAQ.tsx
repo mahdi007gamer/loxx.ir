@@ -16,7 +16,7 @@ const questions = [
 
 export function FAQ() {
   return <div className="faq-list">{questions.map(([question, answer], index) => <details key={question} name="loxx-faq">
-    <summary><span className="faq-number">0{index + 1}</span><h3>{question}</h3><span className="faq-plus"><Icon name="close" size={18} /></span></summary>
+    <summary><span className="faq-number">{String(index + 1).padStart(2, '0')}</span><h3>{question}</h3><span className="faq-plus"><Icon name="close" size={18} /></span></summary>
     <p>{answer}</p>
   </details>)}</div>;
 }

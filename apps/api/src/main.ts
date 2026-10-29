@@ -7,16 +7,20 @@ import { z } from 'zod';
 import type { Request, Response } from 'express';
 import { json } from 'express';
 import { clearSession, hashPassword, requireTrustedOrigin, requireUser, session, setSession, verifyPassword } from './security';
+import { runtimeIssues } from './runtime-config';
 
 const db = new PrismaClient();
 const trim = (n: number) => z.string().trim().min(1).max(n);
+const phoneSchema = trim(32).transform(value => value.replace(/[۰-۹٠-٩]/g, char => String('۰۱۲۳۴۵۶۷۸۹'.includes(char) ? '۰۱۲۳۴۵۶۷۸۹'.indexOf(char) : '٠١٢٣٤٥٦٧٨٩'.indexOf(char))))
+  .refine(value => /^\+?[0-9\s()-]{7,32}$/.test(value) && value.replace(/\D/g, '').length >= 7);
 const leadSchema = z.object({
-  name: trim(90), phone: trim(32), email: z.string().email().max(200).optional().or(z.literal('')),
+  name: trim(90), phone: phoneSchema, email: z.string().email().max(200).optional().or(z.literal('')),
   service: trim(100), message: trim(2500)
 });
 const quoteSchema = z.object({
-  name: trim(90), phone: trim(32), email: z.string().email().max(200).optional().or(z.literal('')),
-  service: trim(100), features: z.array(trim(100)).max(24), budget: z.string().max(90).optional()
+  name: trim(90), phone: phoneSchema, email: z.string().email().max(200).optional().or(z.literal('')),
+  service: trim(100), features: z.array(trim(100)).max(24), budget: z.string().max(90).optional(),
+  brief: z.string().trim().max(2500).default('')
 });
 const loginSchema = z.object({ email: z.string().email(), password: z.string().min(8).max(200) });
 const registerSchema = loginSchema.extend({ name: trim(90) });
@@ -98,7 +102,7 @@ class ApiController {
     requireTrustedOrigin(req);
     const data = validate(quoteSchema, body);
     const s = session(req);
-    const quote = await db.quote.create({ data: { name: data.name, phone: data.phone, email: data.email || null, service: data.service, features: JSON.stringify(data.features), budget: data.budget || null, userId: s?.id } });
+    const quote = await db.quote.create({ data: { name: data.name, phone: data.phone, email: data.email || null, service: data.service, features: JSON.stringify(data.features), brief: data.brief, budget: data.budget || null, userId: s?.id } });
     return { id: quote.id, status: quote.status, message: 'درخواست پیش‌فاکتور ثبت شد.' };
   }
   @Get('my/requests')
@@ -189,7 +193,8 @@ class ApiController {
 @Module({ controllers: [ApiController] })
 class AppModule {}
 async function bootstrap() {
-  if ((process.env.SESSION_SECRET || '').length < 32) throw new Error('SESSION_SECRET must be at least 32 characters. Run npm run setup:local or configure a unique secret before starting the API.');
+  const issues = runtimeIssues(process.env);
+  if (issues.length) throw new Error(issues.join('\n'));
   const app = await NestFactory.create(AppModule, { cors: false, bodyParser: false });
   app.use(json({ limit: '512kb' }));
   app.enableCors({

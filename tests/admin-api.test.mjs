@@ -82,6 +82,7 @@ test('admin API persists content and pipeline changes while enforcing role and o
   let quoteId;
   let articleId;
   const post = { slug: 'integration-guide', title: 'راهنمای آزمون مدیریت', excerpt: 'خلاصه‌ای برای بررسی انتشار واقعی مقاله', body: '## هدف پروژه\n\nاین مقاله برای آزمون ذخیره و انتشار نوشته شده است.\n\n- خروجی مشخص\n- مرحله‌بندی روشن', category: 'راهنمای پروژه', coverImage: '/images/devices.webp', metaTitle: 'راهنمای مدیریت پروژه | LOXX', metaDescription: 'توضیح متای اختصاصی برای بررسی اتصال مدیریت و بلاگ.', keywords: 'طراحی سایت، برآورد پروژه', published: false };
+  const brief = 'هدف اصلی: افزایش سفارش\nمحدوده پروژه: فروشگاه فارسی\n' + 'توضیح پروژه با حفظ خط‌های متن. '.repeat(60).trim();
 
   await t.test('anonymous users cannot read management data', async () => {
     for (const endpoint of ['admin/overview', 'admin/leads', 'admin/quotes', 'admin/articles', 'admin/users']) assert.equal((await request(endpoint)).status, 401, endpoint);
@@ -97,9 +98,11 @@ test('admin API persists content and pipeline changes while enforcing role and o
     adminCookie = login.headers.get('set-cookie').split(';')[0];
   });
   await t.test('leads and quotes can be searched, paginated and advanced through the pipeline', async () => {
+    const invalidPhone = await request('leads', { method: 'POST', body: { name: 'آزمون', phone: 'not-a-phone', service: 'وب‌سایت شرکتی', message: 'این ورودی نباید ذخیره شود' } });
+    assert.equal(invalidPhone.status, 400);
     const lead = await request('leads', { method: 'POST', cookie: customerCookie, body: { name: 'مشتری تست', phone: '09375302400', service: 'وب‌سایت شرکتی', message: 'مشاوره درباره سایت شرکتی' } });
     assert.equal(lead.status, 201); leadId = (await lead.json()).id;
-    const quote = await request('quotes', { method: 'POST', cookie: customerCookie, body: { name: 'مشتری تست', phone: '09375302400', service: 'فروشگاه آنلاین', features: ['درگاه پرداخت', 'مدیریت سفارش'], budget: 'حدود ۸۰ میلیون تومان' } });
+    const quote = await request('quotes', { method: 'POST', cookie: customerCookie, body: { name: 'مشتری تست', phone: '۰۹۳۷۵۳۰۲۴۰۰', service: 'فروشگاه آنلاین', features: ['درگاه پرداخت', 'مدیریت سفارش'], brief, budget: 'حدود ۸۰ میلیون تومان' } });
     assert.equal(quote.status, 201); quoteId = (await quote.json()).id;
     const listed = await request('admin/leads?paginated=1&pageSize=1&q=' + encodeURIComponent('مشتری'), { cookie: adminCookie });
     const list = await listed.json(); assert.equal(list.total, 1); assert.equal(list.items[0].id, leadId);
@@ -107,6 +110,12 @@ test('admin API persists content and pipeline changes while enforcing role and o
     assert.equal((await request('admin/quotes/' + quoteId, { method: 'PATCH', cookie: adminCookie, body: { status: 'in_progress' } })).status, 200);
     const own = await (await request('my/requests', { cookie: customerCookie })).json();
     assert.equal(own.leads[0].status, 'contacted'); assert.equal(own.quotes[0].status, 'in_progress');
+    assert.equal(own.quotes[0].brief, brief);
+    assert.equal(own.quotes[0].phone, '09375302400');
+    assert.deepEqual(JSON.parse(own.quotes[0].features), ['درگاه پرداخت', 'مدیریت سفارش']);
+    const adminQuotes = await (await request('admin/quotes?paginated=1', { cookie: adminCookie })).json();
+    assert.equal(adminQuotes.items[0].brief, brief);
+    assert.equal((await request('quotes', { method: 'POST', body: { name: 'آزمون طول', phone: '09000000000', service: 'وب‌سایت', features: [], brief: 'م'.repeat(2501) } })).status, 400);
     assert.equal((await request('admin/quotes/' + quoteId, { method: 'PATCH', cookie: adminCookie, body: { status: 'made-up' } })).status, 400);
   });
   await t.test('foreign origins cannot change an admin request', async () => {
@@ -151,5 +160,12 @@ test('admin API persists content and pipeline changes while enforcing role and o
     assert.equal((await request('articles/' + post.slug)).status, 404);
     assert.equal((await request('admin/articles/' + articleId, { method: 'DELETE', cookie: adminCookie })).status, 200);
     assert.equal(await db.article.findUnique({ where: { id: articleId } }), null);
+  });
+  await t.test('older quote clients remain compatible without a separate brief field', async () => {
+    const response = await request('quotes', { method: 'POST', body: { name: 'نسخه قدیمی', phone: '09000000000', service: 'طراحی سایت', features: ['بریف قدیمی: خط اول', 'ادامه توضیحات'] } });
+    assert.equal(response.status, 201);
+    const stored = await db.quote.findUnique({ where: { id: (await response.json()).id } });
+    assert.equal(stored.brief, '');
+    assert.deepEqual(JSON.parse(stored.features), ['بریف قدیمی: خط اول', 'ادامه توضیحات']);
   });
 });

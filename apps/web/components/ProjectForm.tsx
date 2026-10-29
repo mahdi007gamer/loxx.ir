@@ -21,6 +21,7 @@ export function ProjectForm() {
   const [email, setEmail] = useState('');
   const [phone, setPhone] = useState('');
   const [prefilled, setPrefilled] = useState(false);
+  const [features, setFeatures] = useState<string[]>([]);
 
   useEffect(() => {
     const incoming = new URLSearchParams(window.location.search).get('service');
@@ -42,6 +43,7 @@ export function ProjectForm() {
       if (!detail || !services.some(item => item.title === detail.service)) return;
       setService(detail.service);
       setMode('quote');
+      setFeatures(detail.features.slice(0, 24));
       setBrief([
         `نوع پروژه: ${detail.projectType || detail.service}`,
         detail.goal ? `هدف اصلی: ${detail.goal}` : '',
@@ -61,14 +63,12 @@ export function ProjectForm() {
     event.preventDefault();
     const normalizedPhone = phone.trim().replace(/[۰-۹٠-٩]/g, char => String('۰۱۲۳۴۵۶۷۸۹'.includes(char) ? '۰۱۲۳۴۵۶۷۸۹'.indexOf(char) : '٠١٢٣٤٥٦٧٨٩'.indexOf(char)));
     const common = { name: name.trim(), phone: normalizedPhone, email: email.trim(), service };
-    const chunks: string[] = [];
     const text = brief.trim().slice(0, mode === 'quote' ? 2400 : 2500);
     if (!common.name || !text || !/^\+?[0-9\s()-]{7,32}$/.test(normalizedPhone) || normalizedPhone.replace(/\D/g, '').length < 7) {
       setState('error'); setMessage('نام، شماره تماس معتبر و توضیح کوتاه پروژه را وارد کنید.'); return;
     }
     setState('sending'); setMessage('');
-    for (let offset = 0; offset < text.length; offset += 100) chunks.push(text.slice(offset, offset + 100));
-    const payload = mode === 'quote' ? { ...common, features: chunks, budget: budget.trim() } : { ...common, message: text };
+    const payload = mode === 'quote' ? { ...common, features, brief: text, budget: budget.trim() } : { ...common, message: text };
     try {
       const response = await fetch(`/api/${mode === 'quote' ? 'quotes' : 'leads'}`, {
         method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(payload), signal: AbortSignal.timeout(15000),
@@ -77,7 +77,7 @@ export function ProjectForm() {
       if (!response.ok) throw new Error(typeof body.message === 'string' ? body.message : 'ثبت درخواست انجام نشد. دوباره تلاش کنید.');
       setState('success');
       setMessage(`درخواست شما ثبت شد${body.id ? `؛ کد پیگیری ${body.id}` : ''}. برای شناخت نیاز و بررسی محدوده با شما تماس می‌گیریم.`);
-      setBrief(''); setBudget(''); setPrefilled(false);
+      setBrief(''); setBudget(''); setFeatures([]); setPrefilled(false);
       window.dispatchEvent(new CustomEvent('loxx:exploration', { detail: { id: 'requested' } }));
     } catch (error) {
       setState('error');
