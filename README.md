@@ -44,7 +44,7 @@ npm start
 
 ساختار: `apps/web` رابط Next.js، `apps/api` سرویس NestJS و Prisma با SQLite محلی، `tools/setup-local.mjs` راه‌اندازی دیتابیس و رمز تصادفی مدیر. API از طریق مسیر هم‌مبدأ `/api` پروکسی می‌شود. برای اجرای عمومی، دامنه واقعی را در `WEB_ORIGIN` و `NEXT_PUBLIC_SITE_URL` تنظیم کنید و یک `SESSION_SECRET` تصادفی اختصاصی داشته باشید.
 
-لوگو و آیکن از فایل اصلی ارسالی استخراج شده‌اند. نمونه‌کارهای GoldenCheat، پلتفرم آن و Ahmadi Design با اتکا به معرفی صاحب پروژه آمده‌اند؛ نسخه جدید مهراد کویر با تصویر ارسالی و برچسب «در انتظار انتشار» معرفی می‌شود. نام و عکس شخصیت‌های بخش تیم، مفهومی و به‌وضوح برچسب‌خورده‌اند؛ اعضای واقعی معرفی نشده‌اند. آمار یا رضایت‌نامه ساختگی وجود ندارد. تصاویر WebP بهینه‌اند و فونت Vazirmatn محلی است. مشخصات تصاویر در [visual-assets.md](docs/visual-assets.md) و [team-image-prompts.md](docs/team-image-prompts.md) آمده است.
+لوگو و آیکن از فایل اصلی ارسالی استخراج شده‌اند. نمونه‌کارهای GoldenCheat، پلتفرم آن و Ahmadi Design با اتکا به معرفی صاحب پروژه آمده‌اند؛ نسخه جدید مهراد کویر با تصویر ارسالی و برچسب «در انتظار انتشار» معرفی می‌شود. بخش نقش‌های تیم از شخصیت‌های تصویرسازی‌شده با نام‌های نمونه ایرانی استفاده می‌کند و برچسب کوتاه تصویرسازی دارد؛ عکس جمعی و پرتره‌ها هماهنگ‌اند. آمار یا رضایت‌نامه ساختگی وجود ندارد. تصاویر WebP بهینه‌اند و فونت Vazirmatn محلی است. مشخصات تصاویر در [visual-assets.md](docs/visual-assets.md) و [team-image-prompts.md](docs/team-image-prompts.md) آمده است.
 
 راهبرد کلمات کلیدی و محتوا: [seo-keyword-strategy.md](docs/seo-keyword-strategy.md). انتشار VPS، تنظیم دامنه، فعال‌کردن ایندکس و Search Console: [production-checklist.md](docs/production-checklist.md). نسخه‌های محلی و پیش‌نمایش noindex هستند؛ production نیازمند `NEXT_PUBLIC_SITE_URL` واقعی است. رتبه یا زمان رسیدن به صفحه اول تضمین نشده است.
 

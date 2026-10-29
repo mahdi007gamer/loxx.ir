@@ -1,57 +1,72 @@
-# LOXX team concept image provenance
+# LOXX role illustration assets — revised team scene
 
-These images depict six fictional adult characters generated for a visual concept. They are not photographs of real LOXX employees or evidence of an actual office. The website must disclose that clearly next to the team section. Do not use these images as client testimony, professional credentials, an actual staff directory, or Person schema for factual employees.
+The website uses six explicitly fictional named characters to illustrate complementary project roles. The short visible image credit identifies fictional characters and AI illustration; these assets are not an actual employee directory or evidence of premises. Do not add employee Person schema, credentials, years of experience or testimonials for these characters.
 
-Suggested Persian label: **شخصیت‌های مفهومی؛ اعضای واقعی تیم نیستند.**
+## Final image and character map
 
-## Files and identity map
+Order is left to right in the group scene, matching the six role cards.
 
-| File | Concept name | Role label | Dimensions |
+| Website character name | Role | Visual identity | Active asset |
 | --- | --- | --- | --- |
-| `/images/team-01.webp` | آرمان نادری | راهبری محصول | 480 × 480 |
-| `/images/team-02.webp` | سارا مهران | طراحی UI/UX | 480 × 480 |
-| `/images/team-03.webp` | کیان راد | توسعه رابط کاربری | 480 × 480 |
-| `/images/team-04.webp` | نازنین پارسا | توسعه سمت سرور | 480 × 480 |
-| `/images/team-05.webp` | امیرسام شریفی | تضمین کیفیت | 480 × 480 |
-| `/images/team-06.webp` | رها نیک‌پی | استراتژی محتوا | 480 × 480 |
-| `/images/team-studio.webp` | All six fictional characters | Office concept | 1439 × 810 |
+| علی رضایی | Product and project definition | Older bald man, glasses, gray beard, blue checked shirt | `/images/team-role-01-v2.webp` |
+| مریم احمدی | UI / UX | Young woman, taupe scarf, thin glasses, tailored gray jacket | `/images/team-role-02-v3.webp` |
+| محمد کریمی | Frontend | Man with receding hairline, navy polo | `/images/team-role-03-v2.webp` |
+| نرگس حسینی | Backend | Woman with thin glasses, black scarf, gray cardigan | `/images/team-role-04-v2.webp` |
+| رضا صادقی | Quality assurance | Man with gray hair, stubble and olive overshirt | `/images/team-role-05-v2.webp` |
+| امیر محمدی | Content and SEO | Young man, tidy dark hair and stubble, brown knitwear and off-white collar | `/images/team-role-06-v3.webp` |
+| All six characters | Collaboration scene | Ordinary Iranian office, candid discussion | `/images/team-workroom-v3.webp` |
 
-## Generation and optimization
+The final group asset is 1600 × 900. Each portrait is 480 × 480. All are lazy-loaded WebP files. Versioned filenames avoid serving the previous artwork from an existing browser cache. Unreferenced original `team-01.webp` to `team-06.webp` and `team-studio.webp` are retained as legacy source assets.
 
-Built-in ImageGen was used; no external API/CLI fallback was used. The group image was generated first. That group was then used as the identity reference for a 1536 × 1024 contact sheet. The six square cells were mechanically extracted into individual portraits and encoded as WebP at quality 84. The wide office image was resized and encoded as WebP at quality 83. Identity and scene changes were made through ImageGen; extraction and output compression were mechanical asset processing.
+## Generation and revision sequence
 
-## Group prompt
+Built-in ImageGen was used throughout; no external API or CLI fallback. An entirely new natural scene replaced the original uniformly young, posed composition. The first revision used four men and two women with ages 35–53, ordinary bodies, bald/receding hairlines and natural skin texture. Six separate portraits were generated from that scene. The user then supplied crops identifying the taupe-scarf woman and the mustached far-right man for a younger, smart engineering appearance. Only those two identities were replaced in the group scene; the approved other four portraits are unchanged. The two revised portraits were generated using that final group as the identity reference.
+
+Resizing and WebP compression are mechanical export steps. All face, clothing and scene changes were performed with ImageGen.
+
+## Base scene prompt
 
 ```text
-Use case: photorealistic-natural
-Asset type: wide fictional team concept photograph for an Iranian digital product studio website, explicitly illustrative not documentary.
-Primary request: six distinct adult Iranian creative professionals photographed naturally together in a clean, believable boutique design and software studio in Iran. Exactly three men and three women, ages 26-39. Realistic ordinary attractive people, not fashion models, distinct Iranian facial features. Women wear contemporary modest smart casual clothing and loosely styled professional headscarves, fully clothed. Left-to-right identities must be: 1 Arman, man age34 short black wavy hair neat stubble olive overshirt; 2 Sara, woman age29 warm brown eyes chestnut strands visible at front cream scarf teal blouse; 3 Kian, man age28 short dark hair round dark-framed glasses navy T-shirt; 4 Nazanin, woman age32 dark hair black loose scarf light-gray jacket; 5 Amirsam, man age36 slightly longer wavy black hair trimmed beard beige shirt; 6 Raha, woman age27 dark brown eyes taupe scarf muted teal cardigan.
-Scene/backdrop: a real modest but beautifully tidy small creative office, light plaster walls, wood work tables, laptops and two normal monitors, a few plants, one pegboard, subtle teal details, large side window. Nothing overly luxurious or futuristic. Team around a shared table, some seated and two standing behind, warm relaxed collaboration and eye contact toward camera, all six clearly visible and separated, natural hands.
-Style/medium: candid editorial digital photograph, 35mm equivalent ordinary camera, fine natural skin texture, real pores and gentle imperfections, believable shadows, slight depth of field, no artificial skin smoothing.
-Composition/framing: landscape 16:9, six people waist-up and medium-wide office context, everyone fits with headroom, no cropped faces. Keep all faces detailed.
-Lighting/mood: soft daylight, calm confident creative atmosphere.
-Color palette: warm neutral woods, off white and charcoal, restrained turquoise accents.
-Text: no text, no logo, no watermark.
-Avoid: artificial stock-photo plastic faces, identical faces, glamorous luxury penthouse, neon cyberpunk, distorted hands, excessive fingers, uncanny symmetry, children.
+Use case: photorealistic-natural.
+Asset type: wide 16:9 website illustration of fictional Iranian software-studio coworkers at work, not a documentary photograph or an actual employee directory.
+Primary request: A completely new, believable everyday Iranian product-development workroom with exactly SIX ADULT coworkers, FOUR MEN and TWO WOMEN, ages 35–54. Ordinary individually distinctive people, mature faces, uneven hairlines, normal bodies and lived-in skin. The user specifically needs older men with BALDING and fully BALD heads, rather than a uniformly young attractive model cast.
+People, left-to-right: (1) a 53-year-old Iranian man, fully bald head with a little gray hair at the sides, short salt-and-pepper beard, rectangular reading glasses, broad nose, slightly heavyset build, faded blue small-check shirt; (2) a 44-year-old Iranian woman, ordinary mature face with visible smile lines and a slightly long nose, muted taupe headscarf, charcoal loose blouse; (3) a 38-year-old Iranian man with short dark hair and a noticeable receding hairline, clean-shaven round face, heavier build, plain navy polo; (4) a 35-year-old Iranian woman with an unretouched natural face and subtle under-eye shadows, small thin-frame glasses, simple dark headscarf and gray cardigan; (5) a 43-year-old Iranian man with graying slightly unkempt short hair, broad eyebrows, stubble, olive overshirt, average build; (6) a 49-year-old Iranian man with an unmistakably BALD crown and sparse gray side hair, slim build, narrow face, gray mustache and light stubble, dark brown crewneck sweater. All look like ordinary experienced Iranian engineers and creative workers, with individual facial asymmetry, small wrinkles and natural skin texture. No fashion models, no beauty retouching, no caricature of aging or ugliness.
+Scene: a clean but modest, real small rented Iranian studio, practical cream walls, a window with simple roller blind, ordinary desks, mixed everyday monitors, office chairs, a couple of modest plants, cables managed but visible, a Persian tea glass and handwritten paper sketches. Real lived-in workspace, not a luxury co-working showroom, not a fantasy office. One discreet teal accent can relate to the LOXX website, but no brand logos or readable text.
+Action and composition: candid eye-level 35mm-equivalent PHONE SNAPSHOT taken by a colleague from a few meters away, all six faces clearly visible and separated across a shared working table. Some people seated and one or two standing or leaning nearby. They are discussing an actual screen or sketch, looking between each other, not all posing toward the camera. Natural imperfect posture, attentive expressions, one restrained smile, not six beaming smiles. Medium-wide horizontal composition, leave headroom, include real office context. Nobody overlaps another face. Exactly six people and six distinct faces.
+Lighting: normal soft window daylight mixed with regular room illumination; believable slightly imperfect white balance, soft shadows, gentle sensor grain, useful realistic depth of field so all faces remain readable. Natural ordinary photography, not a cinematic advertising shot.
+Constraints: fully clothed modest professional everyday dress; accurate anatomy and normal hands; no text, no watermarks, no logos; no duplicate faces; no plastic skin, perfect Hollywood teeth, fashion styling, youthful glamour, neon lighting or staged uniform smiles.
 ```
 
-## Portrait sheet prompt
+## Final two-person scene edit prompt
+
+Inputs: the base six-person group as the edit target, then the user's two crops to identify the far-right man and taupe-scarf woman.
 
 ```text
-Use case: identity-preserve / photorealistic-natural.
-Asset type: six-person portrait contact sheet for a website showing clearly disclosed fictional team concepts.
-Input image: reference photograph of six FICTIONAL Iranian studio coworkers, identity source.
-Primary request: Make a clean exact 3-column by 2-row contact sheet of six separate square editorial head-and-shoulders portraits, preserving the exact six faces and outfits from the reference group. Equal cells edge to edge, NO borders, NO text, NO labels, NO gutters. Each person's entire head with modest headroom and shoulders centered in own square cell.
-Ordering is strictly:
-Top-left: the man seated at far left of reference, Arman, olive overshirt, wavy short black hair and neat stubble.
-Top-middle: the woman second from left seated, Sara, cream scarf, teal blouse.
-Top-right: the seated center man with dark round glasses, Kian, navy T-shirt.
-Bottom-left: the seated woman at front right, Nazanin, black scarf and light grey jacket.
-Bottom-middle: the standing man behind center, Amirsam, beige shirt, wavy longer black hair and neat beard.
-Bottom-right: the woman standing back right, Raha, taupe scarf, muted teal cardigan.
-Scene/backdrop: natural softly blurred same realistic office with plant and warm off-white wall. Keep background visual tone consistent across portraits.
-Style: genuine natural photographic look, visible real skin pores, believable asymmetry, relaxed confident small smiles, not glamour retouched, daytime window light, 70mm portrait equivalent.
-Constraints: All six must closely match their individual faces in the reference. Only one person per cell. Six distinct adults, same clothes and scarves. No extra faces, no missing persons, no text, no logo, no watermarks. Landscape 3:2 sheet composed of six equal square frames.
+Use case: precise-object-edit / identity-preserve. Image1 is the EDIT TARGET: the wide illustration of six fictional Iranian coworkers around a desk. Images2 and3 ONLY identify the TWO OLD CHARACTERS to replace; do not copy their screenshots or Preview badges.
+Replace EXACTLY TWO people in image1, all other people and the office stay unchanged:
+A) The old bald MUSTACHED MAN at the FAR RIGHT, wearing a dark brown sweater, identified in image2. Replace him with a 31-year-old Iranian male software engineer, natural good-looking and well groomed, thick short dark hair neatly styled with a modest side part, dark brown eyes, natural masculine face and short tidy stubble. Smart ordinary engineer look: keep his existing dark brown fine-knit crewneck, add a discreet off-white shirt collar. Keep the same seated position, torso scale, hand-at-chin pose and gaze toward the discussion. No suit, tie or flashy accessories.
+B) The mature WOMAN in the TAUPE SCARF standing second from LEFT, identified in image3. Replace her with a 29-year-old Iranian female design engineer, natural good-looking face, healthy unretouched skin, dark eyes, neat dark hair subtly visible at the front of the same taupe scarf, thin tasteful glasses, smart charcoal blouse with a simple tailored stone-gray jacket. Keep the same standing/leaning location, body scale, hands, gaze and expression of attention toward the laptop.
+STRICT INVARIANTS: Keep the bald gray-bearded man WITH GLASSES at the FAR LEFT exactly the same and visibly older. Keep the receding-hairline navy-polo man in CENTER-LEFT exactly the same. Keep the black-scarf woman WITH GLASSES in CENTER-RIGHT exactly the same. Keep the gray-haired OLIVE-OVERSHIRT man standing toward the RIGHT exactly the same. Exactly six people total, FOUR MEN and TWO WOMEN. Do not replace or beautify those other four people. Preserve all desk objects, screens, tea glasses, plants, window, room layout, daylight, camera position and candid working atmosphere of image1.
+Natural realistic phone photograph aesthetic, real pores, believable anatomy, no beauty filter, no fashion-ad polish. Both replacements should look youthful, professional and approachable, dressed like engineers. No text, labels, logos or watermarks. Keep the horizontal 16:9 composition.
+```
+
+## Portrait prompt for the two revised identities
+
+Applied separately with the final group as the reference. Subject substitution:
+
+- 02: `the YOUNG WOMAN standing SECOND FROM LEFT, age29, thin metal-frame glasses, taupe headscarf, dark top and tailored gray jacket`
+- 06: `the YOUNG MAN seated at FAR RIGHT, age31, neatly styled thick short dark hair, tidy stubble, brown crewneck sweater and off-white shirt collar`
+
+```text
+Use case: identity-preserve. Create a single square 1:1 head-and-shoulders portrait of ONLY {subject}, from the provided fictional coworkers illustration. Preserve exactly their face, age, hair, glasses if present, outfit and modest clean engineer style from this reference. Fully visible head, modest headroom, chest and shoulders centered in frame. One person only, no other faces, no collages. Background: the same ordinary softly blurred Iranian software office and natural window daylight, consistent with the existing six role portraits. Camera: colleague's natural phone snapshot at eye level, realistic skin texture and slight asymmetry, warm restrained expression, no glamour lighting or beauty filter, no fashion-model pose, no age change. Professional and approachable, real-world ordinary workplace photography aesthetic. This is a named fictional role illustration, not documentation of a real employee. No text, no labels, no logos, no watermark.
+```
+
+## Portrait prompt for the four retained identities
+
+Applied separately to the base group with the relevant subject description: far-left bald man in checked shirt (01); center-left receding-hairline man in navy polo (03); center-right woman in glasses, black scarf and cardigan (04); standing gray-haired man in olive overshirt (05).
+
+```text
+Use case: identity-preserve. Asset: one square 1:1 natural editorial head-and-shoulders portrait for a website role illustration, not an actual staff directory. Reference: a generated illustration of six fictional adult Iranian coworkers. Subject: ONLY {subject}. Preserve this exact person's identity, age, facial shape, hairline or baldness, glasses if present, body build, ordinary clothing, and natural skin texture from the reference. One person, head fully visible with generous headroom and upper chest, centered at eye level. Their face should be readable in a small website card. Photograph style: ordinary colleague's PHONE camera snapshot in the same modest Iranian software office, soft window daylight, gently blurred practical office background, lived-in skin with pores and fine wrinkles, natural facial asymmetry, relaxed neutral expression or slight restrained smile. Not a fashion headshot. No beauty retouch, no age reduction, no hair restoration, no glam makeup, no perfect model teeth, no cinematic spotlight. Fully clothed modest workwear. Square image, one face only, no text, no logos, no borders, no watermark. No other people or inset images.
 ```
 
 ## Supplied LOXX logo and icon
