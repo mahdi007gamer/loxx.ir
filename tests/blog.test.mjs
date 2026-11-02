@@ -33,7 +33,7 @@ test('live editorial changes are returned without a cache', async t => {
 
 test('network outages use the complete curated content but unknown slugs stay missing', async t => {
   t.mock.method(globalThis, 'fetch', async () => { throw new TypeError('Network unavailable'); });
-  assert.equal((await getPublishedArticles()).length, 9);
+  assert.equal((await getPublishedArticles()).length, curated.filter(article => article.published).length);
   assert.ok((await getArticleBySlug('website-brief')).body.split(/\s+/u).length > 700);
   assert.equal(await getArticleBySlug('missing-article'), null);
 });

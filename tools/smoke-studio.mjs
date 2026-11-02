@@ -14,7 +14,7 @@ const require = createRequire(import.meta.url);
 const root = fileURLToPath(new URL('../', import.meta.url));
 const apiDirectory = path.join(root, 'apps/api');
 const apiPort = 4100; // The Next.js production rewrite defaults to this at build time.
-const expectedArticleCount = 9;
+const expectedArticleCount = JSON.parse(readFileSync(path.join(root, 'content/articles.json'), 'utf8')).filter(post => post.published).length;
 const pause = milliseconds => new Promise(resolve => setTimeout(resolve, milliseconds));
 const within = (promise, milliseconds) => new Promise(resolve => {
   const timer = setTimeout(() => resolve(false), milliseconds);
@@ -56,7 +56,7 @@ async function main() {
     if (!existsSync(path.join(root, file))) throw new Error('A production build is required before this check: missing ' + file);
   }
   const curated = JSON.parse(readFileSync(path.join(root, 'content/articles.json'), 'utf8')).filter(post => post.published);
-  assert.equal(curated.length, expectedArticleCount, 'The release should contain nine published editorial articles.');
+  assert.equal(curated.length, expectedArticleCount, 'The release should contain all published editorial articles.');
   await freePort(apiPort);
   let webPort = await freePort();
   while (webPort === apiPort || webPort === 3000) webPort = await freePort();
@@ -188,7 +188,7 @@ async function main() {
     const listResponse = await request('/api/articles');
     assert.equal(listResponse.status, 200);
     const articles = await listResponse.json();
-    assert.equal(articles.length, expectedArticleCount, 'The proxied API exposes nine stored published articles.');
+    assert.equal(articles.length, expectedArticleCount, 'The proxied API exposes every stored published article.');
     for (const post of curated) assert.ok(articles.some(article => article.slug === post.slug), 'Seeded article is present: ' + post.slug);
     const storedResponse = await request('/api/articles/' + curated[0].slug);
     assert.equal(storedResponse.status, 200);

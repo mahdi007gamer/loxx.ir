@@ -1,0 +1,352 @@
+[
+  {
+    "keyword": "طراحی سایت loxx",
+    "slug": "loxx-design-guide",
+    "title": "طراحی سایت LOXX؛ چطور محدوده کار و کیفیت خروجی را ارزیابی کنیم؟",
+    "category": "راهنمای سفارش",
+    "url": "https://loxx.ir/blog/loxx-design-guide"
+  },
+  {
+    "keyword": "طراحی سایت لوکس",
+    "slug": "luxury-web-design",
+    "title": "طراحی سایت لوکس؛ کیفیتی که از وضوح، جزئیات و اعتماد ساخته می‌شود",
+    "category": "طراحی و تجربه کاربری",
+    "url": "https://loxx.ir/blog/luxury-web-design"
+  },
+  {
+    "keyword": "طراحی سایت لاکس",
+    "slug": "laxx-project-order",
+    "title": "سفارش طراحی سایت لاکس؛ از شرح نیاز تا بازبینی و انتشار",
+    "category": "راهنمای سفارش",
+    "url": "https://loxx.ir/blog/laxx-project-order"
+  },
+  {
+    "keyword": "طراحی سایت برای آنلاین شاپ",
+    "slug": "online-shop-launch",
+    "title": "طراحی سایت برای آنلاین شاپ؛ راه‌اندازی فروشگاه کوچک با عملیات روشن",
+    "category": "فروشگاه اینترنتی",
+    "url": "https://loxx.ir/blog/online-shop-launch"
+  },
+  {
+    "keyword": "طراحی سایت حرفه ای و لوکس",
+    "slug": "professional-luxury-website",
+    "title": "طراحی سایت حرفه‌ای و لوکس؛ جدول امتیاز برای پذیرش خروجی",
+    "category": "طراحی و تجربه کاربری",
+    "url": "https://loxx.ir/blog/professional-luxury-website"
+  },
+  {
+    "keyword": "هزینه طراحی سایت فروشگاهی",
+    "slug": "ecommerce-website-cost",
+    "title": "هزینه طراحی سایت فروشگاهی؛ چه چیزهایی بر برآورد اثر می‌گذارند؟",
+    "category": "بودجه و برنامه‌ریزی",
+    "url": "https://loxx.ir/blog/ecommerce-website-cost"
+  },
+  {
+    "keyword": "قیمت طراحی سایت اختصاصی",
+    "slug": "custom-website-cost",
+    "title": "قیمت طراحی سایت اختصاصی؛ برآورد بر اساس مسئله، الگو و اتصال",
+    "category": "بودجه و برنامه‌ریزی",
+    "url": "https://loxx.ir/blog/custom-website-cost"
+  },
+  {
+    "keyword": "طراحی سایت شرکتی حرفه ای",
+    "slug": "company-website-design",
+    "title": "طراحی سایت شرکتی حرفه‌ای؛ از معرفی خدمات تا درخواست قابل پیگیری",
+    "category": "سایت شرکتی",
+    "url": "https://loxx.ir/blog/company-website-design"
+  },
+  {
+    "keyword": "بازطراحی سایت",
+    "slug": "website-redesign-roadmap",
+    "title": "بازطراحی سایت؛ نقشه راه حفظ دارایی‌ها و اصلاح تجربه کاربر",
+    "category": "توسعه و نگهداری",
+    "url": "https://loxx.ir/blog/website-redesign-roadmap"
+  },
+  {
+    "keyword": "قرارداد طراحی سایت",
+    "slug": "web-design-contract-checklist",
+    "title": "قرارداد طراحی سایت؛ چک‌لیست محدوده، تحویل و مدیریت تغییر",
+    "category": "راهنمای سفارش",
+    "url": "https://loxx.ir/blog/web-design-contract-checklist"
+  },
+  {
+    "keyword": "طراحی سایت اختصاصی یا وردپرس",
+    "slug": "custom-vs-wordpress",
+    "title": "طراحی سایت اختصاصی یا وردپرس؛ انتخاب بر اساس نیاز و توان نگهداری",
+    "category": "انتخاب فناوری",
+    "url": "https://loxx.ir/blog/custom-vs-wordpress"
+  },
+  {
+    "keyword": "طراحی فروشگاه ووکامرس یا اختصاصی",
+    "slug": "woocommerce-vs-custom-store",
+    "title": "طراحی فروشگاه ووکامرس یا اختصاصی؛ از کاتالوگ تا مهاجرت سفارش",
+    "category": "انتخاب فناوری",
+    "url": "https://loxx.ir/blog/woocommerce-vs-custom-store"
+  },
+  {
+    "keyword": "تبدیل پیج اینستاگرام به سایت",
+    "slug": "instagram-to-online-store",
+    "title": "تبدیل پیج اینستاگرام به سایت؛ انتقال فروش با حفظ مسیر مشتری",
+    "category": "فروشگاه اینترنتی",
+    "url": "https://loxx.ir/blog/instagram-to-online-store"
+  },
+  {
+    "keyword": "طراحی سایت فروشگاهی موبایل",
+    "slug": "mobile-shopping-experience",
+    "title": "طراحی سایت فروشگاهی موبایل؛ خرید روان با صفحه کوچک و توجه محدود",
+    "category": "طراحی و تجربه کاربری",
+    "url": "https://loxx.ir/blog/mobile-shopping-experience"
+  },
+  {
+    "keyword": "طراحی صفحه محصول",
+    "slug": "product-page-design",
+    "title": "طراحی صفحه محصول؛ پاسخ به پرسش‌های خرید پیش از افزودن به سبد",
+    "category": "فروشگاه اینترنتی",
+    "url": "https://loxx.ir/blog/product-page-design"
+  },
+  {
+    "keyword": "دسته بندی و فیلتر فروشگاه اینترنتی",
+    "slug": "category-filter-design",
+    "title": "دسته بندی و فیلتر فروشگاه اینترنتی؛ پیدا کردن کالا بدون سردرگمی",
+    "category": "فروشگاه اینترنتی",
+    "url": "https://loxx.ir/blog/category-filter-design"
+  },
+  {
+    "keyword": "طراحی فرایند خرید",
+    "slug": "checkout-ux",
+    "title": "طراحی فرایند خرید؛ از سبد قابل ویرایش تا تأیید سفارش روشن",
+    "category": "تجربه کاربری",
+    "url": "https://loxx.ir/blog/checkout-ux"
+  },
+  {
+    "keyword": "مدیریت سفارش و موجودی سایت",
+    "slug": "inventory-order-management",
+    "title": "مدیریت سفارش و موجودی سایت؛ قواعدی که فروشگاه را قابل اداره می‌کنند",
+    "category": "مدیریت فروشگاه",
+    "url": "https://loxx.ir/blog/inventory-order-management"
+  },
+  {
+    "keyword": "اتصال درگاه پرداخت به سایت",
+    "slug": "online-payment-integration",
+    "title": "اتصال درگاه پرداخت به سایت؛ تأیید امن و جلوگیری از سفارش تکراری",
+    "category": "توسعه فروشگاه",
+    "url": "https://loxx.ir/blog/online-payment-integration"
+  },
+  {
+    "keyword": "طراحی سایت فروش فایل و محصول دیجیتال",
+    "slug": "digital-product-store",
+    "title": "طراحی سایت فروش فایل و محصول دیجیتال؛ دسترسی، نسخه و تحویل قابل پیگیری",
+    "category": "فروشگاه تخصصی",
+    "url": "https://loxx.ir/blog/digital-product-store"
+  },
+  {
+    "keyword": "طراحی سایت فروشگاه پوشاک",
+    "slug": "fashion-online-shop",
+    "title": "طراحی سایت فروشگاه پوشاک؛ اندازه، تنوع و عکس‌هایی که به انتخاب کمک می‌کنند",
+    "category": "فروشگاه تخصصی",
+    "url": "https://loxx.ir/blog/fashion-online-shop"
+  },
+  {
+    "keyword": "طراحی سایت طلا و جواهر",
+    "slug": "jewelry-luxury-store",
+    "title": "طراحی سایت طلا و جواهر؛ نمایش دقیق مشخصات و استعلام با اعتبار روشن",
+    "category": "فروشگاه تخصصی",
+    "url": "https://loxx.ir/blog/jewelry-luxury-store"
+  },
+  {
+    "keyword": "طراحی سایت آرایشی و بهداشتی",
+    "slug": "cosmetics-online-store",
+    "title": "طراحی سایت آرایشی و بهداشتی؛ کاتالوگ روشن بدون ادعای درمانی ساختگی",
+    "category": "فروشگاه تخصصی",
+    "url": "https://loxx.ir/blog/cosmetics-online-store"
+  },
+  {
+    "keyword": "طراحی سایت عمده فروشی",
+    "slug": "b2b-wholesale-website",
+    "title": "طراحی سایت عمده فروشی؛ قیمت، بسته‌بندی و سفارش متناسب با خریدار تجاری",
+    "category": "فروش سازمانی",
+    "url": "https://loxx.ir/blog/b2b-wholesale-website"
+  },
+  {
+    "keyword": "طراحی سایت رزرو خدمات",
+    "slug": "service-booking-website",
+    "title": "طراحی سایت رزرو خدمات؛ ظرفیت واقعی، زمان‌بندی و تغییر نوبت",
+    "category": "نرم‌افزار کسب‌وکار",
+    "url": "https://loxx.ir/blog/service-booking-website"
+  },
+  {
+    "keyword": "تولید محتوای سایت شرکتی",
+    "slug": "corporate-services-content",
+    "title": "تولید محتوای سایت شرکتی؛ پاسخ روشن به پرسش‌های پیش از تماس",
+    "category": "محتوا و سئو",
+    "url": "https://loxx.ir/blog/corporate-services-content"
+  },
+  {
+    "keyword": "طراحی سایت صنعتی",
+    "slug": "industrial-b2b-website",
+    "title": "طراحی سایت صنعتی؛ مشخصات فنی و استعلامی که تیم فروش بتواند بررسی کند",
+    "category": "فروش سازمانی",
+    "url": "https://loxx.ir/blog/industrial-b2b-website"
+  },
+  {
+    "keyword": "طراحی سایت چند زبانه",
+    "slug": "multilingual-website",
+    "title": "طراحی سایت چند زبانه؛ ساختار محتوا، ترجمه و نگهداری نسخه‌ها",
+    "category": "طراحی و توسعه",
+    "url": "https://loxx.ir/blog/multilingual-website"
+  },
+  {
+    "keyword": "طراحی سایت نمونه کار",
+    "slug": "portfolio-website",
+    "title": "طراحی سایت نمونه کار؛ نمایش نقش، مسئله و خروجی قابل ارزیابی",
+    "category": "طراحی و محتوا",
+    "url": "https://loxx.ir/blog/portfolio-website"
+  },
+  {
+    "keyword": "طراحی لندینگ پیج فروش",
+    "slug": "landing-page-campaign",
+    "title": "طراحی لندینگ پیج فروش؛ هماهنگی پیام تبلیغ، پیشنهاد و اقدام بعدی",
+    "category": "تجربه کاربری",
+    "url": "https://loxx.ir/blog/landing-page-campaign"
+  },
+  {
+    "keyword": "طراحی UI UX سایت",
+    "slug": "web-ui-ux-design",
+    "title": "طراحی UI UX سایت؛ از شناخت مسئله تا تحویل قابل اجرا",
+    "category": "طراحی و تجربه کاربری",
+    "url": "https://loxx.ir/blog/web-ui-ux-design"
+  },
+  {
+    "keyword": "طراحی دیزاین سیستم سایت",
+    "slug": "website-design-system",
+    "title": "طراحی دیزاین سیستم سایت؛ قواعدی که تیم واقعاً استفاده می‌کند",
+    "category": "طراحی و تجربه کاربری",
+    "url": "https://loxx.ir/blog/website-design-system"
+  },
+  {
+    "keyword": "طراحی سایت دسترس پذیر",
+    "slug": "website-accessibility",
+    "title": "طراحی سایت دسترس‌پذیر؛ بررسی‌های عملی برای شروع",
+    "category": "طراحی و تجربه کاربری",
+    "url": "https://loxx.ir/blog/website-accessibility"
+  },
+  {
+    "keyword": "طراحی سایت سریع",
+    "slug": "fast-website-design",
+    "title": "طراحی سایت سریع؛ از تشخیص کندی تا بودجه عملکرد",
+    "category": "توسعه و سئو فنی",
+    "url": "https://loxx.ir/blog/fast-website-design"
+  },
+  {
+    "keyword": "بهینه سازی تصاویر سایت",
+    "slug": "website-image-optimization",
+    "title": "بهینه‌سازی تصاویر سایت؛ کیفیت مناسب با بارگیری منطقی",
+    "category": "توسعه و سئو فنی",
+    "url": "https://loxx.ir/blog/website-image-optimization"
+  },
+  {
+    "keyword": "سئو تکنیکال سایت",
+    "slug": "technical-seo-website",
+    "title": "سئو تکنیکال سایت؛ برنامه بررسی از آدرس تا محتوای قابل دسترسی",
+    "category": "توسعه و سئو فنی",
+    "url": "https://loxx.ir/blog/technical-seo-website"
+  },
+  {
+    "keyword": "سئو سایت فروشگاهی",
+    "slug": "ecommerce-seo-architecture",
+    "title": "سئو سایت فروشگاهی؛ معماری دسته، محصول و فیلتر",
+    "category": "توسعه و سئو فنی",
+    "url": "https://loxx.ir/blog/ecommerce-seo-architecture"
+  },
+  {
+    "keyword": "استراتژی محتوا برای سایت خدماتی",
+    "slug": "editorial-content-calendar",
+    "title": "استراتژی محتوا برای سایت خدماتی؛ از پرسش مشتری تا برنامه انتشار",
+    "category": "محتوا و رشد کسب‌وکار",
+    "url": "https://loxx.ir/blog/editorial-content-calendar"
+  },
+  {
+    "keyword": "ساخت سایت مپ و robots.txt",
+    "slug": "sitemap-robots-canonical",
+    "title": "ساخت سایت مپ و robots.txt؛ تصمیم هماهنگ برای آدرس‌های سایت",
+    "category": "توسعه و سئو فنی",
+    "url": "https://loxx.ir/blog/sitemap-robots-canonical"
+  },
+  {
+    "keyword": "انتقال سایت بدون افت سئو",
+    "slug": "website-migration-seo",
+    "title": "انتقال سایت و کاهش ریسک افت سئو؛ برنامه پیش و پس از انتشار",
+    "category": "توسعه و سئو فنی",
+    "url": "https://loxx.ir/blog/website-migration-seo"
+  },
+  {
+    "keyword": "اتصال سایت به CRM",
+    "slug": "custom-crm-integration",
+    "title": "اتصال سایت به CRM؛ از فرم درخواست تا پیگیری قابل اعتماد",
+    "category": "سامانه و عملیات کسب‌وکار",
+    "url": "https://loxx.ir/blog/custom-crm-integration"
+  },
+  {
+    "keyword": "طراحی پنل مدیریت سایت",
+    "slug": "admin-dashboard-design",
+    "title": "طراحی پنل مدیریت سایت؛ تمرکز بر کار روزانه و خطای کمتر",
+    "category": "سامانه و عملیات کسب‌وکار",
+    "url": "https://loxx.ir/blog/admin-dashboard-design"
+  },
+  {
+    "keyword": "تفاوت وب اپلیکیشن و وب سایت",
+    "slug": "web-application-vs-website",
+    "title": "تفاوت وب‌اپلیکیشن و وب‌سایت؛ انتخاب بر اساس کاری که کاربر انجام می‌دهد",
+    "category": "برنامه‌ریزی پروژه",
+    "url": "https://loxx.ir/blog/web-application-vs-website"
+  },
+  {
+    "keyword": "طراحی سایت MVP",
+    "slug": "mvp-website-development",
+    "title": "طراحی سایت MVP؛ نسخه محدودی که یک فرض واقعی را می‌آزماید",
+    "category": "برنامه‌ریزی پروژه",
+    "url": "https://loxx.ir/blog/mvp-website-development"
+  },
+  {
+    "keyword": "امنیت سایت فروشگاهی",
+    "slug": "website-security-checklist",
+    "title": "امنیت سایت فروشگاهی؛ چک‌لیست دسترسی، سفارش و نگهداری",
+    "category": "نگهداری و امنیت",
+    "url": "https://loxx.ir/blog/website-security-checklist"
+  },
+  {
+    "keyword": "پشتیبانی و نگهداری سایت",
+    "slug": "website-backup-maintenance",
+    "title": "پشتیبانی و نگهداری سایت؛ برنامه‌ای که بعد از انتشار لازم دارید",
+    "category": "نگهداری و تحویل",
+    "url": "https://loxx.ir/blog/website-backup-maintenance"
+  },
+  {
+    "keyword": "مدت زمان طراحی سایت",
+    "slug": "web-design-project-timeline",
+    "title": "مدت زمان طراحی سایت؛ زمان‌بندی بر اساس وابستگی‌ها",
+    "category": "برآورد و همکاری",
+    "url": "https://loxx.ir/blog/web-design-project-timeline"
+  },
+  {
+    "keyword": "چک لیست تحویل سایت",
+    "slug": "website-handover-checklist",
+    "title": "چک‌لیست تحویل سایت؛ از فرم و موبایل تا دسترسی و بازیابی",
+    "category": "نگهداری و تحویل",
+    "url": "https://loxx.ir/blog/website-handover-checklist"
+  },
+  {
+    "keyword": "افزایش نرخ تبدیل سایت",
+    "slug": "website-conversion-measurement",
+    "title": "افزایش نرخ تبدیل سایت؛ از اندازه‌گیری درست تا اصلاح مسیر",
+    "category": "تجربه کاربری و رشد",
+    "url": "https://loxx.ir/blog/website-conversion-measurement"
+  },
+  {
+    "keyword": "انتخاب شرکت طراحی سایت",
+    "slug": "web-design-agency-selection",
+    "title": "انتخاب شرکت طراحی سایت؛ مقایسه پیشنهادها با شواهد",
+    "category": "برآورد و همکاری",
+    "url": "https://loxx.ir/blog/web-design-agency-selection"
+  }
+]

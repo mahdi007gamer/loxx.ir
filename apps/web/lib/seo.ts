@@ -41,7 +41,7 @@ export function jsonLd(value: unknown) { return JSON.stringify(value).replace(/<
 
 export const organizationSchema = {
   '@context': 'https://schema.org', '@type': 'Organization', '@id': absoluteUrl('/#organization'),
-  name: 'LOXX', alternateName: ['لوکس', 'LOXX Digital Product Studio'], url: siteUrl,
+  name: 'LOXX', alternateName: ['لوکس', 'لاکس', 'LOXX Digital Product Studio'], url: siteUrl,
   logo: absoluteUrl('/brand/loxx-symbol.webp'),
   description: 'استودیو طراحی و توسعه وب‌سایت، اپلیکیشن و نرم‌افزارهای اختصاصی؛ از تعریف مسئله تا ساخت و توسعه محصول.',
   telephone: contactPhone,
