@@ -4,6 +4,7 @@ export type MarkdownBlock =
   | { type: 'heading'; level: number; text: string; id: string }
   | { type: 'paragraph' | 'quote' | 'code'; text: string }
   | { type: 'list'; ordered: boolean; items: string[] }
+  | { type: 'image'; src: string; alt: string; caption: string }
   | { type: 'table'; rows: string[][] };
 
 export function parseArticle(body: string): MarkdownBlock[] {
@@ -13,6 +14,8 @@ export function parseArticle(body: string): MarkdownBlock[] {
   for (let i = 0; i < lines.length;) {
     const line = lines[i].trim();
     if (!line) { i++; continue; }
+    const image = line.match(/^!\[([^\]]{1,300})\]\((\/images\/[a-zA-Z0-9_/-]+\.(?:webp|png|jpe?g|avif))(?:\s+"([^"\r\n]{0,500})")?\)$/);
+    if (image) { blocks.push({ type: 'image', src: image[2], alt: image[1], caption: image[3] || '' }); i++; continue; }
     const heading = line.match(/^(#{1,4})\s+(.+)$/);
     if (heading) { blocks.push({ type: 'heading', level: Math.max(2, heading[1].length), text: heading[2], id: 'section-' + (++headingCount) }); i++; continue; }
     if (line.startsWith('```')) {
@@ -67,6 +70,7 @@ export function inlineMarkdown(text: string): ReactNode[] {
 export function ArticleBody({ blocks }: { blocks: MarkdownBlock[] }) {
   return <>{blocks.map((block, index) => {
     if (block.type === 'heading') return block.level === 2 ? <h2 id={block.id} key={index}>{inlineMarkdown(block.text)}</h2> : block.level === 3 ? <h3 id={block.id} key={index}>{inlineMarkdown(block.text)}</h3> : <h4 id={block.id} key={index}>{inlineMarkdown(block.text)}</h4>;
+    if (block.type === 'image') return <figure className="article-inline-image" key={index}><img src={block.src} alt={block.alt} width="1600" height="900" loading="lazy" decoding="async"/>{block.caption && <figcaption>{block.caption}</figcaption>}</figure>;
     if (block.type === 'list') return block.ordered ? <ol key={index}>{block.items.map((item, n) => <li key={n}>{inlineMarkdown(item)}</li>)}</ol> : <ul key={index}>{block.items.map((item, n) => <li key={n}>{inlineMarkdown(item)}</li>)}</ul>;
     if (block.type === 'table') return <div className="article-table-wrap" key={index}><table><thead><tr>{block.rows[0].map((cell, n) => <th key={n}>{inlineMarkdown(cell)}</th>)}</tr></thead><tbody>{block.rows.slice(1).map((row, n) => <tr key={n}>{row.map((cell, c) => <td key={c}>{inlineMarkdown(cell)}</td>)}</tr>)}</tbody></table></div>;
     if (block.type === 'code') return <pre key={index}><code>{block.text}</code></pre>;

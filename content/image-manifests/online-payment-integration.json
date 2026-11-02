@@ -1,0 +1,47 @@
+{
+  "slug": "online-payment-integration",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "role": "cover",
+      "file": "apps/web/public/images/articles/online-payment-integration/cover.webp",
+      "prompt": "Use case: stylized-concept. Asset type: original premium editorial cover for a Persian web development article about server-side online payment verification. Create one wide 16:9 clean cinematic 3D still, no collage. On a midnight teal stone workbench a small ivory ecommerce parcel sits on a low mechanical order platform, with a brushed-metal server terminal behind it. A cyan luminous solid transaction token travels on a clearly visible closed oval glass rail from a second brushed metal payment terminal back to the server terminal; the rail has just connected at a precise inspection aperture beside the parcel. Tell a cautious verification story: parcel is stationary awaiting the verification route, not flying or being delivered; no implied guaranteed security or profit. Centrally crop-safe composition, three-quarter product photography camera, token and parcel as key subjects, ample quiet dark teal negative space, tactile brushed aluminum, frosted glass and smooth ivory paper. Palette #001014 and #031b22, carefully controlled #00dfd6 and #76e8db edge illumination, restrained warm ivory. Polished premium LOXX brand atmosphere, realistic controlled studio lighting, sophisticated sparse composition, no generic laptop, no padlock or shield. No text, letters, numbers, currency symbols, logos, watermarks, actual customer or gateway details, fake screens, statistics or charts.",
+      "alt": "بسته سفارش روی سکوی فلزی در کنار دو پایانه و مسیر حلقه‌ای توکن روشن پرداخت",
+      "caption": "نمای مفهومی چرخه پرداخت؛ تکمیل سفارش به نتیجه معتبر تأیید سمت سرور وابسته است.",
+      "afterHeading": "",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "acc2e8ccf57e8c9804e765f2e7009f83d402ea5774f0946d604c18bea3d5ff9d",
+      "sha256": "722cb30aaff833952787bd082a14b88a652b7c2e2fe733968aae11ba801834a7",
+      "bytes": 142748
+    },
+    {
+      "role": "detail-1",
+      "file": "apps/web/public/images/articles/online-payment-integration/detail-1.webp",
+      "prompt": "Use case: stylized-concept. Asset type: original inline explanatory editorial image for an article section about payment as a state machine and server verification, distinct from a cover. One wide 16:9 beautifully staged physical kinetic mechanism on a midnight teal matte tabletop, viewed at a low oblique angle. An ivory spherical payment token rests in a translucent frosted holding cradle in the center; behind it a small circular track leads through a brushed-metal inspection aperture; only after that aperture does one cyan illuminated path connect to an empty mint-rimmed final cradle at right. A separate unlit side loop bends back into the holding cradle to represent retry and uncertain network response, without treating a browser return as confirmation. The path is physically coherent, elegantly sparse and legible, a conceptual machine not an actual product diagram. Clear separation between pending holding area, verification aperture and final cradle, no invented status labels. Refined editorial 3D with tactile metal, milky glass, warm ivory ceramic, midnight teal #001014 and #031b22 with restrained mint cyan #00dfd6 and #76e8db practical lighting. Rich shadows and intentional negative space, clean premium finish. No words, letters, numbers, logos, watermarks, dollar signs, clocks, fake software interfaces, charts, padlocks, shields or financial guarantees.",
+      "alt": "گوی پرداخت در جایگاه انتظار با مسیر بررسی فلزی و حلقه بازگشت برای تلاش مجدد",
+      "caption": "وضعیت نامشخص تا دریافت نتیجه معتبر در مسیر بررسی می‌ماند.",
+      "afterHeading": "پرداخت را ماشین وضعیت ببینید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "eeaae6a8703ad333e43579181c1ae7f4fb82596d04847491ac930a4e0e8b2892",
+      "sha256": "327a15b563515d65aea554900e50da51e55b23643c6a0177682a1eb676c6046a",
+      "bytes": 94860
+    },
+    {
+      "role": "detail-2",
+      "file": "apps/web/public/images/articles/online-payment-integration/detail-2.webp",
+      "prompt": "Use case: stylized-concept. Asset type: original inline editorial explanatory image about idempotent payment notification processing, distinctly different scene and camera from other assets. Create one wide 16:9 premium photorealistic 3D tabletop scene viewed almost from directly above. Three identical small round frosted-glass notification tokens approach along three parallel narrow grooves from the left; the grooves merge into a single precise brushed-metal one-way mechanical gate in the central frame. Beyond that gate at right is EXACTLY ONE warm ivory ecommerce parcel in a single fitted mint-lit order tray; no second parcel, no duplication of inventory. The gate shows a single round token seated in its recess, indicating repeated notifications reuse a recorded result and produce one operational order effect, not accumulating money. Physically elegant tangible conceptual teaching scene, quiet midnight teal #001014 tabletop, #031b22 shadows, tiny accents of #00dfd6 and #76e8db, ivory paper parcel, frosted glass and satin brushed metal, controlled studio lighting with soft shadows, low visual noise, ample space. No screens, words, letters, numerals, currency marks, logos, watermark, stock charts, financial promises, shields or generic laptops. This is an abstract editorial illustration, not an actual gateway interface.",
+      "alt": "سه مسیر اعلان تکراری که در یک دروازه ادغام می‌شوند و تنها به یک بسته سفارش می‌رسند",
+      "caption": "اعلان‌های تکراری باید فقط یک اثر عملیاتی بر سفارش ایجاد کنند.",
+      "afterHeading": "اثر درخواست تکراری را کنترل کنید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "3bc3c2c7c0f40b3d4a8eff45ed5edd4f409a185643d6c8b50d8f8806a0bd00a0",
+      "sha256": "356db5b44a4e3379f3ad7892de5a67cd8da0e7c0352a9af976505cdd7b4c2abd",
+      "bytes": 86028
+    }
+  ],
+  "optimizedFormat": "WebP",
+  "optimizedQuality": 86
+}

@@ -1,0 +1,1452 @@
+[
+  {
+    "slug": "admin-dashboard-design",
+    "cover": {
+      "alt": "کنسول شیشه‌ای با کارت‌های کار در سه ردیف اولویت و نشانگرهای نعنایی روی میز تیره",
+      "caption": "نمای مفهومی از پنلی که کارهای نیازمند اقدام را در اولویت قرار می‌دهد.",
+      "width": 1672,
+      "height": 941,
+      "afterHeading": "",
+      "src": "/images/articles/admin-dashboard-design/cover.webp"
+    },
+    "inline": [
+      {
+        "alt": "سه سینی جداگانه با کاغذ، مداد و مهر تأیید و کلیدهای هندسی متفاوت برای نقش‌های کاری",
+        "caption": "هر نقش باید ابزار و اختیار متناسب با مسئولیت خود داشته باشد.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "نقش را به اختیار واقعی ترجمه کنید",
+        "src": "/images/articles/admin-dashboard-design/detail-1.webp"
+      },
+      {
+        "alt": "بسته پستی کنار کارت مقصد با قطعه ناقص، کارت کامل نعنایی و نشانگرهای بررسی و اصلاح و تأیید",
+        "caption": "نمای مفهومی اصلاح اطلاعات ناقص سفارش و ثبت مسیر تغییر وضعیت.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "مثال فرضی: رسیدگی به سفارش مشکل‌دار",
+        "src": "/images/articles/admin-dashboard-design/detail-2.webp"
+      }
+    ]
+  },
+  {
+    "slug": "b2b-wholesale-website",
+    "cover": {
+      "alt": "کارتن باز حاوی لوازم بسته‌بندی کنار پوشه پیش‌فاکتور و پالت‌های آماده ارسال در انبار",
+      "caption": "نمای مفهومی از پیوند واحد بسته‌بندی، پیش‌فاکتور و آماده‌سازی سفارش عمده.",
+      "width": 1672,
+      "height": 941,
+      "afterHeading": "",
+      "src": "/images/articles/b2b-wholesale-website/cover.webp"
+    },
+    "inline": [
+      {
+        "alt": "سه گروه با تعداد افزایشی کارتن در کنار دفتر حساب تجاری و نمونه لفاف محافظ روی میز سبز تیره",
+        "caption": "مرز تعداد و شرایط حساب تجاری باید پیش از تأیید سفارش روشن باشد.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "نمایش قیمت را با گروه مشتری هماهنگ کنید",
+        "src": "/images/articles/b2b-wholesale-website/detail-1.webp"
+      },
+      {
+        "alt": "کارتن حاوی بسته‌های لفاف محافظ با نوار نعنایی، پوشه‌های پیش‌فاکتور و پالت آماده ارسال",
+        "caption": "در سفارش لوازم بسته‌بندی، تعداد بسته، تعداد واحد و نسخه پیش‌فاکتور باید هماهنگ بمانند.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "مثال فرضی: سفارش لوازم بسته‌بندی",
+        "src": "/images/articles/b2b-wholesale-website/detail-2.webp"
+      }
+    ]
+  },
+  {
+    "slug": "category-filter-design",
+    "cover": {
+      "alt": "نمایش دسته‌های کفش، چراغ و کیف در فضای نمایشگاهی با مسیرهای نورانی و قاب‌های شیشه‌ای",
+      "caption": "دسته‌های روشن و مسیرهای قابل فهم، یافتن کالای مناسب را آسان می‌کنند.",
+      "width": 1672,
+      "height": 941,
+      "afterHeading": "",
+      "src": "/images/articles/category-filter-design/cover.webp"
+    },
+    "inline": [
+      {
+        "alt": "کفش‌های متفاوت از نظر رنگ و مدل با مرزهای شیشه‌ای انتخاب دو کفش روشن",
+        "caption": "فیلتر مفید از ویژگی‌های واقعی و قابل مقایسه محصول ساخته می‌شود.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "فیلترها را از سؤال خرید استخراج کنید",
+        "src": "/images/articles/category-filter-design/detail-1.webp"
+      },
+      {
+        "alt": "مسیر نورانی از میان دروازه‌های شیشه‌ای به چادر مناسب در میان چند مدل چادر",
+        "caption": "در حالت بدون نتیجه، حذف یک محدودیت باید مسیر انتخاب را دوباره باز کند.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "مثال فرضی: فروشگاه تجهیزات سفر",
+        "src": "/images/articles/category-filter-design/detail-2.webp"
+      }
+    ]
+  },
+  {
+    "slug": "checkout-ux",
+    "cover": {
+      "alt": "مسیر پیوسته سبد خرید، تعیین مقصد و بسته سفارش تأییدشده در فضای سبز تیره",
+      "caption": "در هر مرحله خرید، انتخاب کالا و وضعیت بعدی باید روشن بماند.",
+      "width": 1672,
+      "height": 941,
+      "afterHeading": "",
+      "src": "/images/articles/checkout-ux/cover.webp"
+    },
+    "inline": [
+      {
+        "alt": "کیف روشن در کنار دو بسته‌بندی متفاوت روی مسیرهای ارسال کوتاه و منحنی",
+        "caption": "تفاوت شیوه‌های تحویل را پیش از تصمیم نهایی مشتری روشن کنید.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "هزینه و ارسال را زود روشن کنید",
+        "src": "/images/articles/checkout-ux/detail-1.webp"
+      },
+      {
+        "alt": "توکن نشانی کنار جای خالی خود با راهنمای نوری و سبد خرید دست‌نخورده",
+        "caption": "اصلاح یک فیلد نباید اطلاعات صحیح یا محتویات سبد را پاک کند.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "فرم کوتاه، اما قابل بازیابی بسازید",
+        "src": "/images/articles/checkout-ux/detail-2.webp"
+      }
+    ]
+  },
+  {
+    "slug": "company-website-design",
+    "cover": {
+      "alt": "پذیرش شرکتی با میز سنگی روشن، دیوار نمایش نمونه‌ها و مسیر نورانی فیروزه‌ای",
+      "caption": "تصویر مفهومی از معرفی روشن شرکت و هدایت مخاطب به گفت‌وگو.",
+      "width": 1672,
+      "height": 941,
+      "afterHeading": "",
+      "src": "/images/articles/company-website-design/cover.webp"
+    },
+    "inline": [
+      {
+        "alt": "پرونده‌های منظم خدمات شامل نقشه معماری، قطعات فلزی و نمونه‌های متریال روی میز سنگی",
+        "caption": "خروجی و محدوده هر خدمت را با نمونه‌های مرتبط و قابل فهم توضیح دهید.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "برای هر خدمت یک مسیر روشن بسازید",
+        "src": "/images/articles/company-website-design/detail-1.webp"
+      },
+      {
+        "alt": "فرم شیشه‌ای بدون نوشته و پاکت درخواست در مسیر نورانی به سینی پیگیری روی میز مسئول پاسخ‌گویی",
+        "caption": "پس از ثبت فرم، درخواست باید مقصد و مسئول پیگیری مشخصی داشته باشد.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "فرم را برای ادامه گفت‌وگو طراحی کنید",
+        "src": "/images/articles/company-website-design/detail-2.webp"
+      }
+    ]
+  },
+  {
+    "slug": "corporate-services-content",
+    "cover": {
+      "alt": "پرونده باز خدمات با کارت‌های برجسته، قطعه فلزی و نمونه‌های مواد روی میز سبز تیره",
+      "caption": "تصویر مفهومی از پیوند معرفی خدمت با خروجی‌ها و شواهد ملموس.",
+      "width": 1672,
+      "height": 941,
+      "afterHeading": "",
+      "src": "/images/articles/corporate-services-content/cover.webp"
+    },
+    "inline": [
+      {
+        "alt": "پنج کارت خالی متصل در کنار قطعات مکانیکی، پوشه بررسی و نمونه‌های پارچه و فلز",
+        "caption": "ترتیب صفحه خدمات باید خروجی‌ها و مراحل واقعی همکاری را روشن کند.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "صفحه خدمات را با ترتیب تصمیم بسازید",
+        "src": "/images/articles/corporate-services-content/detail-1.webp"
+      },
+      {
+        "alt": "موتور بازشده و سه کارت درخواست در مسیر نورانی به میز گفت‌وگو",
+        "caption": "مثال فرضی نگهداری تجهیزات: اطلاعات دستگاه و محدوده خدمت پیش از گفت‌وگو مشخص می‌شود.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "مثال فرضی: شرکت خدمات نگهداری تجهیزات",
+        "src": "/images/articles/corporate-services-content/detail-2.webp"
+      }
+    ]
+  },
+  {
+    "slug": "cosmetics-online-store",
+    "cover": {
+      "alt": "بطری پمپی سبز تیره، ظرف کرم و دو تیوب بی‌نشان کنار نمونه بافت کرم روی سکوی سنگی",
+      "caption": "چیدمان مفهومی محصولات آرایشی با بسته‌بندی و بافت‌های قابل تشخیص.",
+      "width": 1672,
+      "height": 941,
+      "afterHeading": "",
+      "src": "/images/articles/cosmetics-online-store/cover.webp"
+    },
+    "inline": [
+      {
+        "alt": "بطری آرایشی و جعبه‌های باز عاجی کنار ذره‌بین روی نقش برجسته بسته‌بندی",
+        "caption": "تصویر مفهومی بازبینی بسته‌بندی به‌عنوان منبع اطلاعات محصول.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "اطلاعات معتبر را از توصیه شخصی جدا کنید",
+        "src": "/images/articles/cosmetics-online-store/detail-1.webp"
+      },
+      {
+        "alt": "هشت تیوب آرایشی در دو اندازه با درپوش‌های صورتی، آجری، بژ و ارغوانی روی دو طبقه شیشه‌ای",
+        "caption": "دو اندازه و چهار رنگ، هشت گونه متمایز برای مدیریت تصویر و موجودی می‌سازند.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "مثال فرضی: محصول با دو حجم و چند رنگ",
+        "src": "/images/articles/cosmetics-online-store/detail-2.webp"
+      }
+    ]
+  },
+  {
+    "slug": "custom-crm-integration",
+    "cover": {
+      "alt": "کارت درخواست روی مسیر نورانی از درگاه شیشه‌ای به سینی‌های پرونده روی میز کارشناس منتقل می‌شود",
+      "caption": "نمای مفهومی مسیر درخواست از سایت تا محل پیگیری در CRM.",
+      "width": 1672,
+      "height": 941,
+      "afterHeading": "",
+      "src": "/images/articles/custom-crm-integration/cover.webp"
+    },
+    "inline": [
+      {
+        "alt": "نشان یک مشتری بالای دروازه بررسی کارت‌ها و سینی‌های جداگانه درخواست روی میز سبز تیره قرار دارد",
+        "caption": "تفکیک هویت مشتری از درخواست‌ها، پایه تشخیص ثبت تکراری است.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "واحد ثبت و تشخیص تکرار را تعریف کنید",
+        "src": "/images/articles/custom-crm-integration/detail-1.webp"
+      },
+      {
+        "alt": "سه پاکت درخواست زیر پوشش شیشه‌ای در صف مانده‌اند و اتصال جداشده مسیر انتقال به سینی مقصد را متوقف کرده است",
+        "caption": "در قطعی موقت اتصال، درخواست‌ها باید در صفی قابل پیگیری حفظ شوند.",
+        "width": 1672,
+        "height": 940,
+        "afterHeading": "قطع ارتباط باید سناریوی طراحی باشد",
+        "src": "/images/articles/custom-crm-integration/detail-2.webp"
+      }
+    ]
+  },
+  {
+    "slug": "custom-vs-wordpress",
+    "cover": {
+      "alt": "دو سازه مینیاتوری سنگی و شیشه‌ای؛ یکی ماژولار و دیگری با فرم اختصاصی، روی یک میز پیوسته",
+      "caption": "انتخاب میان ابزار آماده و توسعه اختصاصی به تناسب نیاز و توان نگهداری بستگی دارد.",
+      "width": 1672,
+      "height": 941,
+      "afterHeading": "",
+      "src": "/images/articles/custom-vs-wordpress/cover.webp"
+    },
+    "inline": [
+      {
+        "alt": "شابلون شیشه‌ای فیروزه‌ای هم‌راستا با اجزای یک ساختار محتوایی و شاخه منحنی اختصاصی",
+        "caption": "مدل محتوا و جریان کار واقعی را پیش از انتخاب ابزار با یک نمونه کوچک بسنجید.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "نیاز محتوا را از نیاز نرم‌افزاری جدا کنید",
+        "src": "/images/articles/custom-vs-wordpress/detail-1.webp"
+      },
+      {
+        "alt": "سازه باز و قابل سرویس با قطعات ماژولار جداشدنی و اتصال‌های فلزی یک بخش منحنی شیشه‌ای",
+        "caption": "هزینه تغییر و مسئولیت نگهداری برای قطعات آماده و اتصال‌های اختصاصی باید از ابتدا روشن باشد.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "هزینه تغییر را کنار هزینه شروع ببینید",
+        "src": "/images/articles/custom-vs-wordpress/detail-2.webp"
+      }
+    ]
+  },
+  {
+    "slug": "custom-website-cost",
+    "cover": {
+      "alt": "ماکت معماری سایت با پنل‌های سفارشی و ابزار اندازه‌گیری روی زمینه سبز تیره",
+      "caption": "دامنه طراحی اختصاصی را با اجزای موردنیاز و رفتار آن‌ها تعریف کنید.",
+      "width": 1672,
+      "height": 941,
+      "afterHeading": "",
+      "src": "/images/articles/custom-website-cost/cover.webp"
+    },
+    "inline": [
+      {
+        "alt": "اتصال هسته شیشه‌ای برنامه به بایگانی کارت‌ها، صفحه زمان‌بندی و ابزار فنی با کابل‌های فیروزه‌ای",
+        "caption": "اتصال هر سامانه و انتقال داده‌های قبلی باید جداگانه بررسی و برآورد شود.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "اتصال‌ها و داده‌های قبلی را زود بررسی کنید",
+        "src": "/images/articles/custom-website-cost/detail-1.webp"
+      },
+      {
+        "alt": "طرح اصلی سایت در سینی مرکزی و قابلیت‌های تقویم و محتوای بیشتر در دو سینی جدا",
+        "caption": "ابتدا هسته ضروری سایت را کامل کنید و قابلیت‌های کم‌اولویت را به مرحله بعد بسپارید.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "پیشنهادها را با این پرسش‌ها هم‌تراز کنید",
+        "src": "/images/articles/custom-website-cost/detail-2.webp"
+      }
+    ]
+  },
+  {
+    "slug": "digital-product-store",
+    "cover": {
+      "alt": "ورق‌های شیشه‌ای تصویر، قالب ارائه و فایل صوتی در جعبه تحویل متصل به کتابخانه خریدار",
+      "caption": "تحویل محصول دیجیتال باید نوع فایل و مسیر دسترسی خریدار را روشن کند.",
+      "width": 1672,
+      "height": 941,
+      "afterHeading": "",
+      "src": "/images/articles/digital-product-store/cover.webp"
+    },
+    "inline": [
+      {
+        "alt": "بسته فایل در مخزن جداگانه و مسیر دریافت زمان‌دار از دروازه ساعت‌شنی به سینی خریدار",
+        "caption": "مجوز دریافت با مدت اعتبار مشخص، از نشانی ثابت مخزن فایل جدا می‌شود.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "دسترسی را از محل ذخیره فایل جدا کنید",
+        "src": "/images/articles/digital-product-store/detail-1.webp"
+      },
+      {
+        "alt": "پوشه قالب ارائه با صفحات هندسی، لایه‌های ویرایش‌پذیر و راهنمای تصویری در کنار نسخه تازه",
+        "caption": "در نمونه بسته قالب ارائه، فایل قابل ویرایش، راهنما و نسخه عرضه‌شده باید مشخص باشند.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "مثال فرضی: فروش بسته قالب ارائه",
+        "src": "/images/articles/digital-product-store/detail-2.webp"
+      }
+    ]
+  },
+  {
+    "slug": "ecommerce-seo-architecture",
+    "cover": {
+      "alt": "نمایشگاه چندطبقه با بخش‌های کفش، پوشاک و لوازم خانه و مسیرهای ارتباطی روشن",
+      "caption": "دسته‌بندی روشن، ارتباط میان خانواده کالاها و صفحه‌های محصول را قابل فهم می‌کند.",
+      "width": 1672,
+      "height": 941,
+      "afterHeading": "",
+      "src": "/images/articles/ecommerce-seo-architecture/cover.webp"
+    },
+    "inline": [
+      {
+        "alt": "دو گروه کفش ورزشی و روزمره در قاب‌های شفاف روی سنگ سبز تیره",
+        "caption": "دسته‌های معنادار را از ترکیب‌های موقت فیلتر جدا کنید تا هر صفحه نقش مشخصی داشته باشد.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "همه ترکیب‌های فیلتر صفحه محتوایی نیستند",
+        "src": "/images/articles/ecommerce-seo-architecture/detail-1.webp"
+      },
+      {
+        "alt": "جایگاه خالی یک مدل کفش با طرح محصول روی شیشه و دو مدل جایگزین در کنار آن",
+        "caption": "برای کالای ناموجود، اطلاعات مفید را حفظ کنید و جایگزین‌های مرتبط را روشن نشان دهید.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "برای موجودی و حذف کالا سیاست داشته باشید",
+        "src": "/images/articles/ecommerce-seo-architecture/detail-2.webp"
+      }
+    ]
+  },
+  {
+    "slug": "ecommerce-website-cost",
+    "cover": {
+      "alt": "ماکت فروشگاه با قفسه محصولات، ایستگاه بسته‌بندی و پایانه پرداخت متصل با مسیر نور فیروزه‌ای",
+      "caption": "دامنه فروشگاه، کاتالوگ کالا، عملیات ارسال و پرداخت را با هم در بر می‌گیرد.",
+      "width": 1672,
+      "height": 941,
+      "afterHeading": "",
+      "src": "/images/articles/ecommerce-website-cost/cover.webp"
+    },
+    "inline": [
+      {
+        "alt": "کتاب ساده در کنار پیراهن، نمونه رنگ پارچه و بسته‌بندی برای مقایسه پیچیدگی کالا",
+        "caption": "تنوع رنگ، اندازه و بسته‌بندی می‌تواند حجم کار را بیش از تعداد عنوان کالا تغییر دهد.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "پیچیدگی مدل کالا را مشخص کنید",
+        "src": "/images/articles/ecommerce-website-cost/detail-1.webp"
+      },
+      {
+        "alt": "ابزار طراحی، سرور و ابزار نگهداری روی سه سکوی سنگی پیوسته",
+        "caption": "در برآورد، هزینه ساخت اولیه را از بهره‌برداری و نگهداری جدا کنید.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "هزینه ساخت و هزینه استفاده را جدا ثبت کنید",
+        "src": "/images/articles/ecommerce-website-cost/detail-2.webp"
+      }
+    ]
+  },
+  {
+    "slug": "editorial-content-calendar",
+    "cover": {
+      "alt": "میز برنامه‌ریزی محتوا با کارت‌های موضوعی روی ریل، دفتر خالی و ابزار کنار تلفن مشتری",
+      "caption": "تقویم کاربردی، پرسش‌های واقعی مشتری را به موضوع‌های مستقل و قابل بررسی تبدیل می‌کند.",
+      "width": 1672,
+      "height": 940,
+      "afterHeading": "",
+      "src": "/images/articles/editorial-content-calendar/cover.webp"
+    },
+    "inline": [
+      {
+        "alt": "دفتر راهنمای جزئیات یک قطعه مکانیکی در کنار مجموعه ابزار کامل خدمات و روبان ارتباطی",
+        "caption": "مقاله یک پرسش محدود را پاسخ می‌دهد و صفحه خدمت، محدوده و مسیر دریافت خدمت را روشن می‌کند.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "مقاله و صفحه خدمت نقش متفاوت دارند",
+        "src": "/images/articles/editorial-content-calendar/detail-1.webp"
+      },
+      {
+        "alt": "سه سینی کاغذ و ذره‌بین روی میز سبز تیره در یک مسیر حلقه‌ای بازبینی محتوا",
+        "caption": "انتشار با بازبینی، دریافت بازخورد و اصلاح محتوای قبلی ادامه پیدا می‌کند.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "انتشار را پایان کار ندانید",
+        "src": "/images/articles/editorial-content-calendar/detail-2.webp"
+      }
+    ]
+  },
+  {
+    "slug": "fashion-online-shop",
+    "cover": {
+      "alt": "پالتوی بلند سبز تیره کنار پیراهن شیری و بافت نعنایی روی پایه‌های سنگی",
+      "caption": "نمایش فرم، بافت و تفاوت لباس‌ها به انتخاب آگاهانه کمک می‌کند.",
+      "width": 1672,
+      "height": 941,
+      "afterHeading": "",
+      "src": "/images/articles/fashion-online-shop/cover.webp"
+    },
+    "inline": [
+      {
+        "alt": "پیراهن شیری روی میز با نوارهای ساده برای نمایش طول و عرض لباس و مانکن پوشیده در پس‌زمینه",
+        "caption": "نمای مفهومی از محل سنجش طول و عرض لباس؛ راهنمای اندازه باید به همان محصول مربوط باشد.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "راهنمای اندازه را به همان لباس وصل کنید",
+        "src": "/images/articles/fashion-online-shop/detail-1.webp"
+      },
+      {
+        "alt": "سه مانتوی سبز تیره با قدهای کوتاه، متوسط و بلند روی رگال و پارچه‌های تاخورده در کنار آن",
+        "caption": "نمای مفهومی یک مدل مانتو با سه قد؛ انتخاب قد باید همراه اندازه و رنگ ثبت شود.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "مثال فرضی: فروش مانتو با سه قد",
+        "src": "/images/articles/fashion-online-shop/detail-2.webp"
+      }
+    ]
+  },
+  {
+    "slug": "fast-website-design",
+    "cover": {
+      "alt": "ساختار سبک صفحات وب با قاب‌های روشن و مسیر پیوسته نور فیروزه‌ای روی پایه سنگی",
+      "caption": "ساختار سبک و مسیر روشن، پایه تجربه سریع و قابل استفاده است.",
+      "width": 1672,
+      "height": 941,
+      "afterHeading": "",
+      "src": "/images/articles/fast-website-design/cover.webp"
+    },
+    "inline": [
+      {
+        "alt": "قاب روشن تصویر اصلی با گلدان سرامیکی در جلو و قاب‌های فرعی روی ریل‌های عقب",
+        "caption": "محتوای لازم برای نمای نخست باید پیش از بخش‌های فرعی آماده شود.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "گلوگاه را قبل از راه‌حل نام ببرید",
+        "src": "/images/articles/fast-website-design/detail-1.webp"
+      },
+      {
+        "alt": "دکمه عاجی با اتصال نورانی کوتاه به نمایشگر و صفحه‌های تصویری روی ریل جداگانه",
+        "caption": "تعامل کاربر و بارگیری محتوای سنگین را می‌توان با اولویت‌های جدا مدیریت کرد.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "مثال فرضی: صفحه معرفی پروژه سنگین",
+        "src": "/images/articles/fast-website-design/detail-2.webp"
+      }
+    ]
+  },
+  {
+    "slug": "industrial-b2b-website",
+    "cover": {
+      "alt": "مجموعه فلزی ماشین‌کاری‌شده با فلنج و اتصال برنجی روی پایه تیره با نور فیروزه‌ای",
+      "caption": "تصویر مفهومی ارائه محصول صنعتی با تمرکز بر جزئیات قابل بررسی.",
+      "width": 1672,
+      "height": 941,
+      "afterHeading": "",
+      "src": "/images/articles/industrial-b2b-website/cover.webp"
+    },
+    "inline": [
+      {
+        "alt": "سه کوپلینگ فلزی با قطرهای متفاوت در کنار کولیس و نمونه برش‌خورده",
+        "caption": "مقایسه ابعاد و ساختار قطعات، پایه ارائه مشخصات فنی یکدست است.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "جدول مشخصات را قابل مقایسه کنید",
+        "src": "/images/articles/industrial-b2b-website/detail-1.webp"
+      },
+      {
+        "alt": "اتصالات صنعتی متفاوت، دوربین و پرونده خالی روی میز بررسی کنار خط بسته‌بندی",
+        "caption": "در مثال فرضی تأمین قطعه، نوع اتصال و محدودیت نصب پیش از اعلام سازگاری بررسی می‌شود.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "مثال فرضی: تأمین قطعه برای خط بسته‌بندی",
+        "src": "/images/articles/industrial-b2b-website/detail-2.webp"
+      }
+    ]
+  },
+  {
+    "slug": "instagram-to-online-store",
+    "cover": {
+      "alt": "گوشی با تصاویر کیف‌های دست‌ساز که به نمایش منظم کیف‌های واقعی و نمونه‌های رنگ متصل شده است",
+      "caption": "نمایش مفهومی انتقال تصاویر پراکنده پیج به کاتالوگ منظم فروشگاه.",
+      "width": 1672,
+      "height": 941,
+      "afterHeading": "",
+      "src": "/images/articles/instagram-to-online-store/cover.webp"
+    },
+    "inline": [
+      {
+        "alt": "کارت‌های گفت‌وگوی پراکنده در کنار کیف، نمونه‌های پارچه و سینی‌های منظم اطلاعات محصول",
+        "caption": "پرسش‌های تکراری مشتری می‌توانند به اطلاعات روشن درباره جنس، رنگ و مدل تبدیل شوند.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "پیام‌های پرتکرار را به محتوای تصمیم‌ساز تبدیل کنید",
+        "src": "/images/articles/instagram-to-online-store/detail-1.webp"
+      },
+      {
+        "alt": "گوشی با نماد گفت‌وگو در کنار کیف‌های دست‌ساز، نمونه‌های سفارشی و بسته‌های آماده ارسال",
+        "caption": "ارتباط انسانی پیج در کنار معرفی دقیق کالا و مسیر مشخص آماده‌سازی سفارش ادامه پیدا می‌کند.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "مثال فرضی: پیج فروش کیف دست‌ساز",
+        "src": "/images/articles/instagram-to-online-store/detail-2.webp"
+      }
+    ]
+  },
+  {
+    "slug": "inventory-order-management",
+    "cover": {
+      "alt": "قفسه‌های مرتب کالا، میز بسته‌بندی و سینی‌های سفارش متصل به مسیرهای روشن انبار",
+      "caption": "مدیریت سفارش، از کنترل موجودی قفسه تا آماده‌سازی و تحویل بسته ادامه دارد.",
+      "width": 1672,
+      "height": 941,
+      "afterHeading": "",
+      "src": "/images/articles/inventory-order-management/cover.webp"
+    },
+    "inline": [
+      {
+        "alt": "آخرین فنجان بسته‌بندی‌شده روی قفسه با اتصال رزرو به یکی از دو سینی سفارش و ساعت شنی",
+        "caption": "رزرو باید به یک سفارش مشخص متصل باشد و زمان انقضای روشنی داشته باشد.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "موجود، رزروشده و قابل فروش را جدا کنید",
+        "src": "/images/articles/inventory-order-management/detail-1.webp"
+      },
+      {
+        "alt": "بررسی فنجان مرجوعی با ذره‌بین روی میز بازرسی، کنار بسته باز و سینی کالای قابل فروش",
+        "caption": "کالای برگشتی پس از بررسی کیفیت می‌تواند دوباره به موجودی قابل فروش اضافه شود.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "چک لیست پنل عملیات",
+        "src": "/images/articles/inventory-order-management/detail-2.webp"
+      }
+    ]
+  },
+  {
+    "slug": "jewelry-luxury-store",
+    "cover": {
+      "alt": "انگشتر و یک جفت گوشواره با سنگ‌های روشن روی پایه‌های سنگی سبز تیره",
+      "caption": "نمای مفهومی کاتالوگ با نور هماهنگ و جزئیات قابل مشاهده.",
+      "width": 1672,
+      "height": 941,
+      "afterHeading": "",
+      "src": "/images/articles/jewelry-luxury-store/cover.webp"
+    },
+    "inline": [
+      {
+        "alt": "نمای نزدیک انگشتر و گوشواره روی پارچه روشن در کنار کولیس فلزی برای بررسی ابعاد",
+        "caption": "نمای نزدیک و ابزار اندازه‌گیری به توضیح ابعاد و جزئیات قطعه کمک می‌کنند.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "عکس برای درک ابعاد و جزئیات باشد",
+        "src": "/images/articles/jewelry-luxury-store/detail-1.webp"
+      },
+      {
+        "alt": "انگشتر روی پایه مخملی کنار ابزار تعیین اندازه، کارت‌های خالی مشخصات و ساعت شنی",
+        "caption": "در سفارش با اندازه انتخابی، مشخصات و پایان اعتبار پیشنهاد باید روشن باشند.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "مثال فرضی: سفارش انگشتر با اندازه انتخابی",
+        "src": "/images/articles/jewelry-luxury-store/detail-2.webp"
+      }
+    ]
+  },
+  {
+    "slug": "landing-page-campaign",
+    "cover": {
+      "alt": "چراغ رومیزی روشن روی سکوی سنگی با مسیر نعنایی منتهی به فرم سه‌فیلدی",
+      "caption": "تصویر مفهومی یک پیشنهاد مشخص و مسیر روشن تا درخواست اولیه.",
+      "width": 1672,
+      "height": 941,
+      "afterHeading": "",
+      "src": "/images/articles/landing-page-campaign/cover.webp"
+    },
+    "inline": [
+      {
+        "alt": "کارت تبلیغ و صفحه فرود با تصویر یکسان چراغ رومیزی و مسیر شیشه‌ای میان آن‌ها",
+        "caption": "هماهنگی تصویر و پیشنهاد، پیوند پیام ورودی و صفحه مقصد را روشن می‌کند.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "وعده تبلیغ را در ابتدای صفحه ادامه دهید",
+        "src": "/images/articles/landing-page-campaign/detail-1.webp"
+      },
+      {
+        "alt": "فرم کوتاه سه‌فیلدی کنار ماگ، کارت محصول، بسته‌بندی و سینی دریافت درخواست",
+        "caption": "در مثال فرضی فروشگاه، فرم اولیه کوتاه می‌ماند و نمونه محصول به توضیح خدمت کمک می‌کند.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "مثال فرضی: کمپین طراحی فروشگاه تازه",
+        "src": "/images/articles/landing-page-campaign/detail-2.webp"
+      }
+    ]
+  },
+  {
+    "slug": "laxx-project-order",
+    "cover": {
+      "alt": "مسیر نورانی از برگه‌های شرح نیاز و بازبینی ساختار تا صفحه نهایی وب‌سایت در فضایی فیروزه‌ای",
+      "caption": "از شرح نیاز روشن تا بازبینی و تحویل سایت، هر مرحله به تصمیم مشخص نیاز دارد.",
+      "width": 1672,
+      "height": 941,
+      "afterHeading": "",
+      "src": "/images/articles/laxx-project-order/cover.webp"
+    },
+    "inline": [
+      {
+        "alt": "سه پوشه شیشه‌ای از محتوای تیم که با مسیرهای فیروزه‌ای به یک مرکز تصمیم مشترک متصل شده‌اند",
+        "caption": "محتوا می‌تواند از چند نفر برسد؛ جمع‌بندی نهایی بازخورد باید مسئول مشخص داشته باشد.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "مسئول تصمیم و مسئول محتوا را تعیین کنید",
+        "src": "/images/articles/laxx-project-order/detail-1.webp"
+      },
+      {
+        "alt": "مدل شیشه‌ای شاخه‌های ساختار سایت با یک بخش جابه‌جا شده برای بازبینی پیش از طراحی نهایی",
+        "caption": "بازبینی جای بخش‌ها و مسیر دسترسی، پیش از پرداختن به جزئیات بصری انجام می‌شود.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "ساختار را پیش از جزئیات بصری بازبینی کنید",
+        "src": "/images/articles/laxx-project-order/detail-2.webp"
+      }
+    ]
+  },
+  {
+    "slug": "loxx-design-guide",
+    "cover": {
+      "alt": "مدل شیشه‌ای معماری سایت با مسیر کاربر و ذره‌بین بررسی کیفیت طراحی",
+      "caption": "هدف سایت، محدوده اجرا و معیار کیفیت را پیش از شروع پروژه روشن کنید.",
+      "width": 1672,
+      "height": 941,
+      "afterHeading": "",
+      "src": "/images/articles/loxx-design-guide/cover.webp"
+    },
+    "inline": [
+      {
+        "alt": "بررسی خوانایی و مسیر کاربر در نمونه طراحی سایت روی نمایشگر و موبایل",
+        "caption": "نمونه‌کار را با بررسی عملی مسیر کاربر و نمایش موبایل ارزیابی کنید.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "نمونه‌کار را با پرسش عملی بررسی کنید",
+        "src": "/images/articles/loxx-design-guide/detail-1.webp"
+      },
+      {
+        "alt": "تبدیل نقشه صفحات سایت به تحویل‌های مشخص و تأیید نهایی پروژه",
+        "caption": "برای هر بخش پروژه، خروجی قابل تحویل و معیار پذیرش مشخص کنید.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "پیشنهاد اجرایی را به تحویل‌های مشخص تبدیل کنید",
+        "src": "/images/articles/loxx-design-guide/detail-2.webp"
+      }
+    ]
+  },
+  {
+    "slug": "luxury-web-design",
+    "cover": {
+      "alt": "مجسمه سرامیکی روشن در ویترین شیشه‌ای معماری با نور نعنایی و فضای تیره",
+      "caption": "تصویر مفهومی از ارائه آرام و دقیق در طراحی لوکس.",
+      "width": 1672,
+      "height": 941,
+      "afterHeading": "",
+      "src": "/images/articles/luxury-web-design/cover.webp"
+    },
+    "inline": [
+      {
+        "alt": "صفحه شیشه‌ای مات کنار سه نوار روشن با فاصله‌های منظم روی سطح سبز تیره",
+        "caption": "چیدمان مفهومی برای نمایش نظم، نسبت و فضای خالی.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "تایپوگرافی و فضای خالی را به خدمت محتوا بگیرید",
+        "src": "/images/articles/luxury-web-design/detail-1.webp"
+      },
+      {
+        "alt": "گردنبند نقره‌ای روی مخمل سبز تیره و ذره‌بین نمایش‌دهنده بافت فلز",
+        "caption": "نمونه تصویری فرضی برای نمایش جنس و جزئیات محصول.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "عکس باکیفیت باید اطلاعات هم بدهد",
+        "src": "/images/articles/luxury-web-design/detail-2.webp"
+      }
+    ]
+  },
+  {
+    "slug": "mobile-shopping-experience",
+    "cover": {
+      "alt": "گوشی با نمایش مفهومی صفحه خرید کفش، انتخاب رنگ و دکمه بزرگ کنار یک کتانی کرم‌رنگ",
+      "caption": "تصویر مفهومی از دسترسی روشن به تصویر کالا، انتخاب تنوع و اقدام خرید در موبایل.",
+      "width": 1672,
+      "height": 941,
+      "afterHeading": "",
+      "src": "/images/articles/mobile-shopping-experience/cover.webp"
+    },
+    "inline": [
+      {
+        "alt": "نمای نزدیک کنترل‌های بزرگ انتخاب رنگ و اندازه روی گوشی با حلقه‌های شفاف نشان‌دهنده ناحیه لمس",
+        "caption": "فاصله مناسب میان کنترل‌ها و بازخورد انتخاب، استفاده از فیلتر را با لمس آسان‌تر می‌کند.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "فیلتر را به یک کار قابل پایان تبدیل کنید",
+        "src": "/images/articles/mobile-shopping-experience/detail-1.webp"
+      },
+      {
+        "alt": "سه پنل موبایل شامل فرم نشانی، سبد خرید کفش و نشان تأیید در امتداد یک مسیر نورانی",
+        "caption": "تصویر مفهومی پیوستگی مسیر نشانی، مرور سبد و تأیید خرید؛ داده‌های واردشده باید در رفت‌وبرگشت مراحل حفظ شوند.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "فرم آدرس را با صفحه‌کلید آزمایش کنید",
+        "src": "/images/articles/mobile-shopping-experience/detail-2.webp"
+      }
+    ]
+  },
+  {
+    "slug": "multilingual-website",
+    "cover": {
+      "alt": "سه ورودی شیشه‌ای با مسیرهای نورانی به یک اثر مرکزی در سازه‌ای دایره‌ای می‌رسند",
+      "caption": "نمای مفهومی مسیرهای زبانی متفاوت به محتوای معادل.",
+      "width": 1672,
+      "height": 941,
+      "afterHeading": "",
+      "src": "/images/articles/multilingual-website/cover.webp"
+    },
+    "inline": [
+      {
+        "alt": "دو پنل آینه‌ای با شیر صنعتی یکسان و جای‌گذاری متناظر بخش‌های محتوا و کنترل‌ها",
+        "caption": "چیدمان دو جهت نمایش باید سلسله‌مراتب و کارکرد یکسانی داشته باشد.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "ترجمه را داخل رابط آزمایش کنید",
+        "src": "/images/articles/multilingual-website/detail-1.webp"
+      },
+      {
+        "alt": "سینی منبع مشترک محصول با مسیرهای نورانی به دو پنل محتوای معادل و نشانگرهای کهربایی بازبینی متصل است",
+        "caption": "تغییر مشخصات محصول باید بازبینی نسخه‌های زبانی مرتبط را همراه داشته باشد.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "مثال فرضی: شرکت صادرات تجهیزات",
+        "src": "/images/articles/multilingual-website/detail-2.webp"
+      }
+    ]
+  },
+  {
+    "slug": "mvp-website-development",
+    "cover": {
+      "alt": "محفظه شیشه‌ای و فلزی با مسیر پیوسته ورود و خروج کارت‌های نعنایی و سه قطعه جانبی جدا از هسته اصلی",
+      "caption": "نمای مفهومی یک محصول کوچک و کامل؛ قابلیت‌های جانبی بیرون از محدوده نسخه اول می‌مانند.",
+      "width": 1672,
+      "height": 941,
+      "afterHeading": "",
+      "src": "/images/articles/mvp-website-development/cover.webp"
+    },
+    "inline": [
+      {
+        "alt": "دست کاربر در حال قرار دادن ژتون روی نمونه رزرو خدمات با سه مرحله متصل، جدول زمان و ژتون نتیجه",
+        "caption": "نمونه مفهومی آزمون یک مسیر کامل رزرو، از انتخاب خدمت تا دریافت نتیجه و امکان بازگشت.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "یک مسیر کامل را بر چند مسیر ناقص ترجیح دهید",
+        "src": "/images/articles/mvp-website-development/detail-1.webp"
+      },
+      {
+        "alt": "قطعه افزایشی شیشه‌ای کنار هسته رزرو با دوربین، پاکت عکس و کارت‌های مشاهده خدمات عکاسی روی میز سبز تیره",
+        "caption": "تصویر مفهومی انتخاب یک قابلیت برای فاز بعد با توجه به مشاهده نیاز در خدمت عکاسی.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "چک‌لیست تصمیم فاز بعد",
+        "src": "/images/articles/mvp-website-development/detail-2.webp"
+      }
+    ]
+  },
+  {
+    "slug": "online-payment-integration",
+    "cover": {
+      "alt": "بسته سفارش روی سکوی فلزی در کنار دو پایانه و مسیر حلقه‌ای توکن روشن پرداخت",
+      "caption": "نمای مفهومی چرخه پرداخت؛ تکمیل سفارش به نتیجه معتبر تأیید سمت سرور وابسته است.",
+      "width": 1672,
+      "height": 941,
+      "afterHeading": "",
+      "src": "/images/articles/online-payment-integration/cover.webp"
+    },
+    "inline": [
+      {
+        "alt": "گوی پرداخت در جایگاه انتظار با مسیر بررسی فلزی و حلقه بازگشت برای تلاش مجدد",
+        "caption": "وضعیت نامشخص تا دریافت نتیجه معتبر در مسیر بررسی می‌ماند.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "پرداخت را ماشین وضعیت ببینید",
+        "src": "/images/articles/online-payment-integration/detail-1.webp"
+      },
+      {
+        "alt": "سه مسیر اعلان تکراری که در یک دروازه ادغام می‌شوند و تنها به یک بسته سفارش می‌رسند",
+        "caption": "اعلان‌های تکراری باید فقط یک اثر عملیاتی بر سفارش ایجاد کنند.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "اثر درخواست تکراری را کنترل کنید",
+        "src": "/images/articles/online-payment-integration/detail-2.webp"
+      }
+    ]
+  },
+  {
+    "slug": "online-shop-launch",
+    "cover": {
+      "alt": "دفتر، خودکار و جامدادی روی پایه‌های سنگی کنار ویترین منظم با نور فیروزه‌ای",
+      "caption": "مجموعه محدود کالاها هم می‌تواند با اطلاعات و چیدمان منظم، شروع مناسبی برای فروشگاه باشد.",
+      "width": 1672,
+      "height": 941,
+      "afterHeading": "",
+      "src": "/images/articles/online-shop-launch/cover.webp"
+    },
+    "inline": [
+      {
+        "alt": "جعبه باز حاوی دفتر و جامدادی روی میز بسته‌بندی در کنار سینی موجودی خودکارها",
+        "caption": "آماده‌سازی و بسته‌بندی سفارش باید با موجودی و وعده ارسال فروشگاه هماهنگ باشد.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "سیاست عملیات را به زبان مشتری بنویسید",
+        "src": "/images/articles/online-shop-launch/detail-1.webp"
+      },
+      {
+        "alt": "ویترین سه‌بخشی با دفتر باز در مرکز و جامدادی و دفترهای رنگی در دو طرف",
+        "caption": "نمونه مفهومی از اولویت‌بندی کالاهای یک فروشگاه کوچک لوازم رومیزی.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "مثال فرضی: فروشگاه لوازم رومیزی",
+        "src": "/images/articles/online-shop-launch/detail-2.webp"
+      }
+    ]
+  },
+  {
+    "slug": "portfolio-website",
+    "cover": {
+      "alt": "گالری مفهومی سه اثر شامل ماکت معماری، گلدان مجسمه‌ای و پنل‌های تصویری شیشه‌ای روی سکوهای سنگی",
+      "caption": "انتخاب چند اثر متفاوت و مرتبط، مرور نمونه‌کارها را هدفمند می‌کند.",
+      "width": 1672,
+      "height": 941,
+      "afterHeading": "",
+      "src": "/images/articles/portfolio-website/cover.webp"
+    },
+    "inline": [
+      {
+        "alt": "طرح‌های لایه‌ای یک پاویون در کنار نمونه گلی و ماکت نهایی با سقف جداشده روی میز طراحی",
+        "caption": "تصویر مفهومی فرایند طراحی؛ نمایش طرح، مدل اولیه و بخش مشخصی از خروجی، نقش طراح را روشن‌تر می‌کند.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "برای هر پروژه یک روایت کوتاه بسازید",
+        "src": "/images/articles/portfolio-website/detail-1.webp"
+      },
+      {
+        "alt": "مسیر مفهومی بازطراحی انتخاب رنگ لیوان از نمونه‌های هم‌پوشان به وایرفریم و پنل محصول با سه انتخاب رنگ جدا",
+        "caption": "مطالعه موردی فرضی: مسئله انتخاب گونه کالا، تصمیم طراحی و رابط تحویل‌شده بدون ادعای رشد فروش.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "مثال فرضی: طراح مستقل با پروژه تیمی",
+        "src": "/images/articles/portfolio-website/detail-2.webp"
+      }
+    ]
+  },
+  {
+    "slug": "product-page-design",
+    "cover": {
+      "alt": "دریپر سرامیکی کرم‌رنگ کنار نمونه لعاب و نمایش تصویری انتخاب محصول",
+      "caption": "نمایش روشن کالا و تنوع‌ها، پایه تصمیم خرید در صفحه محصول است.",
+      "width": 1672,
+      "height": 941,
+      "afterHeading": "",
+      "src": "/images/articles/product-page-design/cover.webp"
+    },
+    "inline": [
+      {
+        "alt": "نمای نزدیک شیارها و جنس دریپر سرامیکی در کنار کولیس و نمونه بدنه سفالی",
+        "caption": "تصاویر جزئیات، زاویه متفاوت و مقیاس باید هرکدام پرسشی از خریدار را پاسخ دهند.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "مجموعه تصاویر را بر اساس وظیفه انتخاب کنید",
+        "src": "/images/articles/product-page-design/detail-1.webp"
+      },
+      {
+        "alt": "دریپر سرامیکی و نمونه‌های رنگ با حلقه انتخاب روشن، ساعت و جعبه محافظ ارسال",
+        "caption": "انتخاب رنگ، موجودی و زمان آماده‌سازی باید در کنار اطلاعات محصول روشن باشند.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "قیمت، تنوع و موجودی را هماهنگ نمایش دهید",
+        "src": "/images/articles/product-page-design/detail-2.webp"
+      }
+    ]
+  },
+  {
+    "slug": "professional-luxury-website",
+    "cover": {
+      "alt": "قاب سنگی و شیشه‌ای با نمای اقامتگاه لوکس در کنار کولیس و نمونه‌های متریال با نور فیروزه‌ای",
+      "caption": "تصویر مفهومی از سنجش کیفیت تجربه لوکس با معیارهای دقیق و قابل بررسی.",
+      "width": 1672,
+      "height": 941,
+      "afterHeading": "",
+      "src": "/images/articles/professional-luxury-website/cover.webp"
+    },
+    "inline": [
+      {
+        "alt": "نمونه رابط دسکتاپ و موبایل اقامتگاه در قاب اندازه‌گیری همراه نمونه‌های سنگ و پارچه",
+        "caption": "پیش از تحویل، معیارهای هماهنگی ظاهر و کارکرد در دسکتاپ و موبایل را مشخص کنید.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "جدول پذیرش را پیش از تحویل توافق کنید",
+        "src": "/images/articles/professional-luxury-website/detail-1.webp"
+      },
+      {
+        "alt": "سه دروازه سنگی با دکمه، کارت‌های محتوا و کلید تحویل در مسیر ارزیابی تجربه سایت",
+        "caption": "در سناریوی فرضی اقامتگاه، استفاده‌پذیری، محتوای درست و تحویل مدیریت باید با هم بررسی شوند.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "مثال فرضی: وب‌سایت یک مجموعه اقامتی",
+        "src": "/images/articles/professional-luxury-website/detail-2.webp"
+      }
+    ]
+  },
+  {
+    "slug": "service-booking-website",
+    "cover": {
+      "alt": "استودیوی عکاسی با دوربین و نورپردازی و یک بلوک شیشه‌ای روشن در جایگاه رزرو",
+      "caption": "تصویر مفهومی یک نوبت رزروشده برای استودیوی عکاسی.",
+      "width": 1672,
+      "height": 941,
+      "afterHeading": "",
+      "src": "/images/articles/service-booking-website/cover.webp"
+    },
+    "inline": [
+      {
+        "alt": "بلوک شیشه‌ای مشترک روی سه ریل منابع استودیو و یک بلوک رزرو منتظر در کنار آن",
+        "caption": "قطعی شدن نوبت به آزاد بودن هم‌زمان منابع و زمان آماده‌سازی وابسته است.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "رزرو موقت و قطعی را جدا کنید",
+        "src": "/images/articles/service-booking-website/detail-1.webp"
+      },
+      {
+        "alt": "بازوی فلزی در حال انتقال کپسول رزرو میان دو جایگاه با حفظ اتصال به جایگاه قبلی",
+        "caption": "در تغییر نوبت، زمان قبلی تا قطعی شدن جایگزین باید قابل بازیابی بماند.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "تغییر نوبت را از ابتدا طراحی کنید",
+        "src": "/images/articles/service-booking-website/detail-2.webp"
+      }
+    ]
+  },
+  {
+    "slug": "sitemap-robots-canonical",
+    "cover": {
+      "alt": "ماکت معماری صفحات عمومی روشن با مسیرهای متصل و اتاق‌های خصوصی بسته روی سنگ سبز تیره",
+      "caption": "تصویر مفهومی ساختار صفحات عمومی و مسیر اصلی سایت؛ بخش خصوصی به حفاظت مستقل نیاز دارد.",
+      "width": 1672,
+      "height": 941,
+      "afterHeading": "",
+      "src": "/images/articles/sitemap-robots-canonical/cover.webp"
+    },
+    "inline": [
+      {
+        "alt": "اطلس شیشه‌ای کارت‌های صفحات با یک کارت برجسته و لبه روشن برای نمایش به‌روزرسانی انتخابی",
+        "caption": "زمان تغییر را به همان صفحه‌ای متصل کنید که محتوای آن واقعاً تغییر کرده است.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "زمان تغییر را واقعی نگه دارید",
+        "src": "/images/articles/sitemap-robots-canonical/detail-1.webp"
+      },
+      {
+        "alt": "مسیر شیشه‌ای فیروزه‌ای به درگاه اصلی روشن در کنار دو خروجی فرعی تاریک روی زمینه سنگی",
+        "caption": "نسخه اصلی آدرس باید با مقصد canonical، لینک‌های داخلی و نقشه سایت هماهنگ باشد.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "canonical را با لینک‌ها هماهنگ کنید",
+        "src": "/images/articles/sitemap-robots-canonical/detail-2.webp"
+      }
+    ]
+  },
+  {
+    "slug": "technical-seo-website",
+    "cover": {
+      "alt": "ماکت معماری سایت با سه اتاق محتوای روشن، مسیرهای متصل نعنایی و یک محفظه خصوصی بسته",
+      "caption": "تصویر مفهومی از مسیرهای عمومی قابل دسترسی و مرز روشن بخش خصوصی سایت.",
+      "width": 1672,
+      "height": 941,
+      "afterHeading": "",
+      "src": "/images/articles/technical-seo-website/cover.webp"
+    },
+    "inline": [
+      {
+        "alt": "قاب‌های محتوای عاجی با درگاه‌های باز که مسیر شیشه‌ای نعنایی آن‌ها را به هم متصل می‌کند",
+        "caption": "دسترسی به صفحه‌های مهم به لینک‌های مرتبط و مسیر حرکت روشن نیاز دارد.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "دسترسی به محتوا و مسیر حرکت را بررسی کنید",
+        "src": "/images/articles/technical-seo-website/detail-1.webp"
+      },
+      {
+        "alt": "سه مسیر عاجی که به یک مسیر نعنایی و یک قاب محتوای اصلی در انتها می‌رسند",
+        "caption": "در مثال فرضی، مسیرهای هم‌هدف به یک مقصد اصلی هماهنگ می‌شوند.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "مثال فرضی: خدمت دارای سه آدرس",
+        "src": "/images/articles/technical-seo-website/detail-2.webp"
+      }
+    ]
+  },
+  {
+    "slug": "web-application-vs-website",
+    "cover": {
+      "alt": "غرفه معرفی با قاب‌های روشن در کنار فضای تعاملی دارای میز حلقه‌ای و محفظه شیشه‌ای، روی سکوی مشترک",
+      "caption": "تصویر مفهومی از دو کار متفاوت: معرفی اطلاعات و فراهم‌کردن محیط انجام کار.",
+      "width": 1672,
+      "height": 941,
+      "afterHeading": "",
+      "src": "/images/articles/web-application-vs-website/cover.webp"
+    },
+    "inline": [
+      {
+        "alt": "سه ایستگاه متصل برای آماده‌سازی، بررسی و بایگانی پرونده با کارت‌های روشن، عدسی و محفظه شفاف",
+        "caption": "حفظ داده و کنترل جابه‌جایی میان وضعیت‌ها، بخشی از محدوده وب‌اپلیکیشن است.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "نقش‌ها و وضعیت‌ها هزینه پنهان هستند",
+        "src": "/images/articles/web-application-vs-website/detail-1.webp"
+      },
+      {
+        "alt": "ماکت آموزشگاه با غرفه معرفی، راهروی شیشه‌ای فیروزه‌ای و اتاق افزوده دارای سه میز و قفسه پرونده‌ها",
+        "caption": "در مثال فرضی آموزشگاه، پیگیری تکلیف و بازخورد می‌تواند در فاز بعد به بخش معرفی افزوده شود.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "مثال فرضی: آموزشگاه کوچک",
+        "src": "/images/articles/web-application-vs-website/detail-2.webp"
+      }
+    ]
+  },
+  {
+    "slug": "web-design-agency-selection",
+    "cover": {
+      "alt": "سه پوشه پیشنهاد طراحی با چیدمان‌های متفاوت و قاب فلزی ارزیابی روی میز سنگی تیره",
+      "caption": "تصویر مفهومی مقایسه پیشنهادها بر اساس محدوده و اقلام تحویل.",
+      "width": 1672,
+      "height": 941,
+      "afterHeading": "",
+      "src": "/images/articles/web-design-agency-selection/cover.webp"
+    },
+    "inline": [
+      {
+        "alt": "نمودار مسیر کاربر، وایرفریم و صفحه اجزا که با رشته‌های نعنایی به طرح نهایی مفهومی متصل شده‌اند",
+        "caption": "برای بررسی نقش تیم، ارتباط تصمیم‌های فرایند طراحی با خروجی نهایی را دنبال کنید.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "نقش واقعی تیم در نمونه‌کار را بپرسید",
+        "src": "/images/articles/web-design-agency-selection/detail-1.webp"
+      },
+      {
+        "alt": "نمونه اولیه سه‌مرحله‌ای انتخاب خدمت، فرم و تأیید همراه دفترچه تحویل در سینی روشن",
+        "caption": "یک مرحله محدود می‌تواند نمونه اولیه و مستندات قابل استفاده‌ای برای ارزیابی همکاری تحویل دهد.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "شیوه همکاری را با یک خروجی کوچک ارزیابی کنید",
+        "src": "/images/articles/web-design-agency-selection/detail-2.webp"
+      }
+    ]
+  },
+  {
+    "slug": "web-design-contract-checklist",
+    "cover": {
+      "alt": "پرونده پروژه با برگه‌های برجسته صفحات وب و قاب فلزی برای مشخص‌کردن محدوده طراحی سایت",
+      "caption": "تعریف دقیق صفحات و قابلیت‌ها، محدوده کار را برای دو طرف روشن می‌کند.",
+      "width": 1672,
+      "height": 941,
+      "afterHeading": "",
+      "src": "/images/articles/web-design-contract-checklist/cover.webp"
+    },
+    "inline": [
+      {
+        "alt": "سه محفظه مجزا برای تصاویر، محتوای کاغذی و کلیدهای دسترسی در فضای سبز تیره",
+        "caption": "مسئول آماده‌سازی محتوا و مالک حساب‌ها و دسترسی‌ها را از ابتدا مشخص کنید.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "مسئولیت محتوا و دسترسی‌ها را روشن کنید",
+        "src": "/images/articles/web-design-contract-checklist/detail-1.webp"
+      },
+      {
+        "alt": "مدل صفحات دسکتاپ و موبایل روی سکوی انتقال به بخش پذیرش با قالب هم‌اندازه خروجی",
+        "caption": "خروجی تحویل‌شده باید با رفتار و معیارهای پذیرش توافق‌شده تطبیق داده شود.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "معیار پذیرش و شیوه بازبینی را بنویسید",
+        "src": "/images/articles/web-design-contract-checklist/detail-2.webp"
+      }
+    ]
+  },
+  {
+    "slug": "web-design-project-timeline",
+    "cover": {
+      "alt": "سازه‌ای از مراحل متصل با مسیر نورانی سبزآبی، قاب‌های شیشه‌ای، ایستگاه ساخت و دروازه انتشار روی سکوی سنگی",
+      "caption": "نمایی مفهومی از وابستگی مراحل و مسیر ضروری تا انتشار سایت.",
+      "width": 1672,
+      "height": 941,
+      "afterHeading": "",
+      "src": "/images/articles/web-design-project-timeline/cover.webp"
+    },
+    "inline": [
+      {
+        "alt": "دست‌های دستکش‌پوش در حال قراردادن عکس محصول در قاب طراحی شیشه‌ای، کنار محصول واقعی و برگه‌های محتوای آماده",
+        "caption": "آماده‌بودن عکس و محتوای واقعی، تصمیم‌های طراحی را قابل اتکا می‌کند.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "محتوا را به آخر پروژه موکول نکنید",
+        "src": "/images/articles/web-design-project-timeline/detail-1.webp"
+      },
+      {
+        "alt": "مسیر نورانی مستقیم با یک انشعاب جانبی که به قطعه شیشه‌ای جداگانه می‌رسد",
+        "caption": "قابلیت اضافه را می‌توان در شاخه‌ای جدا برای فاز بعد برنامه‌ریزی کرد.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "تغییر محدوده چگونه زمان را عوض می‌کند؟",
+        "src": "/images/articles/web-design-project-timeline/detail-2.webp"
+      }
+    ]
+  },
+  {
+    "slug": "web-ui-ux-design",
+    "cover": {
+      "alt": "مسیر نورانی از انتخاب میان سه خدمت تا میز مشاوره با دو ورودی و جایگاه پایان در ماکت فضایی",
+      "caption": "تصویر مفهومی مسیر انتخاب خدمت تا ثبت درخواست مشاوره.",
+      "width": 1672,
+      "height": 941,
+      "afterHeading": "",
+      "src": "/images/articles/web-ui-ux-design/cover.webp"
+    },
+    "inline": [
+      {
+        "alt": "پیکره کاربر در نقطه تصمیم روبه‌روی سه خدمت با مسیر برجسته سبز به گزینه میانی و میز مشاوره",
+        "caption": "ترتیب محتوا و نشانه‌های روشن، مسیر تصمیم و اقدام بعدی را قابل فهم می‌کنند.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "محتوا را پیش از تزئین صفحه بررسی کنید",
+        "src": "/images/articles/web-ui-ux-design/detail-1.webp"
+      },
+      {
+        "alt": "سه سازوکار هم‌خانواده با جایگاه خالی، ورودی نیازمند اصلاح و دیسک تأیید نهایی روی یک ریل",
+        "caption": "حالت خالی، اصلاح خطا با حفظ ورودی‌ها و تأیید موفق باید از ابتدا طراحی شوند.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "حالت‌های فراموش‌شده را طراحی کنید",
+        "src": "/images/articles/web-ui-ux-design/detail-2.webp"
+      }
+    ]
+  },
+  {
+    "slug": "website-accessibility",
+    "cover": {
+      "alt": "میز منحنی روشن با کنترل‌های برجسته و متضاد، گوی ورودی و صفحه‌کلید در فضایی باز",
+      "caption": "نمای مفهومی از کنترل‌های قابل تشخیص و مسیر دسترسی باز.",
+      "width": 1672,
+      "height": 940,
+      "afterHeading": "",
+      "src": "/images/articles/website-accessibility/cover.webp"
+    },
+    "inline": [
+      {
+        "alt": "صفحه‌کلید با کلیدهای سفید و مسیر نورانی میان کنترل‌ها که تمرکز روی کنترل میانی را نشان می‌دهد",
+        "caption": "تمرکز دیداری باید جای فعلی کاربر و ترتیب حرکت میان کنترل‌ها را روشن کند.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "مسیر اصلی را فقط با صفحه‌کلید اجرا کنید",
+        "src": "/images/articles/website-accessibility/detail-1.webp"
+      },
+      {
+        "alt": "پنل روشن با نوارهای تیره بزرگ، دو فیلد مجزا با نشان‌های هندسی و دکمه پهن در پایین",
+        "caption": "فاصله کافی، کنتراست و ارتباط روشن برچسب با فیلد، استفاده از فرم را آسان‌تر می‌کند.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "خوانایی و بزرگ‌نمایی را در صفحه واقعی بسنجید",
+        "src": "/images/articles/website-accessibility/detail-2.webp"
+      }
+    ]
+  },
+  {
+    "slug": "website-backup-maintenance",
+    "cover": {
+      "alt": "سه پنل روشنِ وب‌سایت کنار کپسول بازِ پشتیبان با نسخه کامل پنل‌ها و نور پیوند فیروزه‌ای روی میز سنگی تیره",
+      "caption": "تصویر مفهومی از نگهداری نسخه کامل و جداگانه برای بازیابی سایت.",
+      "width": 1672,
+      "height": 941,
+      "afterHeading": "",
+      "src": "/images/articles/website-backup-maintenance/cover.webp"
+    },
+    "inline": [
+      {
+        "alt": "ذره‌بین بازویی روی تصویر محصول در وب‌سایت بازیابی‌شده، کنار کارت‌های نمونه و محفظه بازِ آرشیو در میز آزمون",
+        "caption": "آزمون بازیابی با بررسی تصاویر، نمونه داده‌ها و دسترسی کامل می‌شود.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "پشتیبان باید قابل بازیابی باشد",
+        "src": "/images/articles/website-backup-maintenance/detail-1.webp"
+      },
+      {
+        "alt": "ابزار نگهداری و قطعه جایگزین روی مسیر سبزِ آزمون، کنار ماژول فعال و مسیر جداگانه ورودی داده‌های تازه",
+        "caption": "تغییرات را ابتدا بررسی کنید و هنگام انتشار، داده‌های تازه را حفظ کنید.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "تغییر را مستقیم روی نسخه زنده امتحان نکنید",
+        "src": "/images/articles/website-backup-maintenance/detail-2.webp"
+      }
+    ]
+  },
+  {
+    "slug": "website-conversion-measurement",
+    "cover": {
+      "alt": "مسیر نورانی کاربر از صفحهٔ خدمات و فرم کوتاه تا تأیید درخواست، همراه با ابزار اندازه‌گیری فلزی",
+      "caption": "مسیر تبدیل را تا نتیجهٔ نهایی تعریف و اندازه‌گیری کنید.",
+      "width": 1672,
+      "height": 941,
+      "afterHeading": "",
+      "src": "/images/articles/website-conversion-measurement/cover.webp"
+    },
+    "inline": [
+      {
+        "alt": "ذره‌بین روی فیلد خالی فرم طولانی و مهرهٔ کاربر متوقف در مسیر تکمیل درخواست",
+        "caption": "افت میان شروع و ارسال فرم، نقطه‌ای برای بررسی فیلدها و خطاهاست.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "قیف را به گام‌های قابل اقدام تقسیم کنید",
+        "src": "/images/articles/website-conversion-measurement/detail-1.webp"
+      },
+      {
+        "alt": "دو فرم یکسان کنار هم و دستی که کارت راهنمای اطلاعات لازم را بالای یکی قرار می‌دهد",
+        "caption": "یک تغییر روشن را آزمایش کنید: توضیح اطلاعات لازم پیش از شروع فرم.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "هر بار یک فرضیه روشن را آزمایش کنید",
+        "src": "/images/articles/website-conversion-measurement/detail-2.webp"
+      }
+    ]
+  },
+  {
+    "slug": "website-design-system",
+    "cover": {
+      "alt": "سینی منظم نمونه‌های فیزیکی دکمه، ورودی، کارت و کنترل انتخاب با متریال عاجی، شیشه‌ای و سبز نعنایی",
+      "caption": "تصویر مفهومی از کتابخانه اجزای هماهنگ با اندازه‌ها و حالت‌های محدود.",
+      "width": 1672,
+      "height": 941,
+      "afterHeading": "",
+      "src": "/images/articles/website-design-system/cover.webp"
+    },
+    "inline": [
+      {
+        "alt": "نمونه‌رنگ‌ها، نوارهای فاصله و الگوهای گوشه در کنار دکمه، ورودی و کارت هماهنگ",
+        "caption": "قواعد پایه زمانی کاربردی‌اند که اثر آن‌ها در اجزای واقعی دیده شود.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "قواعد پایه را به کاربردشان وصل کنید",
+        "src": "/images/articles/website-design-system/detail-1.webp"
+      },
+      {
+        "alt": "سه قاب جدول با جست‌وجو و صفحه‌بندی مشترک و ستون‌ها و نشانگرهای متفاوت در ابعاد بزرگ و کوچک",
+        "caption": "پوسته و رفتار مشترک جدول می‌تواند تفاوت‌های موردنیاز هر کاربرد را حفظ کند.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "مثال فرضی: یکسان کردن جدول‌های پنل",
+        "src": "/images/articles/website-design-system/detail-2.webp"
+      }
+    ]
+  },
+  {
+    "slug": "website-handover-checklist",
+    "cover": {
+      "alt": "ماکت معماری کامل با نمای شیشه‌ای سبزآبی، کنار سینی کلید، ابزار، پوشه تحویل و محفظه نگهداری",
+      "caption": "نمای مفهومی تحویل سایت همراه با ابزار بهره‌برداری و مستندات لازم.",
+      "width": 1672,
+      "height": 941,
+      "afterHeading": "",
+      "src": "/images/articles/website-handover-checklist/cover.webp"
+    },
+    "inline": [
+      {
+        "alt": "مسیر نورانی میان فرم، نمایشگر دسکتاپ و موبایل، نمونه محصول و سینی ثبت سفارش در یک میز آزمون مفهومی",
+        "caption": "آزمون پذیرش باید از ورودی کاربر تا ثبت نتیجه در بخش مدیریت ادامه پیدا کند.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "جدول پذیرش کاربردی بسازید",
+        "src": "/images/articles/website-handover-checklist/detail-1.webp"
+      },
+      {
+        "alt": "میز تمرین مدیریت محتوا با کنترل‌های بزرگ و کارت گلدان، کنار نسخه مشابه بازیابی‌شده در محفظه جدا",
+        "caption": "آموزش عملی مدیر و بررسی نسخه بازیابی‌شده، دو بخش مکمل آمادگی پس از انتشارند.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "تحویل را با برنامه پس از انتشار ببندید",
+        "src": "/images/articles/website-handover-checklist/detail-2.webp"
+      }
+    ]
+  },
+  {
+    "slug": "website-image-optimization",
+    "cover": {
+      "alt": "عکس پارچ سرامیکی با برگ‌های نعناع در قاب‌های شیشه‌ای کوچک، متوسط و بزرگ روی میز سنگی",
+      "caption": "نسخه‌های انتشار باید با اندازه نمایش تناسب داشته باشند و موضوع اصلی را حفظ کنند.",
+      "width": 1672,
+      "height": 941,
+      "afterHeading": "",
+      "src": "/images/articles/website-image-optimization/cover.webp"
+    },
+    "inline": [
+      {
+        "alt": "نمای نزدیک بافت خال‌دار پارچ سرامیکی روی صفحه شیشه‌ای زیر ذره‌بین، کنار سینی نگهداری و صفحات شیشه‌ای",
+        "caption": "نگهداری منبع اصلی و بررسی بافت، بخشی از کنترل کیفیت خروجی وب است.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "فایل اصلی را از نسخه انتشار جدا نگه دارید",
+        "src": "/images/articles/website-image-optimization/detail-1.webp"
+      },
+      {
+        "alt": "انگشتر نقره‌ای با نگین شفاف در دو قاب افقی روشن و عمودی تیره، همراه نمونه روی پایه سنگی",
+        "caption": "در قاب‌های متفاوت و پس‌زمینه‌های روشن و تیره، جزئیات مهم زیورآلات را بازبینی کنید.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "مثال فرضی: فروشگاه زیورآلات",
+        "src": "/images/articles/website-image-optimization/detail-2.webp"
+      }
+    ]
+  },
+  {
+    "slug": "website-migration-seo",
+    "cover": {
+      "alt": "برگه‌های محتوای روشن روی دو سکوی انتقال با نگهدارنده میانی و اتصال نورانی فیروزه‌ای",
+      "caption": "تصویر مفهومی از انتقال منظم محتوای مهم به ساختار تازه سایت.",
+      "width": 1672,
+      "height": 941,
+      "afterHeading": "",
+      "src": "/images/articles/website-migration-seo/cover.webp"
+    },
+    "inline": [
+      {
+        "alt": "چهار برگه با نشان‌های هندسی متفاوت که هرکدام از مسیر جدا به قاب هم‌نشان خود متصل شده‌اند",
+        "caption": "برای هر آدرس مهم، مقصدی متناسب با همان محتوا تعیین کنید.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "هر آدرس مهم باید تصمیم مشخص داشته باشد",
+        "src": "/images/articles/website-migration-seo/detail-1.webp"
+      },
+      {
+        "alt": "سازوکار فعال در حال دریافت کپسول‌های تازه کنار نسخه محفوظ زیر محفظه شیشه‌ای و عدسی بررسی",
+        "caption": "برنامه بازیابی باید درخواست‌های تازه ثبت‌شده پس از انتشار را هم حفظ کند.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "پایش و بازگشت را با داده هماهنگ کنید",
+        "src": "/images/articles/website-migration-seo/detail-2.webp"
+      }
+    ]
+  },
+  {
+    "slug": "website-redesign-roadmap",
+    "cover": {
+      "alt": "پل روشن پیوسته میان ساختمان سنگی قدیمی و بنای شیشه‌ای تازه با مسیرهای فیروزه‌ای",
+      "caption": "بازطراحی موفق، مسیرهای ارزشمند فعلی را به تجربه تازه متصل می‌کند.",
+      "width": 1672,
+      "height": 941,
+      "afterHeading": "",
+      "src": "/images/articles/website-redesign-roadmap/cover.webp"
+    },
+    "inline": [
+      {
+        "alt": "کارت‌های سنگی صفحات سایت در سه سینی برای نگهداری، اصلاح و کنارگذاشتن محتوای فرسوده",
+        "caption": "پیش از تغییر ظاهر، برای حفظ، اصلاح یا حذف هر بخش تصمیم مستقلی بگیرید.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "نگه‌داشتن، اصلاح و حذف را جدا کنید",
+        "src": "/images/articles/website-redesign-roadmap/detail-1.webp"
+      },
+      {
+        "alt": "کتابخانه‌های قدیمی و فضاهای شیشه‌ای تازه در حال بازسازی با مسیر فیروزه‌ای باز برای کاربران",
+        "caption": "در بازطراحی مرحله‌ای، محتوای مفید حفظ می‌شود و مسیر دسترسی کاربران باز می‌ماند.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "مثال فرضی: سایت یک شرکت آموزشی",
+        "src": "/images/articles/website-redesign-roadmap/detail-2.webp"
+      }
+    ]
+  },
+  {
+    "slug": "website-security-checklist",
+    "cover": {
+      "alt": "مدل سه‌بعدی فروشگاه با مرزهای شیشه‌ای دسترسی و بستهٔ سفارش روی مسیر کنترل‌شدهٔ نورانی",
+      "caption": "امنیت فروشگاه از مرزهای دسترسی و مسیر قابل اعتماد سفارش آغاز می‌شود.",
+      "width": 1672,
+      "height": 941,
+      "afterHeading": "",
+      "src": "/images/articles/website-security-checklist/cover.webp"
+    },
+    "inline": [
+      {
+        "alt": "محفظهٔ ارسال بسته با ابزار اختصاصی در جایگاه هم‌شکل و محفظه‌های بستهٔ مجاور",
+        "caption": "هر نقش باید فقط به ابزار و اطلاعات لازم برای همان وظیفه دسترسی داشته باشد.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "دسترسی را بر اساس وظیفه محدود کنید",
+        "src": "/images/articles/website-security-checklist/detail-1.webp"
+      },
+      {
+        "alt": "میز نگهداری با بستهٔ به‌روزرسانی، محفظهٔ شیشه‌ای آزمون و نمونهٔ بازیابی‌شده در سکوی جداگانه",
+        "caption": "به‌روزرسانی و بازیابی را در محیط کنترل‌شده آزمایش کنید.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "به‌روزرسانی و بازیابی را به فرد مشخص بسپارید",
+        "src": "/images/articles/website-security-checklist/detail-2.webp"
+      }
+    ]
+  },
+  {
+    "slug": "woocommerce-vs-custom-store",
+    "cover": {
+      "alt": "ماکت قفسه‌های آماده فروشگاه در کنار کارگاه سفارش اختصاصی با مسیر مشترک بسته‌بندی",
+      "caption": "انتخاب فناوری فروشگاه را با جریان واقعی آماده‌سازی و تحویل سفارش بسنجید.",
+      "width": 1672,
+      "height": 941,
+      "afterHeading": "",
+      "src": "/images/articles/woocommerce-vs-custom-store/cover.webp"
+    },
+    "inline": [
+      {
+        "alt": "تنوع رنگ و اندازه پوشاک در سینی‌های مجزا روی مسیر آماده‌سازی سفارش",
+        "caption": "مرجع موجودی باید تنوع کالا و تغییر وضعیت سفارش را هماهنگ نگه دارد.",
+        "width": 1672,
+        "height": 940,
+        "afterHeading": "مرجع موجودی و قیمت را تعیین کنید",
+        "src": "/images/articles/woocommerce-vs-custom-store/detail-1.webp"
+      },
+      {
+        "alt": "انتقال بطری، منسوجات و بسته کالا میان دو قفسه فروشگاه با طراحی متفاوت",
+        "caption": "در مهاجرت، هویت کالا و رابطه تنوع‌ها باید همراه اطلاعات نمایشی حفظ شود.",
+        "width": 1672,
+        "height": 941,
+        "afterHeading": "مهاجرت را فقط انتقال نام کالا نبینید",
+        "src": "/images/articles/woocommerce-vs-custom-store/detail-2.webp"
+      }
+    ]
+  }
+]

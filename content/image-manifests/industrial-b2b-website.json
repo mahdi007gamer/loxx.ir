@@ -1,0 +1,47 @@
+{
+  "slug": "industrial-b2b-website",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "role": "cover",
+      "file": "apps/web/public/images/articles/industrial-b2b-website/cover.webp",
+      "prompt": "Use case: stylized-concept. Asset type: original editorial cover for an industrial B2B website article. Create one wide landscape 16:9 premium precision engineering still life. An immaculate real-looking machined stainless steel pneumatic rotary actuator assembly with mounting flange, bearing, and one precise brass connector, resting on an austere midnight teal factory display plinth. Subtle translucent glass presentation planes behind it suggest a structured digital product catalogue but contain absolutely no marks or text. Macro-quality machining details, deliberate mechanical geometry, tactile brushed steel, controlled ivory softbox highlights and restrained mint cyan rim illumination. Background #001014 and #031b22, mint #00dfd6, subdued warm ivory. Main assembly centered safely for cover cropping; low camera, refined editorial product photography meets high-end 3D realism; generous quiet space around object. One coherent scene, no collage. No words, letters, digits, logos, watermark, certification badges, graphs, screens, fake technical data or decorative floating cubes.",
+      "alt": "مجموعه فلزی ماشین‌کاری‌شده با فلنج و اتصال برنجی روی پایه تیره با نور فیروزه‌ای",
+      "caption": "تصویر مفهومی ارائه محصول صنعتی با تمرکز بر جزئیات قابل بررسی.",
+      "afterHeading": "",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "19f2e1f909987ac60583cefd185746bed064f530c7ea888512fe979f3631d1ca",
+      "sha256": "bf0b15a7fbcec93af8e35b81f501026c8cef400bef6fafd5645728d93a03b31e",
+      "bytes": 103488
+    },
+    {
+      "role": "detail-1",
+      "file": "apps/web/public/images/articles/industrial-b2b-website/detail-1.webp",
+      "prompt": "Use case: product-mockup. Asset type: original inline editorial image explaining comparable industrial technical specifications. One wide landscape 16:9 overhead oblique photograph of a precision metrology bench in a dark teal engineering studio. Three variants of the same machined cylindrical coupling are arranged parallel in a clean ivory fitted inspection tray, each visibly a different bore and flange geometry. A beautiful plain stainless vernier caliper with a completely unmarked scale measures one real coupling; a cutaway sample exposes its inner bore and thin mint elastomer seal. A translucent blank glass sheet with three aligned empty rectangular slots implies consistent specification columns without any content. Focus is on dimensional comparison and material construction, realistic coherent mechanical forms, no invented performance claims. Clean brushed metal, stone and satin teal, warm ivory soft top light and restrained cyan edge light. Crisp close detail, purposeful sparse composition. No numbers, units, text, letters, logos, watermark, readable tools, certification, charts or UI.",
+      "alt": "سه کوپلینگ فلزی با قطرهای متفاوت در کنار کولیس و نمونه برش‌خورده",
+      "caption": "مقایسه ابعاد و ساختار قطعات، پایه ارائه مشخصات فنی یکدست است.",
+      "afterHeading": "جدول مشخصات را قابل مقایسه کنید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "f4d6f2b4840b54376daee66e8f0c67251dd3bc56fdc7391e802dc69cbfc8a53f",
+      "sha256": "b6e737211105e270464c1bd10b077644176240591e8381be15fb9eef6221bb69",
+      "bytes": 182830
+    },
+    {
+      "role": "detail-2",
+      "file": "apps/web/public/images/articles/industrial-b2b-website/detail-2.webp",
+      "prompt": "Use case: stylized-concept. Asset type: original inline editorial illustration for a hypothetical enquiry about a packaging-line replacement component. One wide landscape 16:9 premium carefully staged engineering desk scene with a compact section of an ivory packaging conveyor visible behind the desk. Foreground: a machined steel pneumatic fitting and two visibly different connector alternatives laid neatly on a dark teal mat; one has a thread and the other a quick release collar. A blank ivory technical folio lies open beside a plain handheld camera and small sample mount, ready for an engineer to review installation constraints before quotation. A sturdy small transit crate with fitted foam rests at far right, not yet packed; a subtle narrow mint illuminated desk inlay connects sample area to review folio, suggesting a considered procurement process. No people needed. Realistic precise metal, tactile paper, restrained warm ivory and midnight teal #031b22 with mint #76e8db highlights. Three-quarter eye-level view, depth, low visual noise. This is illustrative, not client evidence. No text, letters, numbers, logos, symbols, fake certificates, claims, charts, screen UI, watermark or collage.",
+      "alt": "اتصالات صنعتی متفاوت، دوربین و پرونده خالی روی میز بررسی کنار خط بسته‌بندی",
+      "caption": "در مثال فرضی تأمین قطعه، نوع اتصال و محدودیت نصب پیش از اعلام سازگاری بررسی می‌شود.",
+      "afterHeading": "مثال فرضی: تأمین قطعه برای خط بسته‌بندی",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "7376ae8f793f8d3da498a536517adca23db7642bf2c473354ab1a6802cba077e",
+      "sha256": "00ded71aaaf382dae85d923215c29baf5d5e2809fe9cffa39bc7d4c8e8ca919c",
+      "bytes": 177286
+    }
+  ],
+  "optimizedFormat": "WebP",
+  "optimizedQuality": 86
+}

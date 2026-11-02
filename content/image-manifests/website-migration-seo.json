@@ -1,0 +1,47 @@
+{
+  "slug": "website-migration-seo",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "role": "cover",
+      "file": "apps/web/public/images/articles/website-migration-seo/cover.webp",
+      "prompt": "Use case: stylized-concept\nAsset type: premium editorial website article cover, wide landscape 16:9.\nPrimary request: Visualize careful website migration that preserves a collection of important content. In a refined midnight teal studio, two beautifully engineered circular docking platforms sit close together at different depths. A precise transfer cradle carries an intact organized collection of five upright translucent ivory content folios with distinct small tactile geometric inlays from the first dock toward matching slots in the second dock. The collection stays coherent, each object and destination is visibly accounted for. One beautiful curved mint light cable connects the docks, without resembling a bridge. A few folios are already gently seated in the receiving dock, others in the cradle.\nStyle/medium: premium clean editorial 3D render, sophisticated staged product photography, tactile frosted glass, brushed dark metal, ivory ceramic, precision engineering.\nComposition/framing: landscape 16:9, three-quarter close view at table height, clear central subject with generous dark negative space around the edges, cover safe central crop; purposeful simple composition, low visual noise.\nLighting/mood: controlled softbox lighting and restrained mint cyan internal glow, calm careful continuity, realistic shadows and reflections.\nColor palette: midnight teal #001014 and #031b22, mint #00dfd6 and #76e8db, restrained warm ivory white.\nConstraints: conceptual editorial illustration, no representation of actual client work, no claims of guaranteed ranking or zero risk. No bridge, laptops, shields, arrows, charts, graphs, words, letters, numbers, logos, watermarks or miniature interface text. Opaque background.",
+      "alt": "برگه‌های محتوای روشن روی دو سکوی انتقال با نگهدارنده میانی و اتصال نورانی فیروزه‌ای",
+      "caption": "تصویر مفهومی از انتقال منظم محتوای مهم به ساختار تازه سایت.",
+      "afterHeading": "",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "c9f6ac1a4afb0229e0211f76852f917eb896bd84614dbf31f2b85e2cf01135da",
+      "sha256": "206e8b0b9c91a338d6289fac62f4e65f9350ef8f500dadc713e10add626f5da0",
+      "bytes": 90918
+    },
+    {
+      "role": "detail-1",
+      "file": "apps/web/public/images/articles/website-migration-seo/detail-1.webp",
+      "prompt": "Use case: stylized-concept\nAsset type: original in-article editorial image explaining individual old-to-new URL mapping, wide landscape 16:9.\nPrimary request: A meticulously crafted physical routing desk seen in an angled overhead macro view. On the left, four ivory page-like objects have distinct tactile identifiers: a circle medallion, a triangular notch, three parallel grooves, and a rounded cross-shaped inset. On the right, four new translucent mint glass receiving frames carry the exact matching tactile identifier for each object. Four separate brushed-metal routing channels connect each object to its corresponding destination, with a soft mint light pulse traveling along each channel. Keep each route continuous and visibly individual, no giant merged destination and no branching maze. This is a refined metaphor for checking that every important old website address has the right new content destination.\nStyle/medium: premium clean editorial 3D product still life, tactile porcelain pages and machined metal channels on dark stone, restrained frosted glass.\nComposition/framing: wide 16:9, overhead oblique close view, asymmetrical but balanced routing desk, crisp readable object relationships, low noise and generous space between channels. Different camera and subject from a docking or transfer platform.\nLighting/mood: soft studio highlights, subtle cyan reflections, thoughtful precise atmosphere.\nColor palette: midnight teal #031b22 and #001014, mint #00dfd6 and #76e8db, warm ivory.\nConstraints: purely physical identifiers, no words, letters, numbers, readable interfaces, logos, arrows, flowchart boxes, watermarks, ranking charts or laptop. No claim of guaranteed SEO performance. Opaque background.",
+      "alt": "چهار برگه با نشان‌های هندسی متفاوت که هرکدام از مسیر جدا به قاب هم‌نشان خود متصل شده‌اند",
+      "caption": "برای هر آدرس مهم، مقصدی متناسب با همان محتوا تعیین کنید.",
+      "afterHeading": "هر آدرس مهم باید تصمیم مشخص داشته باشد",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "7b0ed719f48eef4470705b15896621766065379f1f6fd30ddb4d3b59585881a8",
+      "sha256": "c9e0ce4da3c34ed057dee5b3c634bfedcb80b2875cc3b4512cb0839fef55faba",
+      "bytes": 283214
+    },
+    {
+      "role": "detail-2",
+      "file": "apps/web/public/images/articles/website-migration-seo/detail-2.webp",
+      "prompt": "Use case: stylized-concept\nAsset type: original in-article editorial illustration about post-launch monitoring and data-aware recovery, wide landscape 16:9.\nPrimary request: A refined operational inspection workbench after a website migration. Center-right is an active small architectural service mechanism made of dark teal brushed metal and luminous frosted glass, with an open receiving tray accepting a single newly arrived ivory request capsule from a continuous thin mint-lit conveyor that enters from the right. Center-left, a transparent sealed recovery capsule protects an intact earlier version of the same small mechanism, clearly separate and slightly behind. Between them a precise glass inspection lens on a restrained metal arm examines the live mechanism and its fresh request tray. A narrow small side tray safely holds two other fresh ivory request capsules, making continuity of new incoming data visible. Convey recovery planning must account for new requests instead of blindly replacing the live system. No dramatic failure or alarm.\nStyle/medium: premium carefully staged conceptual product imagery, high fidelity 3D render, sophisticated tactile glass, dark machined metal, pale ceramic objects, studio photography finish.\nComposition/framing: landscape 16:9, intimate low side-angle tabletop scene, active mechanism and incoming capsule clearly central, recovery capsule secondary; simple purposeful arrangement and generous negative space. Distinct composition from old/new routing maps or docking-platform transfers.\nLighting/mood: calm controlled midnight studio, warm soft key light on ivory, mint cyan illumination in the active receiving tray, realistic restrained reflections.\nColor palette: midnight teal #001014 and #031b22, mint #00dfd6 and #76e8db, warm ivory white.\nConstraints: editorial concept rather than real client system; no numerical charts, dashboards, screens, text, letters, words, numbers, logos, arrows, padlocks, shields, watermarks or zero-risk promises. Opaque background.",
+      "alt": "سازوکار فعال در حال دریافت کپسول‌های تازه کنار نسخه محفوظ زیر محفظه شیشه‌ای و عدسی بررسی",
+      "caption": "برنامه بازیابی باید درخواست‌های تازه ثبت‌شده پس از انتشار را هم حفظ کند.",
+      "afterHeading": "پایش و بازگشت را با داده هماهنگ کنید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "8cf72a76fdea94e43da08e2fcc94b4031f983d5392c74c5249fae329e50a42cb",
+      "sha256": "1f7d7038a6ef6d8d5c81b2298c367f4dd489bacd707a84e4edfc74f73976b076",
+      "bytes": 147092
+    }
+  ],
+  "optimizedFormat": "WebP",
+  "optimizedQuality": 86
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "woocommerce-vs-custom-store",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "role": "cover",
+      "file": "apps/web/public/images/articles/woocommerce-vs-custom-store/cover.webp",
+      "prompt": "Use case: stylized-concept. Original premium editorial illustration for LOXX Persian web design studio article about WooCommerce versus custom ecommerce, focusing on catalog inventory operations and migration. Wide landscape 16:9 image. Midnight teal #001014 and #031b22 environment, controlled cyan #00dfd6 and mint #76e8db accents, warm ivory objects, brushed metal and softly frosted glass. Museum-quality clean photorealistic 3D product staging, carefully lit with subtle reflections and depth, high material realism and restrained composition. Absolutely no letters, numbers, words, logos, watermarks, charts, statistics, generic computer, money piles or shield icons. This is a symbolic editorial scene, not a website screenshot. Cover: an elegant physical miniature retail fulfillment architecture sitting on a matte dark teal stone plinth. Three standard modular shelving bays with neatly arranged unbranded ivory cosmetic cartons and folded textiles connect through a smooth cyan illuminated dispatch lane to a beautifully bespoke curved special-order workshop branch, recognizable as a different shape and process. Small matching product packages at each station. Express the choice between ready-made retail modules and tailored operation without declaring either better. Single unified physical scene, spacious polished studio, slightly elevated three-quarter wide camera, primary subject within central safe crop. No diagram arrows, no split-screen, no screens.",
+      "alt": "ماکت قفسه‌های آماده فروشگاه در کنار کارگاه سفارش اختصاصی با مسیر مشترک بسته‌بندی",
+      "caption": "انتخاب فناوری فروشگاه را با جریان واقعی آماده‌سازی و تحویل سفارش بسنجید.",
+      "afterHeading": "",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "0108f3ef3e5addc6bcbac4884ab93e9ba17a03e6c4718e7d2dfd5c2bb0a8be7d",
+      "sha256": "58523829de10650c956148b823f331be5fbdfd36e67fad92a13213268a6756f6",
+      "bytes": 210782
+    },
+    {
+      "role": "detail-1",
+      "file": "apps/web/public/images/articles/woocommerce-vs-custom-store/detail-1.webp",
+      "prompt": "Use case: stylized-concept. Original premium editorial illustration for LOXX Persian web design studio article about WooCommerce versus custom ecommerce, focusing on catalog inventory operations and migration. Wide landscape 16:9 image. Midnight teal #001014 and #031b22 environment, controlled cyan #00dfd6 and mint #76e8db accents, warm ivory objects, brushed metal and softly frosted glass. Museum-quality clean photorealistic 3D product staging, carefully lit with subtle reflections and depth, high material realism and restrained composition. Absolutely no letters, numbers, words, logos, watermarks, charts, statistics, generic computer, money piles or shield icons. This is a symbolic editorial scene, not a website screenshot. Inline image: close elevated view of a precise physical order preparation system. Six well-spaced shallow ivory retail product trays hold folded fabric in three tasteful teal/ivory colors and two sizes, with matching blank packaging. The trays feed through three carefully fitted brushed-metal channels toward a compact dispatch carton station; two neatly differentiated parcel shapes illustrate shipping constraints. Foreground tactile product variants are clear, softly luminous mint lane edges suggest coordinated stock flow. Purposeful real retail objects, calm refined scene, no diagram, no floating blocks or panels. Camera from above at an oblique angle, keep whole composition wide.",
+      "alt": "تنوع رنگ و اندازه پوشاک در سینی‌های مجزا روی مسیر آماده‌سازی سفارش",
+      "caption": "مرجع موجودی باید تنوع کالا و تغییر وضعیت سفارش را هماهنگ نگه دارد.",
+      "afterHeading": "مرجع موجودی و قیمت را تعیین کنید",
+      "width": 1672,
+      "height": 940,
+      "originalSha256": "f4e13e6e76d0decb7516b56d3835f76a588b2f658a8c9cd166587fc1a649a55d",
+      "sha256": "d446ab358c6951361ecac6ff478ad069e79203db8f25f09e4316865fd8299926",
+      "bytes": 220482
+    },
+    {
+      "role": "detail-2",
+      "file": "apps/web/public/images/articles/woocommerce-vs-custom-store/detail-2.webp",
+      "prompt": "Use case: stylized-concept. Original premium editorial illustration for LOXX Persian web design studio article about WooCommerce versus custom ecommerce, focusing on catalog inventory operations and migration. Wide landscape 16:9 image. Midnight teal #001014 and #031b22 environment, controlled cyan #00dfd6 and mint #76e8db accents, warm ivory objects, brushed metal and softly frosted glass. Museum-quality clean photorealistic 3D product staging, carefully lit with subtle reflections and depth, high material realism and restrained composition. Absolutely no letters, numbers, words, logos, watermarks, charts, statistics, generic computer, money piles or shield icons. This is a symbolic editorial scene, not a website screenshot. Inline image: safe catalog migration represented by tangible product identities moving between two distinctly designed miniature storefront shelving models. On left a conventional rectangular ivory grid shelving unit with unbranded product bottles, folded textile and cartons; on right an elegant custom curved dark metal retail display. Between them a broad frosted glass transfer tray carries one bottle, one folded textile and one carton, with each distinct shape and color repeated faithfully at source and destination. Product identity and variants remain visibly consistent. Calm meticulous archival transfer concept, low horizontal eye-level perspective with depth, wide studio scene, no arrows, no hands, no diagrams, no computer.",
+      "alt": "انتقال بطری، منسوجات و بسته کالا میان دو قفسه فروشگاه با طراحی متفاوت",
+      "caption": "در مهاجرت، هویت کالا و رابطه تنوع‌ها باید همراه اطلاعات نمایشی حفظ شود.",
+      "afterHeading": "مهاجرت را فقط انتقال نام کالا نبینید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "8e4c0319d30290958560c41effd42395df037108e490d8d066b35d5bd851c613",
+      "sha256": "3ca99f33e687d9bf5d9319fa6363a5d31ae7bcc05bcc6b7a2a43c06136887d40",
+      "bytes": 159844
+    }
+  ],
+  "optimizedFormat": "WebP",
+  "optimizedQuality": 86
+}

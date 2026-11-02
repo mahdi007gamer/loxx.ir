@@ -1,0 +1,47 @@
+{
+  "slug": "website-backup-maintenance",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "role": "cover",
+      "file": "apps/web/public/images/articles/website-backup-maintenance/cover.webp",
+      "prompt": "Use case: stylized-concept\nAsset type: wide editorial cover for an article about ongoing website maintenance and recoverable backups.\nPrimary request: Create one premium conceptual product photograph of a recoverable website backup capsule in a quiet technical atelier. A beautifully constructed miniature website is represented by three upright ivory browser-like architectural panels, containing only orderly blank image recesses and solid relief blocks, mounted in a compact midnight-teal brushed-metal frame. Beside it, clearly detached and physically separate, is an open oval protective archive capsule with a matching complete set of the same panels nestled securely inside; the capsule is tangible, not a cloud or shield. A single restrained mint illuminated groove visually connects the active structure to its separate backup capsule, suggesting continuity and the ability to recover. The composition should feel purposeful and reassuring, with the active structure and complete backup equally visible, not futuristic clutter.\nScene/backdrop: dark teal stone studio tabletop and seamless midnight teal background, sparse atelier atmosphere.\nStyle/medium: exquisite realistic 3D product imagery, tactile brushed metal, ceramic-like ivory panels, smoked glass capsule lid, carefully controlled reflections.\nComposition/framing: one coherent landscape image, 16:9 at 2048x1152 if supported, three-quarter camera angle slightly above the tabletop; both key objects safely centered within the middle 70 percent for cover cropping, generous breathing room.\nLighting/mood: soft warm ivory key light, subtle cyan-mint edge light, deep elegant shadows, restrained cinematic contrast.\nColor palette: midnight teal #001014 and #031b22, mint #00dfd6 and #76e8db, small warm ivory accents.\nConstraints: no text, words, letters, numbers, logos, watermark, icons, shields, clouds, padlocks, laptops, fake statistics, tiny UI text, people or hands. No triptych or collage. The backup must look complete and recoverable rather than an abstract duplicate icon.",
+      "alt": "سه پنل روشنِ وب‌سایت کنار کپسول بازِ پشتیبان با نسخه کامل پنل‌ها و نور پیوند فیروزه‌ای روی میز سنگی تیره",
+      "caption": "تصویر مفهومی از نگهداری نسخه کامل و جداگانه برای بازیابی سایت.",
+      "afterHeading": "",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "8d4712e6cbb4dd10fcc42a5f935b55b3b708947f29557c13d1285d7971048473",
+      "sha256": "8dc444352a04e6a67106e46f7fcc5add48fd4b1297b9adec51faa9f6a47af6c8",
+      "bytes": 166490
+    },
+    {
+      "role": "detail-1",
+      "file": "apps/web/public/images/articles/website-backup-maintenance/detail-1.webp",
+      "prompt": "Use case: stylized-concept\nAsset type: first in-article editorial illustration about proving a backup can be restored.\nPrimary request: A separate isolated restoration workbench in a premium dark-teal technical atelier. Show an open archival cartridge in the left foreground, with neat ivory and teal data plates. In the center, a restored miniature website structure is fully reassembled on its own recessed testing tray, visibly separate from the cartridge. The structure consists of one upright ivory browser-shaped panel displaying three clean product-photo swatches of simple ceramic objects, a small blank order-card stack, and a mint glass access token lying in a fitted slot. A large exquisite optical inspection loupe on a brushed-metal articulated arm hovers just above the restored panel, visibly magnifying one of the ceramic image swatches through clear glass. This scene communicates restoration followed by checking images, sample records and access in an isolated environment. The loupe is the dominant visual metaphor, not copying alone.\nStyle/medium: realistic carefully staged 3D product photography, tangible ceramic, brushed aluminium, glass and matte stone.\nComposition/framing: single coherent 16:9 landscape at 2048x1152 if supported; close three-quarter view with tactile shallow depth of field, all principal restored components visibly readable as objects, background kept simple, no repeated cover composition.\nLighting/mood: focused warm ivory bench light and cool mint underlighting around the testing tray, calm meticulous inspection.\nColor palette: midnight teal #001014 / #031b22, mint #00dfd6 / #76e8db, controlled warm ivory.\nConstraints: no text, letters, numbers, logos, watermark, fake charts, miniature UI text, checkmark icons, shields, clouds, padlocks, laptops, people or hands. No collage, montage, triptych. Illustrative concept, not an actual client screenshot.",
+      "alt": "ذره‌بین بازویی روی تصویر محصول در وب‌سایت بازیابی‌شده، کنار کارت‌های نمونه و محفظه بازِ آرشیو در میز آزمون",
+      "caption": "آزمون بازیابی با بررسی تصاویر، نمونه داده‌ها و دسترسی کامل می‌شود.",
+      "afterHeading": "پشتیبان باید قابل بازیابی باشد",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "886b4978b8a54f1dafda4ad7b4451e36c7b64cd6b3d6e6f9cb5269599e0246a0",
+      "sha256": "ac851e62f650a722450f3361a39c8301fd995e0f79d04e23c59394593e3586f3",
+      "bytes": 168332
+    },
+    {
+      "role": "detail-2",
+      "file": "apps/web/public/images/articles/website-backup-maintenance/detail-2.webp",
+      "prompt": "Use case: stylized-concept\nAsset type: second in-article editorial illustration about safe ongoing maintenance and preserving fresh live data during changes.\nPrimary request: Create a premium overhead technical still life of an orderly website maintenance station, using a distinctly different layout from a backup capsule or restore workbench. On a midnight-teal stone surface, two compact precision-built service assemblies sit on separate fitted trays: a smaller open testing assembly at upper left with an ivory replacement module being aligned beside a precise calibration tool, and a closed operational assembly at lower right softly illuminated mint. Between them a short controlled mint track carries a single approved brushed-metal replacement module toward the operational assembly. Crucially, a separate narrow curved rail of fresh warm-ivory translucent order tokens enters the operational assembly from the far right and remains continuous and undisturbed, visually showing new data preserved during maintenance. A neatly placed torque screwdriver and three precisely aligned spare fasteners sit beside the testing tray, making planned preventive care feel concrete and orderly. No arrows or labels, communicate through physical arrangement and distinct channels.\nStyle/medium: editorial luxury realistic 3D product photography, finely machined metal, translucent glass tokens, matte ceramic inserts, tactile stone, subtle mechanical plausibility.\nComposition/framing: single coherent 16:9 landscape at 2048x1152 if supported, near top-down camera, clear spacing and strong diagonal relationship between test and live assemblies, low visual noise; tokens and tools at realistic relative scale.\nLighting/mood: soft studio light with mint practical glow, restrained warm accent on incoming order tokens, calm deliberate precision.\nColor palette: midnight teal #001014 / #031b22, mint #00dfd6 / #76e8db, warm ivory.\nConstraints: no words, letters, numbers, logos, watermark, screens, fake charts, arrows, shield, cloud, padlock, laptop, people or hands. No collage, montage or triptych. Avoid generic cubes; use recognisable precision service modules and tools.",
+      "alt": "ابزار نگهداری و قطعه جایگزین روی مسیر سبزِ آزمون، کنار ماژول فعال و مسیر جداگانه ورودی داده‌های تازه",
+      "caption": "تغییرات را ابتدا بررسی کنید و هنگام انتشار، داده‌های تازه را حفظ کنید.",
+      "afterHeading": "تغییر را مستقیم روی نسخه زنده امتحان نکنید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "765c23f3ed467dedb88d74aec97ab6827ff3b90dea0a5fa6e239acacecb8921d",
+      "sha256": "2d04ac8f5f1ef5f710421201d46da7f589619258a30b65925732dece4cf57194",
+      "bytes": 290462
+    }
+  ],
+  "optimizedFormat": "WebP",
+  "optimizedQuality": 86
+}

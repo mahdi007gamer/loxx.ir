@@ -1,0 +1,47 @@
+{
+  "slug": "web-design-agency-selection",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "role": "cover",
+      "file": "apps/web/public/images/articles/web-design-agency-selection/cover.webp",
+      "prompt": "Use case: stylized-concept\nAsset type: original wide 16:9 editorial cover for a Persian article about choosing a web design agency using evidence.\nPrimary request: an elegant selection desk holding three distinct, genuinely crafted proposal folios open to different abstract website design artifacts, with a single precision inspection frame resting over the central folio. Convey careful comparison of scope and deliverables.\nScene/backdrop: a quiet premium midnight-teal studio, matte dark stone desk, seamless deep background.\nSubject: three ivory and translucent teal document folios arranged in a shallow fan, each containing intentionally different tactile artifacts: one layered page-flow card, one modular component arrangement, one content and handover packet. A thin brushed metal rectangular evaluation frame focuses attention on the middle folio; subtle mint glass tabs mark areas to compare. This is a conceptual editorial still life, not a screenshot or client portfolio.\nStyle/medium: sophisticated tactile 3D product imagery, precise believable paper edges and frosted glass.\nComposition/framing: wide landscape 16:9, gently elevated three-quarter camera, all essential objects safely within the central 65 percent for cover cropping, generous dark breathing room.\nLighting/mood: controlled softbox side light, restrained cyan edge glow, calm discerning atmosphere.\nColor palette: midnight teal #001014 and #031b22, mint #00dfd6 and #76e8db, warm ivory and brushed silver.\nConstraints: entirely text-free; use only simple abstract blank page blocks, no fake numeric charts or statistics, no recognisable brand imagery. Each proposal visually distinct without implying a real client.\nAvoid: words, letters, numbers, logos, watermark, awards, testimonial cards, handshakes, generic laptop, shield or cube, clutter, tiny illegible UI, glowing sci-fi holograms.",
+      "alt": "سه پوشه پیشنهاد طراحی با چیدمان‌های متفاوت و قاب فلزی ارزیابی روی میز سنگی تیره",
+      "caption": "تصویر مفهومی مقایسه پیشنهادها بر اساس محدوده و اقلام تحویل.",
+      "afterHeading": "",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "ea4de6fa26f042fa988714ed377fc50bdbb0051125a9ab8281b0300c722bc103",
+      "sha256": "6f7e379729540ef3f417bf37a85ef9ca989c9f1671dde1d0452916cb58b711b7",
+      "bytes": 150532
+    },
+    {
+      "role": "detail-1",
+      "file": "apps/web/public/images/articles/web-design-agency-selection/detail-1.webp",
+      "prompt": "Use case: stylized-concept\nAsset type: original wide 16:9 in-article explanatory image for the section about asking what a web agency actually contributed to a portfolio project.\nPrimary request: show verifiable design contribution as a transparent physical sequence of process artifacts beside a finished conceptual website composition.\nScene/backdrop: premium dark teal studio tabletop with an upright warm ivory presentation board.\nSubject: a short horizontal progression of three substantial artifacts in front of the board: a folded user-flow sheet made only of blank nodes and connecting lines; a tracing-paper interface wireframe with clear structural rectangles; a refined frosted-glass component sheet. Behind them at right, a finished abstract page layout mounted on a tall physical board echoes the same arrangement, showing how the intermediate design decisions relate to the result. Thin mint threads connect matching regions of the artifacts to the final board, physically anchored, sparse and easy to follow. No computer or laptop. Editorial concept only, not actual client work.\nStyle/medium: clean highly crafted 3D still-life, photographic material realism, paper, acrylic and matte metal.\nComposition/framing: wide 16:9 landscape, eye-level oblique view, asymmetric composition flowing from lower left artifacts to upper right final board, subjects large and legible as shapes.\nLighting/mood: precise mint rim light and soft ivory key light, quiet investigative clarity.\nColor palette: midnight teal #001014 / #031b22, mint cyan #00dfd6 / #76e8db, restrained warm ivory.\nConstraints: no text whatsoever, no labels or lettering, no fake charts or claims, abstract page layouts composed of large blank image rectangles and solid short bars only. Do not present it as evidence of an actual commission.\nAvoid: client logos, awards, testimonials, handshake, generic laptop/shield/cube, miniature illegible UI, excessive connectors, visual clutter, watermark.",
+      "alt": "نمودار مسیر کاربر، وایرفریم و صفحه اجزا که با رشته‌های نعنایی به طرح نهایی مفهومی متصل شده‌اند",
+      "caption": "برای بررسی نقش تیم، ارتباط تصمیم‌های فرایند طراحی با خروجی نهایی را دنبال کنید.",
+      "afterHeading": "نقش واقعی تیم در نمونه‌کار را بپرسید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "95e4e57638167427e1a3069c8bf0d02ffb91b4dd6801504cbe8359274807dcf6",
+      "sha256": "fa50af1b58bba5a098a138d00228c9304c990aff4f73cac63fcd632d5d2a2329",
+      "bytes": 95142
+    },
+    {
+      "role": "detail-2",
+      "file": "apps/web/public/images/articles/web-design-agency-selection/detail-2.webp",
+      "prompt": "Use case: stylized-concept\nAsset type: original wide 16:9 in-article image for a section on evaluating collaboration through a small useful paid discovery deliverable.\nPrimary request: a small completed, usable prototype neatly handed over as an independent deliverable, with a larger future project still calmly planned in the background.\nScene/backdrop: midnight-teal design studio, dark stone surface with a low ivory delivery tray in the foreground.\nSubject: the foreground tray contains a beautifully finished freestanding folded prototype of a simple service website journey: three linked thick cards showing a service selection tile, a short blank form structure, and a clear confirmation circle with a checkmark. The cards are made of ivory paper and mint translucent acrylic, intentionally abstract and without any text. Beside the prototype is a compact closed ivory documentation booklet with a plain unprinted cover, and a small loose mint feedback tab. Farther behind on the tabletop, out of focus and clearly separate, a larger unassembled plan consists of several blank outline cards aligned on a dark board, suggesting later scope without competing with the complete foreground output.\nStyle/medium: premium editorial 3D physical product still-life, convincing tactile paper and subtle frosted acrylic.\nComposition/framing: landscape 16:9, close low three-quarter camera emphasizing the complete portable delivery kit, strong foreground/background separation, no people.\nLighting/mood: warm ivory focused light on finished prototype, gentle cyan edge illumination, assured thoughtful atmosphere.\nColor palette: deep midnight teal #001014 / #031b22, mint #00dfd6 / #76e8db, warm ivory, very restrained silver.\nConstraints: purely illustrative concept, no actual client work; foreground prototype must clearly stand alone and look useful, not an unfinished fragment. Absolutely no words, letters, numbers or logos.\nAvoid: handshakes, awards, testimonials, cash or coins, fake charts, generic laptop/shield/cube, tiny illegible UI text, watermark, excessive objects, split panels or collage.",
+      "alt": "نمونه اولیه سه‌مرحله‌ای انتخاب خدمت، فرم و تأیید همراه دفترچه تحویل در سینی روشن",
+      "caption": "یک مرحله محدود می‌تواند نمونه اولیه و مستندات قابل استفاده‌ای برای ارزیابی همکاری تحویل دهد.",
+      "afterHeading": "شیوه همکاری را با یک خروجی کوچک ارزیابی کنید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "871f9a45a92450eb003c37a9a8ed7f1a9a2cced2c62d992e5f3e4f9807df629e",
+      "sha256": "1ae692ccbdac2ce8a25ffcbc5f813dd76c978065d50cca74af2536dde648d095",
+      "bytes": 133228
+    }
+  ],
+  "optimizedFormat": "WebP",
+  "optimizedQuality": 86
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "digital-product-store",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "role": "cover",
+      "file": "apps/web/public/images/articles/digital-product-store/cover.webp",
+      "prompt": "Use case: stylized-concept. Asset type: premium editorial cover for Persian LOXX article about designing a digital product store and reliable buyer delivery. Create one original wide 16:9 landscape image. Scene: exquisitely staged creative studio delivery atelier. A precision open brushed titanium presentation case contains luminous layered translucent glass media sheets: one represents an abstract illustration by an embossed flowing ivory relief, one an editable presentation by beautifully composed blank geometric panels, one an audio asset by finely sculpted waveform ridges without any text. A single authorised receiving library frame beyond the case accepts one elegant mint light ribbon. This must feel like valuable creative digital files, tangible editorial metaphor, no laptop. Three-quarter low camera, central subject safe in crop, purposeful generous negative space. Midnight teal #001014 and #031b22 background, mint/cyan #00dfd6 and #76e8db edge illumination, restrained warm ivory highlights, tactile glass and stone. Exceptionally clean luxury product photography meets refined 3D, precise physically believable reflections, quiet composition. No words, letters, logos, watermark, numerals, readable UI, charts, coins, clouds, padlocks, or generic cubes. One coherent scene, not montage.",
+      "alt": "ورق‌های شیشه‌ای تصویر، قالب ارائه و فایل صوتی در جعبه تحویل متصل به کتابخانه خریدار",
+      "caption": "تحویل محصول دیجیتال باید نوع فایل و مسیر دسترسی خریدار را روشن کند.",
+      "afterHeading": "",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "230f878d13c6f5339af9e54d72fae1a3040a7681e04f06e8782d28139957fc47",
+      "sha256": "22a788115726489618d7e7f9253215a7de21682327d2f6c75b45c19c1af66d3b",
+      "bytes": 188824
+    },
+    {
+      "role": "detail-1",
+      "file": "apps/web/public/images/articles/digital-product-store/detail-1.webp",
+      "prompt": "Use case: stylized-concept. Asset type: in-article editorial illustration for digital-product-store section explaining server-authorised time-limited download access separate from storage. One original wide 16:9 landscape image. Visual story: inside a midnight-teal architectural miniature, an opaque recessed archive holds a layered translucent creative media package; a slim precise mint-lit access gate stands between archive and a single ivory buyer-library tray. Only one narrow luminous download path is active, through a small glass mechanical hourglass integrated into the gate, showing time-bound authorisation without numbers. The complete package remains safely in the archive while one clearly matching receiver copy rests in its correct destination. Elegant ordered scene, understandable at thumbnail size, no network tangle. Camera close elevated diagonal, archive left rear and recipient foreground right, clean spatial depth. Premium editorial 3D with charcoal teal stone, brushed aluminium, translucent glass, mint #00dfd6 illumination and ivory #f0eadb accents on #001014 background. Controlled soft lighting, beautifully crafted details, zero visual noise. No text, letters, numerals, logos, watermark, padlock, shield, clouds, coins, miniature UI, generic laptop, or split screen. This is a conceptual illustration, not a real software screenshot.",
+      "alt": "بسته فایل در مخزن جداگانه و مسیر دریافت زمان‌دار از دروازه ساعت‌شنی به سینی خریدار",
+      "caption": "مجوز دریافت با مدت اعتبار مشخص، از نشانی ثابت مخزن فایل جدا می‌شود.",
+      "afterHeading": "دسترسی را از محل ذخیره فایل جدا کنید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "aac4a27b5d168ade8b7366025a2fd7334982daa02b57f24b1971ab9bd3db2509",
+      "sha256": "31aace2a0bac60a2efeed19477f71a2847aa4bcef1ddd23f00d418601245095c",
+      "bytes": 146278
+    },
+    {
+      "role": "detail-2",
+      "file": "apps/web/public/images/articles/digital-product-store/detail-2.webp",
+      "prompt": "Use case: stylized-concept. Asset type: in-article illustration of hypothetical digital presentation-template bundle and clear product contents. Create one original wide 16:9 landscape image. Top-down premium still-life on deep midnight teal stone desk: an open ivory presentation-template folio with three orderly blank page compositions made from raised simple mint and teal geometric shapes; beside it a neat translucent editable-file sheet, an unmarked slim type specimen object built from abstract curved strokes WITHOUT actual letters, and a small folded illustrated instruction leaflet using only geometric diagrams. A delicately translucent new-version sleeve sits slightly behind the complete purchased bundle, communicating organised versions rather than a random file pile. Every object belongs to this one coherent editable presentation product. Immaculate editorial art direction, substantial tactile paper, frosted glass, subtle brushed metal binding, restrained ivory #f0eadb, midnight teal #031b22, mint/cyan #76e8db accents. Soft top-left studio light, refined shadows, thoughtful breathing space, crisp central subject. No words, letters, logos, watermark, numbers, fake UI, fake customer work, currencies, clouds, shopping cart, generic cubes, or collage. Sophisticated and useful conceptual product photography.",
+      "alt": "پوشه قالب ارائه با صفحات هندسی، لایه‌های ویرایش‌پذیر و راهنمای تصویری در کنار نسخه تازه",
+      "caption": "در نمونه بسته قالب ارائه، فایل قابل ویرایش، راهنما و نسخه عرضه‌شده باید مشخص باشند.",
+      "afterHeading": "مثال فرضی: فروش بسته قالب ارائه",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "a2ce3cd2a6c844b8aa3d5e3205b274bbcce5db8b03cc8c251b0d6453b6dc2bed",
+      "sha256": "f6b0a98b455e34ad6627778bf2b9b22650003d59d547e73ea1fbc3bff7967070",
+      "bytes": 169470
+    }
+  ],
+  "optimizedFormat": "WebP",
+  "optimizedQuality": 86
+}

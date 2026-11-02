@@ -1,0 +1,47 @@
+{
+  "slug": "fashion-online-shop",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "role": "cover",
+      "file": "apps/web/public/images/articles/fashion-online-shop/cover.webp",
+      "prompt": "Use case: product-mockup. Asset type: original wide 16:9 editorial article cover for a premium clothing online shop design article. Create a sophisticated fashion atelier still life: a perfectly tailored deep midnight teal longline coat on a minimal brushed metal hanger at center, an ivory cotton shirt neatly draped on a low warm ivory stone block to the left, and a single folded mint knit with visible rib texture on the right. Subjects visibly convey cut, textile texture and garment variety, beautifully proportioned real garments. Dark teal #001014 studio backdrop, quiet mint #76e8db edge light, restrained ivory key light, tactile fabric and precise seams. Camera slightly below hanger height, spacious asymmetric composition, hero garments safely within central crop, premium clean commercial editorial photography, controlled shadows, realistic rich textile detail. No screens, no devices, no shopping cart, no writing, no letters, no numerals, no logos, no watermark. This is conceptual illustration, not proof of client work. One complete landscape scene, not collage.",
+      "alt": "پالتوی بلند سبز تیره کنار پیراهن شیری و بافت نعنایی روی پایه‌های سنگی",
+      "caption": "نمایش فرم، بافت و تفاوت لباس‌ها به انتخاب آگاهانه کمک می‌کند.",
+      "afterHeading": "",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "037407472729492c893727408c0f7b3e2888d52aec7060b25440d36bfb7e0eb0",
+      "sha256": "3b9e9be54effb3b1185ad5003f3055032fe2ba96fd67b3890d7a89c5795cf440",
+      "bytes": 136232
+    },
+    {
+      "role": "detail-1",
+      "file": "apps/web/public/images/articles/fashion-online-shop/detail-1.webp",
+      "prompt": "Use case: product-mockup. Asset type: original wide 16:9 in-article editorial image explaining garment-specific measurement and fit. A refined fashion pattern-cutting table viewed from a high oblique angle, with one ivory longline shirt laid completely flat and correctly shaped, its collar, shoulder seam and hem clearly visible. A plain soft mint fabric measuring ribbon with absolutely no printed markings lies precisely from the shoulder seam to the hem, and a second unmarked ribbon spans the chest. An elegant headless adjustable dark teal dress form wearing the matching fitted ivory garment stands behind the table, making the difference between flat garment measurement and fitted shape visible. Dark midnight teal atelier background #031b22, stone worktable, brushed steel scissors kept far to one side, realistic cotton texture. Premium editorial product photography, controlled soft ivory light with mint accents, minimal composition, no hands or people. No words, letters, numbers, logos, text, charts, watermark, digital devices or screens. A single coherent scene, no collage.",
+      "alt": "پیراهن شیری روی میز با نوارهای ساده برای نمایش طول و عرض لباس و مانکن پوشیده در پس‌زمینه",
+      "caption": "نمای مفهومی از محل سنجش طول و عرض لباس؛ راهنمای اندازه باید به همان محصول مربوط باشد.",
+      "afterHeading": "راهنمای اندازه را به همان لباس وصل کنید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "3d63427e84bb5893ff32ccd0d64d4b13b95ca59f7938bdfff18ffda692210526",
+      "sha256": "47003cdb685e8d3b48436aa6b74cfd32003e7ae78d46cbcc45dbe9b958d3bf3a",
+      "bytes": 159638
+    },
+    {
+      "role": "detail-2",
+      "file": "apps/web/public/images/articles/fashion-online-shop/detail-2.webp",
+      "prompt": "Use case: product-mockup. Asset type: original wide 16:9 in-article fashion editorial illustration for an example of a longline manteau offered in three lengths. A precise boutique apparel rail displays three elegant longline teal manteau coats on identical brushed metal hangers, all shoulder seams aligned horizontally, with visibly distinct short, medium and long hems descending left to right. Realistic tailoring, long sleeves, clean lapels and refined fabric folds. Each coat is the same design and shade of deep teal; three small folded fabric swatches in ivory, mint and midnight teal sit on a low ivory plinth nearby to suggest tactile colour choice. Wide frontal camera, all hems and full garments visible, graceful negative space. Midnight teal #001014 studio, soft mint cyan #00dfd6 rim lighting, warm ivory accent surface, premium tactile fashion catalog editorial photography, no unnecessary objects. No text, no numbers, no logos, no labels, no watermark, no screens, no shopping carts. Single scene, not triptych or collage.",
+      "alt": "سه مانتوی سبز تیره با قدهای کوتاه، متوسط و بلند روی رگال و پارچه‌های تاخورده در کنار آن",
+      "caption": "نمای مفهومی یک مدل مانتو با سه قد؛ انتخاب قد باید همراه اندازه و رنگ ثبت شود.",
+      "afterHeading": "مثال فرضی: فروش مانتو با سه قد",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "e5788b31919c9b7d8b35ed56d2b2c9f456cbcbda76b2f92c3bf53c075f967a85",
+      "sha256": "0d4b4d47d6a934d5b6ae63a4765b3c4aa21e869b580d2531f27e5292d2452cdd",
+      "bytes": 93866
+    }
+  ],
+  "optimizedFormat": "WebP",
+  "optimizedQuality": 86
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "online-shop-launch",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "role": "cover",
+      "file": "apps/web/public/images/articles/online-shop-launch/cover.webp",
+      "prompt": "Use case: stylized-concept. Asset type: original editorial article cover for LOXX, about launching a small stationery online shop with clear operations. Wide landscape 16:9. Premium clean photorealistic 3D staged scene: a modest, curated collection of a cloth pencil case, two unbranded notebooks and brushed-metal pens, physically arranged on low midnight-teal stone plinths, transitioning across a gently curved mint-lit channel into a tall elegant smoked-glass storefront display with the same real products neatly presented in three open bays. This is a symbolic retail display, not a computer screen. Convey a small inventory becoming an organized digital shop. Central product arrangement safe for cropping, oblique eye-level camera, deep dark teal studio background #001014 and #031b22, restrained cyan #00dfd6 rim lighting and ivory product surfaces, tactile cloth and paper, controlled soft shadows, sophisticated believable materials, uncluttered generous space. No people, shopping carts, floating cubes, laptops, words, letters, numbers, logos, watermark, charts or text-like UI.",
+      "alt": "دفتر، خودکار و جامدادی روی پایه‌های سنگی کنار ویترین منظم با نور فیروزه‌ای",
+      "caption": "مجموعه محدود کالاها هم می‌تواند با اطلاعات و چیدمان منظم، شروع مناسبی برای فروشگاه باشد.",
+      "afterHeading": "",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "7effe954482a13899a31f64f6acda29edad94dff39a29fe7580cefc98e34ff86",
+      "sha256": "12b8bdb324e2ca8d26ec72eda4b5fce53768a10ffac70006da519c279f5a26ce",
+      "bytes": 172516
+    },
+    {
+      "role": "detail-1",
+      "file": "apps/web/public/images/articles/online-shop-launch/detail-1.webp",
+      "prompt": "Use case: product-mockup. Asset type: original in-article editorial image explaining shipping and packing operations for a small online stationery shop. Wide landscape 16:9. Carefully staged overhead three-quarter product photograph on a dark midnight teal packing table: one open compact kraft parcel with an ivory notebook and neatly fitted charcoal pencil case nestled in ivory tissue; to one side two small organized stock trays containing mint and ivory pen variants; reusable metal ruler and paper tape dispenser; a second closed ready-to-ship parcel at back. Show an orderly realistic pack-and-dispatch workflow, realistic modest quantities, clear physically usable packaging and clean spaces. Premium LOXX palette #001014 #031b22 with softly glowing mint/cyan edge light #00dfd6 #76e8db, restrained warm ivory, authentic paper, fabric, brushed metal, soft cinematic top light, understated editorial 3D realism. No labels, text, letters, barcodes, numbers, logos, watermark, screens, UI, charts, hands or shopping cart icons.",
+      "alt": "جعبه باز حاوی دفتر و جامدادی روی میز بسته‌بندی در کنار سینی موجودی خودکارها",
+      "caption": "آماده‌سازی و بسته‌بندی سفارش باید با موجودی و وعده ارسال فروشگاه هماهنگ باشد.",
+      "afterHeading": "سیاست عملیات را به زبان مشتری بنویسید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "2896e89cf1aa51f277c99265f0486292855d6563f5a6090aaae8bc3c6e683cd8",
+      "sha256": "6329c5e70dc18079488765fc34bef936cbda5029b1b7bf3fe0c320f88acfb8ff",
+      "bytes": 166592
+    },
+    {
+      "role": "detail-2",
+      "file": "apps/web/public/images/articles/online-shop-launch/detail-2.webp",
+      "prompt": "Use case: stylized-concept. Asset type: original in-article editorial illustration for a hypothetical small stationery online storefront. Wide landscape 16:9. A compact sculptural storefront display, three vertical dark teal architectural bays set on a shallow stone shelf, seen straight-on with slight elevated perspective. In the wide central hero bay one open ivory notebook with visibly blank pages and a refined metal pen, in the smaller side bays a mint fabric pencil case and two closed notebooks in alternate ivory and slate covers. Below each bay a distinct softly illuminated circular selection inset, no writing at all. Tangible miniature showroom conveys purposeful product hierarchy and separate color variants for a small launch collection, never a real screenshot or actual client project. Premium quiet editorial 3D, midnight teal #001014 #031b22, subtle mint/cyan light #00dfd6 and #76e8db, warm ivory paper, tactile fabric, dark stone and smoked glass accents, strong controlled lighting, clean negative space, no clutter. No words, letters, numbers, logo, watermark, shopping cart, laptop, charts or tiny UI glyphs.",
+      "alt": "ویترین سه‌بخشی با دفتر باز در مرکز و جامدادی و دفترهای رنگی در دو طرف",
+      "caption": "نمونه مفهومی از اولویت‌بندی کالاهای یک فروشگاه کوچک لوازم رومیزی.",
+      "afterHeading": "مثال فرضی: فروشگاه لوازم رومیزی",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "e2a3402ad4fbcec7f4c7eab3138b6f914f549d88157bfefd9005a55717edf914",
+      "sha256": "77600a5b2f99afd44bb43005ecb6c080d201d14774829a151285c45602ebbd33",
+      "bytes": 163724
+    }
+  ],
+  "optimizedFormat": "WebP",
+  "optimizedQuality": 86
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "website-accessibility",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "role": "cover",
+      "file": "apps/web/public/images/articles/website-accessibility/cover.webp",
+      "prompt": "Use case: stylized-concept. Asset: original editorial cover for website accessibility article. Create a premium tactile 3D architectural interface pavilion that feels welcoming and usable: one broad smooth unobstructed route into a curved ivory work surface holding three generously separated controls, each with distinctive embossed geometry and strong dark/ivory contrast, a refined physical trackball input device and a small blank-key keyboard integrated into the same work surface. Controls are reachable from the open front edge; a crisp mint focus outline surrounds the current control. Concrete spatial usability, not disability symbolism. Midnight teal #001014 and #031b22 studio, warm ivory ceramics, brushed metal, glass accents, restrained cyan #00dfd6 illumination. Wide 16:9 landscape, elevated three-quarter camera, central key subject safe for crop, exquisite clean product lighting and low noise, sophisticated realistic materials. No people, no wheelchair or stock accessibility icons, no badges or certification claims, no letters, words, numbers, logos, watermark, charts, or fake textual UI. A single coherent original scene, no collage.",
+      "alt": "میز منحنی روشن با کنترل‌های برجسته و متضاد، گوی ورودی و صفحه‌کلید در فضایی باز",
+      "caption": "نمای مفهومی از کنترل‌های قابل تشخیص و مسیر دسترسی باز.",
+      "afterHeading": "",
+      "width": 1672,
+      "height": 940,
+      "originalSha256": "fdf79bd11e50c6944de0b94bb13c8ec5a46d5b094c6b08c484e2111829ac43be",
+      "sha256": "cb532958aba4d8f8bdd28ac06f0d916eb546c5a03fe8d093a6214e31ae739644",
+      "bytes": 176958
+    },
+    {
+      "role": "detail-1",
+      "file": "apps/web/public/images/articles/website-accessibility/detail-1.webp",
+      "prompt": "Use case: stylized-concept. Asset: original editorial inline image explaining keyboard navigation and visible focus. Premium close editorial 3D still life of a beautiful blank-key mechanical keyboard in the foreground and a sequence of five spacious tactile interface controls arranged on an elegant dark teal ceramic desk behind it. A very thin continuous mint path logically connects their centers; exactly one central raised ivory control is surrounded by a crisp double mint focus border, while the others remain clearly unselected. Include a gracefully open glass popup tray adjacent to the route with a visible return connection, showing continued navigation rather than a dead end. Distinct geometry for each control; small embossed shapes not characters. Deep midnight teal #031b22, ivory keycaps and controls, brushed metal, restrained cyan #00dfd6 light. Wide 16:9, low diagonal close camera, controlled lighting, sharp tactile detail, ample space. No readable text, letters, digits, arrows containing characters, logos, watermark, certification claims, people, stereotypical disability icons, or fake screen text. Single unified scene, no montage.",
+      "alt": "صفحه‌کلید با کلیدهای سفید و مسیر نورانی میان کنترل‌ها که تمرکز روی کنترل میانی را نشان می‌دهد",
+      "caption": "تمرکز دیداری باید جای فعلی کاربر و ترتیب حرکت میان کنترل‌ها را روشن کند.",
+      "afterHeading": "مسیر اصلی را فقط با صفحه‌کلید اجرا کنید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "d2d1d0cc02d83953bf61d28b3e69c9fa44fefeaf55f30081fa2bce021dfd6502",
+      "sha256": "53e7f88f7801b04b89077e4af9d060f63ab0117780fa38c95cfa3bf6e6cdf661",
+      "bytes": 151860
+    },
+    {
+      "role": "detail-2",
+      "file": "apps/web/public/images/articles/website-accessibility/detail-2.webp",
+      "prompt": "Use case: stylized-concept. Asset: original editorial inline illustration of readable content at increased scale and clear form relationships. Beautiful overhead oblique 3D product scene of a sculptural ivory content panel on midnight teal stone. Enlarged dark solid horizontal content bars are clearly separated with generous breathing room and stay contained in the panel; these are clean abstract bars, never text or tiny imitation writing. Beneath them two oversized ivory recessed form fields, each permanently paired with a different distinct embossed geometric label outside the field, a small circle for one and a rounded triangle for the other. The second field has an additional same-shape explanatory marker beside it, so relationship is shown through shape as well as contrasting tone. A large high-contrast dark teal action control stays fully visible beneath the fields. Refined mint edge illumination, warm ivory ceramic, matte deep teal #001014, glass edge, cinematic clean studio lighting. Spacious wide 16:9 landscape, tactile premium editorial design, readable structure and scale without any textual claims. No letters, words, numbers, typography, logos, watermark, badges, disability icons, fake data, or multiple panels/collage.",
+      "alt": "پنل روشن با نوارهای تیره بزرگ، دو فیلد مجزا با نشان‌های هندسی و دکمه پهن در پایین",
+      "caption": "فاصله کافی، کنتراست و ارتباط روشن برچسب با فیلد، استفاده از فرم را آسان‌تر می‌کند.",
+      "afterHeading": "خوانایی و بزرگ‌نمایی را در صفحه واقعی بسنجید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "95d1fb0053be926ddeb675c4bf47fb7214a76f746d88951218f32cd4e2988da0",
+      "sha256": "fd0ce94dab800ce436e05eb985cc82b7f131a4fb01a3ab934fa5fe9e6f5ce5cc",
+      "bytes": 162050
+    }
+  ],
+  "optimizedFormat": "WebP",
+  "optimizedQuality": 86
+}

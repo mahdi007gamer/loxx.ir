@@ -1,0 +1,47 @@
+{
+  "slug": "website-conversion-measurement",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "role": "cover",
+      "file": "apps/web/public/images/articles/website-conversion-measurement/cover.webp",
+      "prompt": "Use case: stylized-concept\nAsset type: original editorial cover for a Persian article about measuring website conversion and improving a user journey.\nPrimary request: a premium tactile 3D still life that makes a completed service-request journey physically understandable. On a deep midnight-teal stone tabletop, one small ivory visitor pawn follows a fine continuous mint light path through three architectural glass stations: first a service-page panel with a large image block and two plain content bars, then a short enquiry-form panel with exactly three recessed blank field slots, finally a small upright ivory confirmation receipt bearing only a clean embossed check symbol. Subtle circular sensor rings in the tabletop sit at each station; the last ring glows, showing final completion rather than mere clicks. A slim brushed-metal measuring instrument lies beside the path, suggesting careful measurement.\nComposition: wide landscape 16:9, editorial oblique view, all three stations and the important final check safely inside the central 65% of frame, generous dark negative space, strong coherent foreground-to-background journey, one scene only.\nStyle: refined photorealistic conceptual product photography / premium architectural 3D, physically credible glass and stone, precise restrained geometry, tactile and sophisticated.\nPalette and lighting: midnight teal #001014 and #031b22, controlled mint/cyan #00dfd6 and #76e8db edge illumination, warm ivory objects, gentle studio key light, subtle believable reflections.\nConstraints: illustrative concept rather than real analytics or client screenshot; blank UI slots and simple geometry only. No words, letters, numbers, logos, watermark, charts, percentages, money, giant funnel, laptop, shield, decorative random cubes, crowded objects, montage or split panels.",
+      "alt": "مسیر نورانی کاربر از صفحهٔ خدمات و فرم کوتاه تا تأیید درخواست، همراه با ابزار اندازه‌گیری فلزی",
+      "caption": "مسیر تبدیل را تا نتیجهٔ نهایی تعریف و اندازه‌گیری کنید.",
+      "afterHeading": "",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "5e44956be3759877aa70888785b18962485233a0d8e93007e3747280b9c01d69",
+      "sha256": "84730cb1adabe7d83f5d85d1b9b42aaf6d626014ce45f6959447997682cb4315",
+      "bytes": 140666
+    },
+    {
+      "role": "detail-1",
+      "file": "apps/web/public/images/articles/website-conversion-measurement/detail-1.webp",
+      "prompt": "Use case: stylized-concept\nAsset type: first original in-article editorial image for diagnosing actionable stages of a website conversion journey.\nPrimary request: a close oblique physical model of an online enquiry form as the specific point where a visitor gets stuck. A long ivory form panel stands vertically in a slim brushed-metal frame on a midnight-teal workbench. Its face has eight blank recessed field slots, with the first five neatly filled by translucent mint inserts and the final three empty; a very small restrained amber edge at one empty slot suggests a validation problem. A single tactile ivory visitor token rests on a mint route that reaches this panel and stops at its base, while the separate completion-check plinth beyond it stays unlit. A slim transparent inspection magnifier is positioned over the empty field area, showing that the exact friction point is being examined, not merely counting page visits.\nComposition: wide landscape 16:9, close-up camera from low three-quarter angle, dominant form on the left-center, stopped token and continuation route clearly legible on the right-center, clean generous breathing room. One coherent still life, not a collage.\nStyle/medium: carefully staged premium editorial 3D product imagery, frosted glass, warm ivory ceramic, brushed metal, midnight stone, subtle imperfections and physical contact shadows.\nLighting/palette: LOXX midnight teal #001014 / #031b22 environment, controlled mint/cyan #00dfd6 / #76e8db task lighting, warm ivory, tiny amber accent only at the friction point, calm studio shadows.\nConstraints: no readable UI text or pretend client work; field shapes contain no letters. No words, numbers, logos, watermark, statistics, graphs, percentages, money piles, giant funnels, laptops, shields, montage, exaggerated warning icon or random decoration.",
+      "alt": "ذره‌بین روی فیلد خالی فرم طولانی و مهرهٔ کاربر متوقف در مسیر تکمیل درخواست",
+      "caption": "افت میان شروع و ارسال فرم، نقطه‌ای برای بررسی فیلدها و خطاهاست.",
+      "afterHeading": "قیف را به گام‌های قابل اقدام تقسیم کنید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "55425b1e19a33eece25cacb01ffd3cda8ef3368ed16d7124c9dbc7154bb21691",
+      "sha256": "4057d2746e177903e3e34332997a8e046e2883b54f8855a087fb6777945f2e90",
+      "bytes": 97314
+    },
+    {
+      "role": "detail-2",
+      "file": "apps/web/public/images/articles/website-conversion-measurement/detail-2.webp",
+      "prompt": "Use case: stylized-concept\nAsset type: second original in-article editorial image about testing one clear hypothesis in a website form.\nPrimary request: a premium physical design experiment on a midnight-teal studio desk, showing one controlled change. Two identical ivory form prototype boards sit side by side on slim glass stands, each with exactly three blank field slots and one rounded mint action bar. Every element on both boards is aligned and identical. The right board alone has one small warm-ivory preparation card immediately above its fields, containing only three simple pictograms: a person outline, a small document outline, and a calendar outline, telling users what to prepare before they start. An elegant human hand enters from the upper right, carefully placing that single card using the fingertips. The left board has the same reserved space above the fields but no card. Small identical metal alignment pins and a shared baseline keep the experiment disciplined; no measured results are shown.\nComposition/framing: wide 16:9 landscape, overhead three-quarter editorial close view, two boards centered with meaningful separation, one scene with a real hand, minimal props. The card and unchanged form controls must be easy to distinguish.\nStyle: exceptionally clean tactile conceptual product photography / realistic premium 3D, no cartoon character, fine ceramic surface, glass and brushed-metal stand details, natural hand anatomy.\nPalette/lighting: deep midnight teal #001014 / #031b22, soft mint/cyan #00dfd6 / #76e8db rim lighting, restrained warm ivory, soft studio key light and controlled shadows.\nConstraints: all screens/cards are abstract physical prototypes, never a claim of actual client results. Absolutely no words, letters, numbers, labels, logos, watermark, fake percentages, charts, winning badges, money, giant funnel, laptop, shield, montage, random cubes. Do not change field count or action-button design between the two boards.",
+      "alt": "دو فرم یکسان کنار هم و دستی که کارت راهنمای اطلاعات لازم را بالای یکی قرار می‌دهد",
+      "caption": "یک تغییر روشن را آزمایش کنید: توضیح اطلاعات لازم پیش از شروع فرم.",
+      "afterHeading": "هر بار یک فرضیه روشن را آزمایش کنید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "d14bdb9f8665c258fb08ba0816bfe09570b7b43852e656b7710df2b930e4f81e",
+      "sha256": "70417da59bc007249d2fcf32bcb83426b0f2cab25711a0083e03de63540b3928",
+      "bytes": 80926
+    }
+  ],
+  "optimizedFormat": "WebP",
+  "optimizedQuality": 86
+}

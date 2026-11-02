@@ -2,6 +2,7 @@ import { readFileSync, writeFileSync, readdirSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import path from 'node:path';
 import assert from 'node:assert/strict';
+import { insertArticleImages } from './article-image-content.mjs';
 
 const root = fileURLToPath(new URL('../', import.meta.url));
 const source = path.join(root, 'content/editorial-20261102');
@@ -14,6 +15,7 @@ for (const field of ['slug', 'keyword', 'title', 'metaTitle', 'metaDescription']
 const articlesFile = path.join(root, 'content/articles.json');
 const articles = JSON.parse(readFileSync(articlesFile, 'utf8'));
 const now = new Date().toISOString();
+const imageSets = JSON.parse(readFileSync(path.join(root, 'content/article-images.json'), 'utf8'));
 const map = [];
 let added = 0, updated = 0;
 for (const item of batch) {
@@ -25,9 +27,10 @@ for (const item of batch) {
   assert.ok(item.metaDescription.length >= 100 && item.metaDescription.length <= 180, `Description: ${item.slug}`);
   assert.ok(item.excerpt.length >= 100 && item.excerpt.length <= 400, item.slug);
   const existing = articles.find(article => article.slug === item.slug);
+  const imageSet = imageSets.find(set => set.slug === item.slug);
   const content = {
-    slug: item.slug, title: item.title, excerpt: item.excerpt, body: item.body,
-    category: item.category, coverImage: '/images/' + (/فروش|فروشگاه|شاپ|محصول|موجودی|درگاه|خرید/.test(item.keyword) ? 'dashboard.webp' : 'studio-world.webp'),
+    slug: item.slug, title: item.title, excerpt: item.excerpt, body: imageSet ? insertArticleImages(item.body, imageSet.inline) : item.body,
+    category: item.category, coverImage: imageSet?.cover.src || '/images/' + (/فروش|فروشگاه|شاپ|محصول|موجودی|درگاه|خرید/.test(item.keyword) ? 'dashboard.webp' : 'studio-world.webp'),
     metaTitle: item.metaTitle, metaDescription: item.metaDescription,
     keywords: item.keyword + ', ' + item.category + ', LOXX', published: true,
   };

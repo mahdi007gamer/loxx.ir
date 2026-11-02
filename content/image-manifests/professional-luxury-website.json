@@ -1,0 +1,47 @@
+{
+  "slug": "professional-luxury-website",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "role": "cover",
+      "file": "apps/web/public/images/articles/professional-luxury-website/cover.webp",
+      "prompt": "Use case: stylized-concept. Asset type: original editorial cover for a Persian article about acceptance criteria for a professional luxury website. Generate one wide landscape 16:9 image. Scene: refined nocturnal design atelier, a precision-crafted hospitality website experience embodied as a large freestanding ivory and smoked-glass architectural interface slab, its central aperture framing a tranquil boutique hotel courtyard with soft curtains and stone pool edge. An elegant physical caliper and brushed metal alignment jig sit meaningfully beside the slab, suggesting measured quality, while layered glass, fine stone, and folded ivory material samples form a disciplined composition. Premium high-end 3D product photography, low three-quarter camera, believable tactile surfaces, exquisite controlled reflections, clean negative space. Palette midnight teal #001014 and #031b22, mint cyan #00dfd6 and #76e8db highlights, warm ivory. Main subject entirely central and safe for cover crops. This is an illustrative concept, no client evidence. No text, letters, numbers, logos, watermarks, gold, charts, gauges with markings, magnifying lens, laptops, generic floating cubes, busy background.",
+      "alt": "قاب سنگی و شیشه‌ای با نمای اقامتگاه لوکس در کنار کولیس و نمونه‌های متریال با نور فیروزه‌ای",
+      "caption": "تصویر مفهومی از سنجش کیفیت تجربه لوکس با معیارهای دقیق و قابل بررسی.",
+      "afterHeading": "",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "fb6e5fc078354f3835667d580187848a7a6d30b5cb2c07ceb97990fd9a724bce",
+      "sha256": "954cac8e45d96367e09a42349b8425624519e04976fb4e2eb06b810a2f0c3db5",
+      "bytes": 220220
+    },
+    {
+      "role": "detail-1",
+      "file": "apps/web/public/images/articles/professional-luxury-website/detail-1.webp",
+      "prompt": "Use case: stylized-concept. Asset type: original in-article editorial image explaining agreeing acceptance criteria before website delivery. Generate one wide landscape 16:9 image. Top-down precise tabletop composition in a midnight-teal design atelier: two tactile polished interface prototypes, one wide desktop glass panel and one slim phone proportion panel, arranged side by side under a fine brushed-metal calibration frame with unmarked sliding alignment arms. Their abstract content shows a boutique hotel room photograph area, generously spaced solid ivory content blocks and cyan tactile buttons; all rectangles are blank with no writing. Small ivory material samples and a smooth unmarked measuring caliper at table edge convey agreed precision and consistency across screens. No laptop or physical phone brand. Premium editorial 3D product still life, sharp textures, diffused mint side lighting, clean soft shadows, palette #001014 #031b22 #00dfd6 #76e8db with warm ivory. Distinct top-down camera and objects. No words, letters, numbers, logos, watermark, readable or fake miniature text, charts, gold, magnifying glass, generic cubes. Illustrative concept, not actual work.",
+      "alt": "نمونه رابط دسکتاپ و موبایل اقامتگاه در قاب اندازه‌گیری همراه نمونه‌های سنگ و پارچه",
+      "caption": "پیش از تحویل، معیارهای هماهنگی ظاهر و کارکرد در دسکتاپ و موبایل را مشخص کنید.",
+      "afterHeading": "جدول پذیرش را پیش از تحویل توافق کنید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "fee81d0b5727823f655a5f58f4ef88970f20ab406b81d916241c05226b7feeaf",
+      "sha256": "d57cea38a10fc5abe248cd1f4c4103c6bf13f3147c2e6dcbbe1b30736b373c4b",
+      "bytes": 169726
+    },
+    {
+      "role": "detail-2",
+      "file": "apps/web/public/images/articles/professional-luxury-website/detail-2.webp",
+      "prompt": "Use case: stylized-concept. Asset type: original in-article editorial image for a hypothetical boutique accommodation website acceptance scenario. Generate one wide landscape 16:9 image. Eye-level cinematic studio scene: a completed tall translucent ivory-and-glass hospitality interface object travels along a slender dark stone pathway through three separate refined sculptural inspection gateways, arranged in receding perspective. First gateway has a finger-sized tactile mint button and an ergonomic smooth recess suggesting usability; second gateway holds orderly blank ivory content cards and a small framed atmospheric room photograph suggesting content approval; third gateway has a neat brushed-metal key and a bound blank handover booklet resting at its base, suggesting manager handover. Three tiny mint illuminated rings on the gateways show readiness without symbols or letters. Through the final gateway a softly lit boutique hotel entrance is visible as a miniature architectural vignette. Premium clean editorial 3D, dark teal #001014 #031b22, controlled mint #00dfd6 #76e8db light, warm ivory, polished stone, glass, brushed metal; tactile realistic materials and subtle atmosphere. No text, numbers, logos, watermark, gold, checkmark badges, shield, laptop, charts, magnifying lens or generic cubes. An illustrative metaphor, not evidence of real client work.",
+      "alt": "سه دروازه سنگی با دکمه، کارت‌های محتوا و کلید تحویل در مسیر ارزیابی تجربه سایت",
+      "caption": "در سناریوی فرضی اقامتگاه، استفاده‌پذیری، محتوای درست و تحویل مدیریت باید با هم بررسی شوند.",
+      "afterHeading": "مثال فرضی: وب‌سایت یک مجموعه اقامتی",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "9312bbc977b141ed277e3ced37156659c2611e162a4c00eaa8788cd9602be927",
+      "sha256": "8793ed9e359fe8d5e9643d38bb0c621402bbe59f82e531a2a892a79993e1e319",
+      "bytes": 178488
+    }
+  ],
+  "optimizedFormat": "WebP",
+  "optimizedQuality": 86
+}

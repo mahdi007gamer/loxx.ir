@@ -1,0 +1,47 @@
+{
+  "slug": "web-ui-ux-design",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "role": "cover",
+      "file": "apps/web/public/images/articles/web-ui-ux-design/cover.webp",
+      "prompt": "Use case: stylized-concept. Asset type: editorial cover for an article on thoughtful web UI and UX design. Create one original premium clean 3D editorial scene, wide landscape 16:9. A tactile architectural model of a human consultation-request journey on a midnight teal stone tabletop: a small elegant ivory human figure enters a spacious service-discovery alcove containing three different meaningful service objects, chooses one carefully spotlighted object, then follows a single luminous mint inlay path to a consultation desk with two blank inset input wells and a welcoming circular completion recess. The chosen service object remains visibly connected to the final desk. The model expresses a clear real human task, progressive information and a calm next step. Sophisticated miniaturized spatial architecture, not abstract app screens. Central subject safely inside a central crop, low three-quarter camera, delicate material texture, frosted glass partitions, warm ivory ceramic, brushed metal details. Midnight teal #001014 and #031b22, mint/cyan #00dfd6 and #76e8db illumination, restrained white. Beautiful controlled studio lighting, deep shadows but readable paths, spacious quiet composition. No words, letters, numbers, logos, watermark, fake charts, statistics, generic app grid, laptop, screens with gibberish, giant arrows or generic cubes. One coherent scene, no panels or montage.",
+      "alt": "مسیر نورانی از انتخاب میان سه خدمت تا میز مشاوره با دو ورودی و جایگاه پایان در ماکت فضایی",
+      "caption": "تصویر مفهومی مسیر انتخاب خدمت تا ثبت درخواست مشاوره.",
+      "afterHeading": "",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "b36abc2af9a7c801293648e005e5a0ffdaa4e76fbd16dfb3546af68ca0aa0c09",
+      "sha256": "602cde382a9441b054cc864203ed2d34228da29b25142fc9547fd8c17eb8b656",
+      "bytes": 185354
+    },
+    {
+      "role": "detail-1",
+      "file": "apps/web/public/images/articles/web-ui-ux-design/detail-1.webp",
+      "prompt": "Use case: stylized-concept. Asset type: in-article conceptual editorial illustration explaining information ordering and navigation before decoration in UI UX. Wide landscape 16:9, premium tactile staged architectural photography rendered in 3D. A precise physical wayfinding installation for selecting a consultation service, viewed from a high oblique angle. Three shallow ivory service bays hold distinct tangible objects: a material sample fan, a small engineered component, and a folded architectural model. A single tactile mint route starts at an entrance with a large concave decision disc, passes the relevant service sample and its compact blank information slab, then reaches a simple consultation pedestal. Secondary bays are calm and visibly accessible but not equally emphasized. The layout makes the meaningful primary route immediately understandable through proximity, shape and restrained lighting, without any written signage. A tiny unbranded ivory human figure at the decision disc gives scale. Matte midnight teal architectural base #031b22, glass guide fins, honed ivory stone, fine mint #76e8db light inlays, deep teal backdrop #001014. Crisp generous spacing, realistic soft shadows, editorial quality. No text of any kind, no letters, numerals, logos, watermark, miniature UI text, generic dashboard grid, fake analytics, or montage.",
+      "alt": "پیکره کاربر در نقطه تصمیم روبه‌روی سه خدمت با مسیر برجسته سبز به گزینه میانی و میز مشاوره",
+      "caption": "ترتیب محتوا و نشانه‌های روشن، مسیر تصمیم و اقدام بعدی را قابل فهم می‌کنند.",
+      "afterHeading": "محتوا را پیش از تزئین صفحه بررسی کنید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "a5370939fdf5f66b0aca4705745cc729a803caade7021d94ad0c8c2cb86e0fcb",
+      "sha256": "46b7be2328c2e4afb902d216d2bdeee6b589b7741d730ae69296d105135023c9",
+      "bytes": 187932
+    },
+    {
+      "role": "detail-2",
+      "file": "apps/web/public/images/articles/web-ui-ux-design/detail-2.webp",
+      "prompt": "Use case: stylized-concept. Asset type: in-article editorial visual about forgotten interaction states and consultation form feedback. Create one coherent physical installation on a dark teal workbench, wide 16:9 with a close low three-quarter camera, premium clean realistic 3D material rendering. A continuous slender mint guide rail runs through three clearly related rounded ivory consultation-form mechanisms. At the first mechanism a clean empty recessed socket awaits a small contact-token beside it; at the middle mechanism a misaligned ceramic token rests at an open amber-lit correction notch, while two previously accepted service and contact tokens remain safely held in their own mint-rimmed sockets; at the final mechanism correctly fitted tokens release one translucent mint completion disc into a calm receiving tray. Each mechanism uses the same consistent design language, physical scale and proportions. Show empty, correctable error with preserved inputs, and successful submission through actual fit and light, not written signs. Intimate tactile detail in ceramic, frosted glass, brushed metal. Palette midnight teal #001014 #031b22, restrained mint #00dfd6 #76e8db and ivory, tiny warm amber accent only at correction notch. Controlled photographic studio light, no clutter. No words, letters, numbers, logos, watermark, screens, fake charts, generic app tile grid. One uninterrupted real spatial scene, not three panels.",
+      "alt": "سه سازوکار هم‌خانواده با جایگاه خالی، ورودی نیازمند اصلاح و دیسک تأیید نهایی روی یک ریل",
+      "caption": "حالت خالی، اصلاح خطا با حفظ ورودی‌ها و تأیید موفق باید از ابتدا طراحی شوند.",
+      "afterHeading": "حالت‌های فراموش‌شده را طراحی کنید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "a777c8d206ea741b022747ac681ad71aea180c54b90ce6defdd8413337c9ae66",
+      "sha256": "88e1943b943474d4d20381cf76663344200b18027a76750934a10a77112ead87",
+      "bytes": 105194
+    }
+  ],
+  "optimizedFormat": "WebP",
+  "optimizedQuality": 86
+}

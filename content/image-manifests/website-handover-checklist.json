@@ -1,0 +1,47 @@
+{
+  "slug": "website-handover-checklist",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "role": "cover",
+      "file": "apps/web/public/images/articles/website-handover-checklist/cover.webp",
+      "prompt": "Use case: stylized-concept.\nAsset type: original editorial cover image for an article about a website handover checklist.\nPrimary request: a premium architectural product still life showing a completely finished website ready for operational handover, not just a polished visual.\nScene: an immaculate dark midnight-teal studio table, an elegant small architectural website pavilion made from ivory stone, translucent teal glass and brushed metal. Its finished rooms suggest an orderly home page, services gallery and content section using large blank surfaces and a few sculptural product objects. Beside the pavilion, in a precise recessed equipment tray, place a small brass physical access key, two practical operation tools and a neatly closed thin ivory acceptance folio with completely blank covers. A distinct small sealed teal storage capsule sits in its own compartment. Everything looks usable and intentionally organized.\nComposition: wide landscape 16:9, refined three-quarter camera, main pavilion and handover equipment grouped safely in the central two thirds for cover cropping. Quiet negative space and beautiful material details. One coherent scene, not a collage.\nLighting: controlled editorial studio lighting, soft ivory key light and subtle mint cyan rim illumination. Palette midnight teal #001014 and #031b22 with mint #00dfd6 and #76e8db, restrained warm ivory and brushed metal. Tactile, sophisticated, precise, low visual noise.\nConstraints: purely conceptual editorial illustration, not client work or a screenshot. No people, handshake, trophies, charts, tick checklist, words, letters, numerals, logos, watermarks, code, tiny UI text or claims of successful testing. No generic laptop hero, giant shield or padlock.",
+      "alt": "ماکت معماری کامل با نمای شیشه‌ای سبزآبی، کنار سینی کلید، ابزار، پوشه تحویل و محفظه نگهداری",
+      "caption": "نمای مفهومی تحویل سایت همراه با ابزار بهره‌برداری و مستندات لازم.",
+      "afterHeading": "",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "a3915ccf01ecbc948446bd16f3edb7c10b1d15433c50fe49c9968cc9ab1760d2",
+      "sha256": "3d29f4f059275f197ea3583797eccf1c23d38feaea4a7f01a6f4affd9be5aa58",
+      "bytes": 159986
+    },
+    {
+      "role": "detail-1",
+      "file": "apps/web/public/images/articles/website-handover-checklist/detail-1.webp",
+      "prompt": "Use case: stylized-concept.\nAsset type: original in-article editorial illustration explaining practical website acceptance testing.\nPrimary request: a tangible end-to-end functional test journey on an orderly testing bench, showing that an interaction must actually reach its operational destination across desktop and mobile.\nScene: top-down oblique view of a beautiful midnight-teal testing bench. At left a slim upright desktop-shaped glass frame shows a simple ivory product object and a few large blank interface blocks; beside it a smaller portrait mobile-shaped frame repeats that same recognizable product and spacing. A fine recessed luminous mint path carries a small ivory test token from a wide blank contact-form tray with three simple recessed fields, through an order tray holding the actual same miniature ceramic product, and ends at an organized operator inbox tray receiving the identical test token. The relationship of input, product/order and received record must be visually clear. Add one modest separate amber glass token in a side return channel to suggest a test error that can be corrected. These are tactile interface models, no readable screens.\nComposition: wide landscape 16:9, single coherent scene, all stations in a purposeful shallow arc; crisp usable product forms, clear routing without clutter. Camera closer than a cover shot.\nStyle: exquisite premium editorial 3D, glass, stone and brushed metal, dark #001014 / #031b22, mint #00dfd6 / #76e8db, warm ivory, one tiny amber accent. Soft carefully controlled studio lighting, tactile texture.\nConstraints: conceptual testing illustration, no fake client evidence, actual personal data, checkmarks, charts, success statistics, words, letters, numerals, logos or watermarks. No handshake, shield, generic dashboard or illegible miniature UI. The image explains a journey and does not claim a screenshot proves functionality.",
+      "alt": "مسیر نورانی میان فرم، نمایشگر دسکتاپ و موبایل، نمونه محصول و سینی ثبت سفارش در یک میز آزمون مفهومی",
+      "caption": "آزمون پذیرش باید از ورودی کاربر تا ثبت نتیجه در بخش مدیریت ادامه پیدا کند.",
+      "afterHeading": "جدول پذیرش کاربردی بسازید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "371649f7fd1a6d322dd841531dde4e2e86c21a327913c1ce4b64d158835a3bd6",
+      "sha256": "5f87c32f27ac7bea1ff9bca767914838f13370332565fc63db366f6e13d64f26",
+      "bytes": 173404
+    },
+    {
+      "role": "detail-2",
+      "file": "apps/web/public/images/articles/website-handover-checklist/detail-2.webp",
+      "prompt": "Use case: stylized-concept.\nAsset type: original in-article editorial illustration about owner training and recovery readiness after website handover.\nPrimary request: a practical owner training workbench where a simple real content task can be practiced, with a separately restored copy inspected for recovery readiness.\nScene: intimate premium studio workbench, midnight-teal stone surface. In the foreground, a beautiful open physical control console with a large tactile ivory dial and two clean blank buttons sits beside a small content card showing only a raised ceramic vase silhouette; the card fits into a transparent upright page frame, showing a concrete content editing task without written UI. A restrained articulated desk task lamp illuminates this active practice area. On a distinct smaller isolated workbench to the right, a translucent teal backup capsule has opened and a matching miniature page frame with the same vase silhouette is standing intact on its own receiving dock, visually showing a restored usable copy rather than a duplicate icon. A closed ivory support folio lies nearby. All tools are carefully within reach, owner-operable and calm.\nComposition: wide landscape 16:9, close three-quarter editorial camera, foreground training controls and right-hand isolated recovery bench are both clear, separate but balanced. One coherent material scene, not panels or collage.\nStyle: premium clean conceptual product imagery with tactile glass, ivory ceramic, brushed metal and dark stone. Palette #001014, #031b22, mint/cyan #00dfd6 / #76e8db, restrained warm ivory. Controlled soft studio lighting, gentle mint edge light, precise details and low visual noise.\nConstraints: clearly illustrative, no human figures, handshake, giant shield, padlock, generic laptop, words, letters, numbers, logos, watermarks, charts, checkmarks or fake records. No claim that backups always work; depict a practical isolated restoration and a learnable operating task.",
+      "alt": "میز تمرین مدیریت محتوا با کنترل‌های بزرگ و کارت گلدان، کنار نسخه مشابه بازیابی‌شده در محفظه جدا",
+      "caption": "آموزش عملی مدیر و بررسی نسخه بازیابی‌شده، دو بخش مکمل آمادگی پس از انتشارند.",
+      "afterHeading": "تحویل را با برنامه پس از انتشار ببندید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "6c3224b632a72b2f297f320856ca443b9e8234f32d4b6b270813d41e5baa733b",
+      "sha256": "638eca729bdeb7972c44b5b93dacff28ff0a42c246a3bf9002162548bc3d97bc",
+      "bytes": 190480
+    }
+  ],
+  "optimizedFormat": "WebP",
+  "optimizedQuality": 86
+}

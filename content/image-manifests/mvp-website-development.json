@@ -1,0 +1,47 @@
+{
+  "slug": "mvp-website-development",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "role": "cover",
+      "file": "apps/web/public/images/articles/mvp-website-development/cover.webp",
+      "prompt": "Use case: stylized-concept. Asset type: premium editorial cover for an article about developing a minimum viable website that tests one real hypothesis. Generate one wide landscape 16:9 image, 1536x864 or higher at the same ratio. Scene: a beautiful small functional appointment-booking mechanism on a midnight-teal studio work surface. Subject: one compact low rectangular ivory-and-brushed-metal enclosure with a transparent glass top exposing a simple complete route: a mint request tile enters at one side, passes one precise visible routing gate, and a matching accepted appointment tile sits neatly in an output recess on the other side. It must look fully finished, useful, reliable and intentionally small. Three optional metal and glass accessory modules are neatly parked outside the enclosure, physically detached and dimmer, with no distracting complexity. This is a tactile editorial metaphor for a working essential product, not a real client project or an engineering schematic. Composition: refined three-quarter product photography, core enclosure in the safe central 60 percent of the wide frame, ample elegant dark breathing space, clearly readable input-to-output story, no floating objects. Lighting: controlled softbox, mint cyan light through the glass, gentle warm ivory highlights, premium tactile realism. Palette: midnight teal #001014 and #031b22, mint #00dfd6 and #76e8db, restrained warm ivory and brushed aluminum. Avoid all words, letters, numbers, logos, watermarks, charts, graphs, rockets, seedlings, shields, laptops, decorative cubes, humans, unfinished prototypes, tangled wires, fake statistics, or tiny UI text.",
+      "alt": "محفظه شیشه‌ای و فلزی با مسیر پیوسته ورود و خروج کارت‌های نعنایی و سه قطعه جانبی جدا از هسته اصلی",
+      "caption": "نمای مفهومی یک محصول کوچک و کامل؛ قابلیت‌های جانبی بیرون از محدوده نسخه اول می‌مانند.",
+      "afterHeading": "",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "c085c89378a2eb8812880b58965aeab9ddc6cd29700f3f84e36ffa29f65089fd",
+      "sha256": "6aa1b7cd4a8c57f64bca8473fd29bd86af19e925a67bec6d641e9dfdbe7fa07a",
+      "bytes": 104374
+    },
+    {
+      "role": "detail-1",
+      "file": "apps/web/public/images/articles/mvp-website-development/detail-1.webp",
+      "prompt": "Use case: stylized-concept. Asset type: in-article editorial image explaining why an MVP needs one complete user task from request to confirmation and result. Generate one wide landscape 16:9 image, 1536x864 or higher at the same ratio. Scene: a restrained high-end product testing desk viewed from a close high three-quarter angle. A real adult hand gently slides a small mint appointment token into the first of three connected shallow tactile prototype stations laid horizontally across one unified ivory tray. First station contains a minimalist service pictogram tile, middle station has a carefully arranged small grid of blank appointment slots with one selected mint slot, final station has one matching reservation token visibly resting in a softly illuminated result recess. The solid continuous recessed track connects all three stations to make a full start-to-result journey; two subtle side recesses hold a blank empty-state token and a return arrow pictogram token, suggesting recovery without adding text. The hand anatomy must be natural and credible. No actual computer screens. This is an illustrative usability testing prototype, not a screenshot or proof of results. Composition: stations and hand fill a wide low-noise frame; macro tactile detail, purposeful spacing, completely different camera and layout from a product enclosure hero. Materials: satin ivory polymer, frosted glass, brushed aluminum, precisely milled dark teal base. Lighting and palette: midnight teal #001014/#031b22, controlled mint #00dfd6/#76e8db highlights, soft warm white desk light. No words, letters, numbers, logos, watermarks, miniature UI text, graphs, statistics, checkmark success claims, laptops, rockets, seedlings or ornamental cubes.",
+      "alt": "دست کاربر در حال قرار دادن ژتون روی نمونه رزرو خدمات با سه مرحله متصل، جدول زمان و ژتون نتیجه",
+      "caption": "نمونه مفهومی آزمون یک مسیر کامل رزرو، از انتخاب خدمت تا دریافت نتیجه و امکان بازگشت.",
+      "afterHeading": "یک مسیر کامل را بر چند مسیر ناقص ترجیح دهید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "86c2550089e86b6c474f672fe2bdbf720b676f5a01b985c255515994452ad48a",
+      "sha256": "bbb0bd51f7142687b52bf3f547f6776976c1e5a2246bb16c4526d97ff0981610",
+      "bytes": 122232
+    },
+    {
+      "role": "detail-2",
+      "file": "apps/web/public/images/articles/mvp-website-development/detail-2.webp",
+      "prompt": "Use case: stylized-concept. Asset type: in-article premium editorial image about evidence-led selection of the next phase after a minimum viable photography booking service. Generate one wide landscape 16:9 image, 1536x864 or higher at the same ratio. Scene: an elegant product workshop still life on a dark midnight-teal table. A fully assembled small ivory physical appointment-booking console sits at center-right with a simple row of tactile blank appointment recesses and one mint booking token, suggesting an already working essential service. Beside it, one carefully chosen slim frosted-glass schedule extension is being precisely aligned to a single exposed connector, close enough to show a natural fit but not yet attached. In the foreground, three unlabelled customer observation cards have simple authentic camera composition contact-sheet thumbnails: a portrait silhouette, a studio lighting setup, and a delivered photo envelope; one card has a small physical mint marker next to it, linking the choice to a concrete observed service need without numbers or claims. A tasteful mirrorless camera and one plain photo envelope sit farther back as specific context for a photography booking MVP. Two optional accessory modules remain neatly stored away in a dark open organizer at the far left, visually subdued. No humans. Composition: broad low side-angle still life, visually intelligible selective extension and restrained scope, no exploded engineering diagram, not a graph and not a screenshot. Materials: satin ivory ceramic-like casing, frosted glass, dark anodized metal, matte paper. Controlled soft studio light, midnight teal #001014/#031b22 and mint #00dfd6/#76e8db with restrained warm ivory. Avoid words, letters, numbers, logos, watermarks, tiny UI writing, charts, statistics, fake success indicators, rockets, seedlings, shields, laptops and generic cubes. Keep the scene simple with few objects and premium photographic realism.",
+      "alt": "قطعه افزایشی شیشه‌ای کنار هسته رزرو با دوربین، پاکت عکس و کارت‌های مشاهده خدمات عکاسی روی میز سبز تیره",
+      "caption": "تصویر مفهومی انتخاب یک قابلیت برای فاز بعد با توجه به مشاهده نیاز در خدمت عکاسی.",
+      "afterHeading": "چک‌لیست تصمیم فاز بعد",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "440d9aa47b03721775721ba708b1e591a3c6db678c096a902248615821031b15",
+      "sha256": "58736048464d5e2149bb5521933343909e958d3e9778b7a061dba6dbdefc5552",
+      "bytes": 106162
+    }
+  ],
+  "optimizedFormat": "WebP",
+  "optimizedQuality": 86
+}

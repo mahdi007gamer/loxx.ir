@@ -1,0 +1,47 @@
+{
+  "slug": "web-design-contract-checklist",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "role": "cover",
+      "file": "apps/web/public/images/articles/web-design-contract-checklist/cover.webp",
+      "prompt": "Use case: stylized-concept. Asset type: wide 16:9 premium editorial cover for a Persian web-design article about defining project scope, deliverables, responsibility and acceptance. Create a luxurious studio still life of an elegant open project-scope folio on midnight teal stone: carefully layered blank ivory deliverable sheets, a slim brushed-metal precision drafting frame, and three physically constructed small web-page panels showing only clean raised blank rectangles and simple image shapes. The folio, drafting frame and carefully aligned panels communicate an explicit agreed scope. One mint translucent divider marks the boundaries of work. Oblique cinematic camera at table height, central subject with generous breathing space, sculptural real materials, soft controlled mint rim light and ivory key light, dark #001014/#031b22 environment, restrained #00dfd6/#76e8db accents. Crisp premium 3D product imagery, highly tactile paper, leather and metal, clean purposeful composition. No readable or pseudo text, no letters, no signatures, no logos, no watermark, no legal symbolism, no gavels, no stock handshake, no charts, no laptop. A single complete scene, not a collage.",
+      "alt": "پرونده پروژه با برگه‌های برجسته صفحات وب و قاب فلزی برای مشخص‌کردن محدوده طراحی سایت",
+      "caption": "تعریف دقیق صفحات و قابلیت‌ها، محدوده کار را برای دو طرف روشن می‌کند.",
+      "afterHeading": "",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "940f0ab16cd1eca95ad447f1e82c01c2983438a9d0a528466fe52486e221afef",
+      "sha256": "50ed578440094b9fc9c1e488e703d50deabd838b4b35f13556225eb858cd4c08",
+      "bytes": 239984
+    },
+    {
+      "role": "detail-1",
+      "file": "apps/web/public/images/articles/web-design-contract-checklist/detail-1.webp",
+      "prompt": "Use case: stylized-concept. Asset type: wide 16:9 in-article editorial illustration about assigning responsibility for website content and account access. A sophisticated top-down physical still life of three distinct slim open project portfolios arranged neatly across a dark teal work surface. One textured ivory portfolio contains neatly fitted photographic-material tiles with abstract landscape shapes; one mint frosted-glass tray contains precision-cut simple content blocks and blank folded paper cards; one brushed dark metal portfolio holds two small elegant brass physical keys and a perfectly fitted translucent access token. Each object visibly fits its own recessed compartment, suggesting clear ownership and responsibilities. No actual documents, no written labels. Premium sculptural product photography / realistic 3D, refined quiet composition, tactile textures, soft ivory highlights and mint edge glow, #001014/#031b22 background, #76e8db accents. Visually distinct from a cover folio scene: directly overhead camera and horizontal rhythm of three portfolios. No text, no letters, no logos, no watermark, no numbers, no fake UI, no security shield, no laptop.",
+      "alt": "سه محفظه مجزا برای تصاویر، محتوای کاغذی و کلیدهای دسترسی در فضای سبز تیره",
+      "caption": "مسئول آماده‌سازی محتوا و مالک حساب‌ها و دسترسی‌ها را از ابتدا مشخص کنید.",
+      "afterHeading": "مسئولیت محتوا و دسترسی‌ها را روشن کنید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "c24c82507498a56fd90a4b28ee40533208391ef3cdaa996f7991a88a7540053a",
+      "sha256": "1b91fb649b40c8369e4771482a93b019585d8dc8978be78cb8879cc9569e590b",
+      "bytes": 210288
+    },
+    {
+      "role": "detail-2",
+      "file": "apps/web/public/images/articles/web-design-contract-checklist/detail-2.webp",
+      "prompt": "Use case: stylized-concept. Asset type: wide 16:9 in-article conceptual illustration about agreed acceptance tests and review. Show a finished miniature website architectural model being handed over between two clean adjacent work zones WITHOUT people or hands: an elegant continuous small transfer platform bridges the seam between a dark teal development work surface and an ivory acceptance work surface. The central model consists of a tall framed blank webpage sculpture and matching smaller mobile-format slab, with neat raised geometric content modules and no text. The model is aligned precisely into a subtle recessed outline on the acceptance side, visibly matching the agreed shape. A mint translucent inspection frame and three simple smooth review markers sit nearby; no checkmarks or letters are needed. Low diagonal camera, long horizontal clean composition, premium cinematic 3D realism, brushed metal, translucent glass, ivory ceramic, midnight #001014/#031b22 and restrained #00dfd6/#76e8db light. Meaningful physical story of acceptance through fit and agreement, not an actual client screenshot. No people, no hands, no words, no letters, no signatures, no gavels, no handshake, no logos, no watermark, no numbers, no graphs.",
+      "alt": "مدل صفحات دسکتاپ و موبایل روی سکوی انتقال به بخش پذیرش با قالب هم‌اندازه خروجی",
+      "caption": "خروجی تحویل‌شده باید با رفتار و معیارهای پذیرش توافق‌شده تطبیق داده شود.",
+      "afterHeading": "معیار پذیرش و شیوه بازبینی را بنویسید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "732f9fa5e9b7b9eef7a86a45ad3643193fee6e95d54b0955f16470b4098e1855",
+      "sha256": "996b13010cd40ec67a0525f7ff6790966220c1b0d2aa341242edd879f54e593f",
+      "bytes": 137774
+    }
+  ],
+  "optimizedFormat": "WebP",
+  "optimizedQuality": 86
+}

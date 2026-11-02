@@ -1,0 +1,47 @@
+{
+  "slug": "laxx-project-order",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "role": "cover",
+      "file": "apps/web/public/images/articles/laxx-project-order/cover.webp",
+      "prompt": "Use case: stylized-concept. Asset: original editorial cover for Persian LOXX article about ordering a website, from clear brief through structured reviews to practical launch. Render a premium three-dimensional architectural studio scene: a single elegant illuminated modular path runs across an expansive midnight teal plinth, originating in a deliberately arranged stack of three translucent blank brief cards, passing a sculptural wireframe portal and arriving at a refined standing finished glass screen with abstract ordered panels only. Four understated physical stages form a flowing coherent spatial journey, thoughtful selective emphasis on the transition from request to delivered website. Clean spacious wide 16:9 landscape composition, all important objects inside central 70 percent for cover crop. Matte midnight teal #001014 and #031b22 background, luminous cyan #00dfd6 and mint #76e8db light accents, refined frosted glass and brushed dark metal, restrained white. Museum-quality studio lighting, accurate soft reflections, professional restrained editorial 3D craftsmanship. No words, letters, numerals, logos, watermarks, fake UI text, charts, badges or statistics. One cohesive scene, not collage or contact sheet.",
+      "alt": "مسیر نورانی از برگه‌های شرح نیاز و بازبینی ساختار تا صفحه نهایی وب‌سایت در فضایی فیروزه‌ای",
+      "caption": "از شرح نیاز روشن تا بازبینی و تحویل سایت، هر مرحله به تصمیم مشخص نیاز دارد.",
+      "afterHeading": "",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "0d62960107268ee4df611c9743f80151ebb4e2aaa55a9b8f538b9193c1f9c134",
+      "sha256": "388148dbf98c4a60bba871836673d122f7c9f65d2ad7b45ee22022b3558a2c00",
+      "bytes": 90196
+    },
+    {
+      "role": "detail-1",
+      "file": "apps/web/public/images/articles/laxx-project-order/detail-1.webp",
+      "prompt": "Use case: stylized-concept. Asset: original inline editorial illustration for a website ordering guide, section about assigning one decision owner and separate content responsibilities. Wide 16:9 premium 3D scene, overhead oblique view of a sophisticated dark teal studio table. Three subtly different frosted-glass content folders with clean blank sheets and tactile photographic material tiles are arranged in three orderly lanes; refined cyan light ribbons converge from those lanes into one central brushed-metal circular decision hub containing a single luminous mint sphere. A beautiful unmarked dark glass pen and two blank index cards make the scene feel like a deliberate real planning workspace. The visual metaphor is multiple contributors with one coordinated final decision, not analytics. Midnight teal #001014 and #031b22, restrained luminous cyan #00dfd6 and mint #76e8db, white edges, refined frosted glass and brushed dark metal. Precise studio lighting, appealing shadows, understated professional editorial luxury. No text, numerals, letters, logos, watermarks, fake UI or statistics. One scene, not collage.",
+      "alt": "سه پوشه شیشه‌ای از محتوای تیم که با مسیرهای فیروزه‌ای به یک مرکز تصمیم مشترک متصل شده‌اند",
+      "caption": "محتوا می‌تواند از چند نفر برسد؛ جمع‌بندی نهایی بازخورد باید مسئول مشخص داشته باشد.",
+      "afterHeading": "مسئول تصمیم و مسئول محتوا را تعیین کنید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "e03e96fd64c74e68ed97a0c8db9217d5e7876c070ce3ae247b590948abd68704",
+      "sha256": "637c8d0cc980c55cd00df0bbd8c2c438aa56b193d295411998c942f6f1026534",
+      "bytes": 165054
+    },
+    {
+      "role": "detail-2",
+      "file": "apps/web/public/images/articles/laxx-project-order/detail-2.webp",
+      "prompt": "Use case: stylized-concept. Asset: original inline editorial image for website order article, reviewing information structure before visual details. Wide 16:9 premium 3D architectural tabletop model inside a spacious midnight teal design studio. On a single dark brushed-metal platform a deliberately sparse miniature website structure is made of vertically standing clear glass planes: one broad central entrance plane branches along thin physical cyan tracks into three smaller transparent rooms; in the foreground a fine mint luminous ring floats around a single misaligned glass room, with a small matching socket showing where it belongs, communicating focused structural review before decoration. Refined physically plausible model, aesthetic visual storytelling rather than diagram. Balanced close-medium camera, enough negative space, crystal-clear hierarchy, no written marks. Midnight teal #001014/#031b22, luminous cyan #00dfd6 and mint #76e8db accents, frosted glass with clear edges, brushed dark metal, restrained white. Museum-quality studio light, soft reflections, highly crafted clean professional editorial render. No words, letters, numbers, logos, watermarks, fake UI, graphs or statistics. One cohesive scene, not contact sheet.",
+      "alt": "مدل شیشه‌ای شاخه‌های ساختار سایت با یک بخش جابه‌جا شده برای بازبینی پیش از طراحی نهایی",
+      "caption": "بازبینی جای بخش‌ها و مسیر دسترسی، پیش از پرداختن به جزئیات بصری انجام می‌شود.",
+      "afterHeading": "ساختار را پیش از جزئیات بصری بازبینی کنید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "9f0d89858e1de4f27c61d5fc7b4059b9b0167c15f7c44da85b6ea261f2842856",
+      "sha256": "803a33a1cd6d6b547af6abc9006a5e6d69325b342bfff7765ada3ae7a19629b1",
+      "bytes": 100032
+    }
+  ],
+  "optimizedFormat": "WebP",
+  "optimizedQuality": 86
+}

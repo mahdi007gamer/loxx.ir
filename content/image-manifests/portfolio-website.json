@@ -1,0 +1,47 @@
+{
+  "slug": "portfolio-website",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "role": "cover",
+      "file": "apps/web/public/images/articles/portfolio-website/cover.webp",
+      "prompt": "Use case: stylized-concept. Asset type: portfolio website article cover. Create a curated miniature gallery exhibition of exactly three clearly different original creative project artifacts: a refined ivory sculptural ceramic vessel displayed within a dimensional photography lightbox, a folded architectural pavilion scale model in pale stone, and an abstract digital product interaction panel made of frosted glass circles and image-only cards. They occupy three distinct but harmonious plinths at staggered depths inside a midnight teal gallery. Each artifact is purposeful and visually different, like a carefully edited portfolio of creative disciplines. Strong central composition, camera at slightly elevated eye level, generous breathing room and balanced spacing, key objects kept within central crop. Wide landscape 16:9 editorial image, premium clean 3D product photography, tactile restrained materials and art-gallery sophistication. Midnight teal #001014 and #031b22, mint/cyan #00dfd6 and #76e8db illumination, warm ivory highlights, glass, stone and brushed metal. Controlled lighting, purposeful low-noise composition. No words, letters, logos, watermark, charts, statistics, testimonials, fake client evidence or tiny illegible interface text. This is an illustrative conceptual project, never a real client's work.",
+      "alt": "گالری مفهومی سه اثر شامل ماکت معماری، گلدان مجسمه‌ای و پنل‌های تصویری شیشه‌ای روی سکوهای سنگی",
+      "caption": "انتخاب چند اثر متفاوت و مرتبط، مرور نمونه‌کارها را هدفمند می‌کند.",
+      "afterHeading": "",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "4152935aeffb10b8d25d1d2803cffda5d9a936f5c890a4dc9012e9a1c4cb2e69",
+      "sha256": "c2bd497a4aff4d15f82434047fcb23cfdfddd2631e85cf5aea3daf34fc01b88d",
+      "bytes": 134788
+    },
+    {
+      "role": "detail-1",
+      "file": "apps/web/public/images/articles/portfolio-website/detail-1.webp",
+      "prompt": "Use case: stylized-concept. Asset type: inline illustration about explaining a project's role and process. An intimate angled overhead view of a designer's working table in an art studio. One finished small ivory architectural pavilion model is in the upper right; beneath and beside it lie several translucent drafting layers with clear geometric line drawings of the SAME pavilion, a precise mint metal scale ruler without markings, and a single pale clay study piece showing the development from rough physical study to finished form. One specific roof layer is carefully lifted from the model on thin mint support pins, making a clearly limited individual contribution tangible. No collection of unrelated projects, no screens. Elegant real material detail, macro perspective, shallow but usable depth of field. Wide landscape 16:9 editorial image, premium clean 3D product photography, tactile restrained materials and art-gallery sophistication. Midnight teal #001014 and #031b22, mint/cyan #00dfd6 and #76e8db illumination, warm ivory highlights, glass, stone and brushed metal. Controlled lighting, purposeful low-noise composition. No words, letters, logos, watermark, charts, statistics, testimonials, fake client evidence or tiny illegible interface text. This is an illustrative conceptual project, never a real client's work.",
+      "alt": "طرح‌های لایه‌ای یک پاویون در کنار نمونه گلی و ماکت نهایی با سقف جداشده روی میز طراحی",
+      "caption": "تصویر مفهومی فرایند طراحی؛ نمایش طرح، مدل اولیه و بخش مشخصی از خروجی، نقش طراح را روشن‌تر می‌کند.",
+      "afterHeading": "برای هر پروژه یک روایت کوتاه بسازید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "4af7b7b5cb53d4375b01be9b916d7bcde0daaad040574957cdc47d4601be6ae2",
+      "sha256": "d5216aee5d37b276cd2cc4265649b2480bea4f30049e2aa7f5be466338eb70b4",
+      "bytes": 198466
+    },
+    {
+      "role": "detail-2",
+      "file": "apps/web/public/images/articles/portfolio-website/detail-2.webp",
+      "prompt": "Use case: stylized-concept. Asset type: inline illustration for a hypothetical independent designer's product-page case study. A tangible conceptual case-study installation arranged left-to-right across a dark stone bench, showing one clear product selection problem and its solution, without captions. At left, several nearly identical small ceramic cup variants are crowded behind overlapping frosted glass selection pieces. At centre, a precise physical wireframe template with one separate product-image aperture and three distinct circular ceramic colour swatches is suspended above the work surface. At right, a finished clean glass product-page panel displays one beautifully lit ceramic cup image with three large separated colour swatches and a single simple mint action shape, all without text. A few mint alignment threads connect the process template to the finished panel. The story is the redesign of only the product selection area, no revenue or performance claims. Three-quarter low camera view, clear spatial reading and plentiful negative space. Wide landscape 16:9 editorial image, premium clean 3D product photography, tactile restrained materials and art-gallery sophistication. Midnight teal #001014 and #031b22, mint/cyan #00dfd6 and #76e8db illumination, warm ivory highlights, glass, stone and brushed metal. Controlled lighting, purposeful low-noise composition. No words, letters, logos, watermark, charts, statistics, testimonials, fake client evidence or tiny illegible interface text. This is an illustrative conceptual project, never a real client's work.",
+      "alt": "مسیر مفهومی بازطراحی انتخاب رنگ لیوان از نمونه‌های هم‌پوشان به وایرفریم و پنل محصول با سه انتخاب رنگ جدا",
+      "caption": "مطالعه موردی فرضی: مسئله انتخاب گونه کالا، تصمیم طراحی و رابط تحویل‌شده بدون ادعای رشد فروش.",
+      "afterHeading": "مثال فرضی: طراح مستقل با پروژه تیمی",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "d906f3547731cb213bb6dc1b64634e6a6f28191b582248500ebd0fc87909237d",
+      "sha256": "11ce279b5b266832ac2fd7c91dbd75dae72d5bb8895546567e56f58a8788a23c",
+      "bytes": 129744
+    }
+  ],
+  "optimizedFormat": "WebP",
+  "optimizedQuality": 86
+}

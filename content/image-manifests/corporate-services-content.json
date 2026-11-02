@@ -1,0 +1,47 @@
+{
+  "slug": "corporate-services-content",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "role": "cover",
+      "file": "apps/web/public/images/articles/corporate-services-content/cover.webp",
+      "prompt": "Use case: stylized-concept. Asset type: premium editorial article cover, wide landscape 16:9. Create a beautifully staged tactile editorial storytelling desk showing how corporate service content becomes concrete: an open warm ivory service portfolio at center unfolds into three meaningful physical evidence objects, a precision equipment component, a carefully made material sample, and a bound blank delivery folio, each beside a small clean blank page with raised geometric hierarchy strips. A thin mint thread connects the portfolio to these tangible deliverables. No computer. Refined photographic realism with subtle conceptual 3D precision. Dark midnight teal #001014 and #031b22 desk and seamless backdrop, restrained mint #76e8db rim light and cyan #00dfd6 accents, warm ivory paper, brushed metal, linen texture. Three-quarter overhead camera, purposeful balanced composition, central subject safe for cover cropping, low visual noise, controlled soft studio lighting, rich tactile detail. No words, letters, numbers, logos, watermarks, charts, fake results, miniature UI, hands or people. One coherent scene, not a montage.",
+      "alt": "پرونده باز خدمات با کارت‌های برجسته، قطعه فلزی و نمونه‌های مواد روی میز سبز تیره",
+      "caption": "تصویر مفهومی از پیوند معرفی خدمت با خروجی‌ها و شواهد ملموس.",
+      "afterHeading": "",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "792259072d71a545f0c039bbf474c705e9b10ec561e13cf5c7c6d1ebb736ce67",
+      "sha256": "19d7392d4648638e5c5bcae390c360b2881202b99ebfeca4b89383d0d995b34f",
+      "bytes": 142880
+    },
+    {
+      "role": "detail-1",
+      "file": "apps/web/public/images/articles/corporate-services-content/detail-1.webp",
+      "prompt": "Use case: stylized-concept. Asset type: inline editorial illustration for a corporate services content guide, wide landscape 16:9. Show a concrete service page organized around a customer's decision: five elegant blank ivory cards in a gentle diagonal sequence across a midnight teal editorial workbench, with visibly different geometric embossed hierarchy marks, paired with tangible service deliverables including one finely machined maintenance component in a fitted tray, a neatly opened inspection folio, a folded material swatch and a sealed proposal folder. The composition explains moving from a vague service claim to real deliverables and practical cooperation steps, with subtle mint cord linking the objects. No computer, no architecture. Premium staged product photography and precise tactile 3D, close oblique angle, paper fibers, brushed metal, glass edge accents, dark teal #031b22 background, mint #76e8db soft light, cyan #00dfd6 small accents, restrained ivory. Spacious, sophisticated, low noise. Blank cards must have no writing, no letters or numerals, no logos, charts, watermarks, fake statistics or customer records. One cohesive still life, not a montage.",
+      "alt": "پنج کارت خالی متصل در کنار قطعات مکانیکی، پوشه بررسی و نمونه‌های پارچه و فلز",
+      "caption": "ترتیب صفحه خدمات باید خروجی‌ها و مراحل واقعی همکاری را روشن کند.",
+      "afterHeading": "صفحه خدمات را با ترتیب تصمیم بسازید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "73f4418d843133f2636c32cff224039b8db4a35dcdfbc5f2d05a3dfbe87e6cf0",
+      "sha256": "493af5023043c2106acfb627bb04b961cd7abc2b0939bbed0b6626f22b665b87",
+      "bytes": 178580
+    },
+    {
+      "role": "detail-2",
+      "file": "apps/web/public/images/articles/corporate-services-content/detail-2.webp",
+      "prompt": "Use case: stylized-concept. Asset type: inline editorial illustration for an explicitly hypothetical equipment maintenance company example, wide landscape 16:9. A premium dark teal service enquiry desk with one clear practical route: on the left a small unbranded equipment motor and its removable inspection cover, in the middle three blank ivory enquiry cards paired with a machined equipment specimen and a plain translucent circular coverage boundary lying flat on the desk, on the right a calm conversation setting suggested by two empty ivory chairs facing a small round consultation table in soft background focus. A restrained mint ribbon travels from the equipment through the simple cards toward that consultation. Recognizable equipment and practical information before a conversation are the visual story. Editorial staged photographic realism with subtle conceptual 3D, lower desk-level wide camera, beautiful material texture, midnight teal #001014 and #031b22, mint/cyan #76e8db #00dfd6 edge light, ivory chairs and paper, controlled lighting and low visual noise. No people, computer, words, letters, numbers, logos, labels, maps, charts, watermarks, fake client evidence or miniature interface. One coherent scene, not a triptych.",
+      "alt": "موتور بازشده و سه کارت درخواست در مسیر نورانی به میز گفت‌وگو",
+      "caption": "مثال فرضی نگهداری تجهیزات: اطلاعات دستگاه و محدوده خدمت پیش از گفت‌وگو مشخص می‌شود.",
+      "afterHeading": "مثال فرضی: شرکت خدمات نگهداری تجهیزات",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "6665f0abd0772f2e1ee9f8339eed71ce50503dc873dbbc01b304500da448331a",
+      "sha256": "8d4fa7c039ba39504c04906d4bf811ca9a6f4bfd03c35476b38f5cf2745ba92f",
+      "bytes": 132850
+    }
+  ],
+  "optimizedFormat": "WebP",
+  "optimizedQuality": 86
+}

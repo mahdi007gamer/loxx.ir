@@ -1,0 +1,47 @@
+{
+  "slug": "website-redesign-roadmap",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "role": "cover",
+      "alt": "پل روشن پیوسته میان ساختمان سنگی قدیمی و بنای شیشه‌ای تازه با مسیرهای فیروزه‌ای",
+      "caption": "بازطراحی موفق، مسیرهای ارزشمند فعلی را به تجربه تازه متصل می‌کند.",
+      "afterHeading": "",
+      "file": "apps/web/public/images/articles/website-redesign-roadmap/cover.webp",
+      "prompt": "Use case: stylized-concept. Asset type: premium website editorial cover for an article about preserving valuable pages and user journeys during a website redesign. Create one wide 16:9 architectural 3D editorial still: a sculptural continuous ivory bridge passes from an established dark stone foundation with precise interlocking page-shaped terraces into a refined new translucent glass pavilion. Important thin cyan pathways physically continue uninterrupted across both structures, one main pathway clearly legible. Show continuity and thoughtful rebuilding, with no demolition. The hero bridge and structures occupy the central 70 percent safely for cropping. Camera low oblique architectural perspective, generous midnight teal negative space, museum-quality tactile stone, frosted glass, subtle brushed metal details, premium controlled studio lighting with cyan #00dfd6 and mint #76e8db edge lights, background #001014 and #031b22, restrained warm ivory. Sophisticated, clean, photoreal 3D render, high visual polish, no noise. No text, letters, numbers, logos, watermark, screens full of UI, generic laptop, charts, metrics, before/after collage, montage or triptych. One cohesive original scene.",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "0fed92546587b88f4383fb2abe5cec386a2bcb5ce3e17e64f2643889c2ab2953",
+      "sha256": "013aae6dd081c726bf448b404205f6e3534de298ae27e725fbcaf2ec8b355340",
+      "bytes": 235092
+    },
+    {
+      "role": "detail-1",
+      "alt": "کارت‌های سنگی صفحات سایت در سه سینی برای نگهداری، اصلاح و کنارگذاشتن محتوای فرسوده",
+      "caption": "پیش از تغییر ظاهر، برای حفظ، اصلاح یا حذف هر بخش تصمیم مستقلی بگیرید.",
+      "afterHeading": "نگه‌داشتن، اصلاح و حذف را جدا کنید",
+      "file": "apps/web/public/images/articles/website-redesign-roadmap/detail-1.webp",
+      "prompt": "Use case: stylized-concept. Asset type: in-article editorial image illustrating a content inventory and keep / improve / retire decisions before a website redesign. Create a single wide 16:9 premium top-down slightly angled macro still life on a midnight teal worktable. A careful inventory of existing website assets is represented by about ten beautiful physical ivory stone page cards, one inset photo-like abstract landscape tile, a loop-shaped navigation artifact, a small form-like sculptural card with only blank cutout slots, and slender cyan threads linking associated items. Arrange artifacts into three clearly separated shallow brushed-metal trays: preserved complete artifacts, artifacts being carefully refined with a small precision tool resting nearby, and a restrained tray of a few obsolete disconnected fragments. Include small blank circular hanging tags on artifacts, absolutely no markings. Make it thoughtful and legible, not cluttered. Refined realistic textures, deep teal #001014 and #031b22, mint/cyan #00dfd6 #76e8db reflections and warm ivory. Clean soft overhead studio light and long gentle shadows, premium editorial 3D photography. No words, letters, numbers, logos, watermark, fake charts, screens, laptop, collage or montage.",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "88b8e64cbe65feb3a43e959b8a5770489f61d9a50cbc1f87077187d3a9299a64",
+      "sha256": "ab84c5fab39c89ec6049524838343d4182d9afb7a03347d7fd9ac3d418b86665",
+      "bytes": 161942
+    },
+    {
+      "role": "detail-2",
+      "alt": "کتابخانه‌های قدیمی و فضاهای شیشه‌ای تازه در حال بازسازی با مسیر فیروزه‌ای باز برای کاربران",
+      "caption": "در بازطراحی مرحله‌ای، محتوای مفید حفظ می‌شود و مسیر دسترسی کاربران باز می‌ماند.",
+      "afterHeading": "مثال فرضی: سایت یک شرکت آموزشی",
+      "file": "apps/web/public/images/articles/website-redesign-roadmap/detail-2.webp",
+      "prompt": "Use case: stylized-concept. Asset type: in-article editorial illustration of staged reconstruction while preserving useful existing content and user access, for a website redesign example. Create one wide 16:9 architectural miniature viewed from a high three-quarter angle. An elegant small campus made of ivory stone reading rooms and transparent glass course pavilions stands on a deep teal platform. A continuous cyan illuminated pedestrian route remains open from the older reading rooms to the newly refined pavilions; a side section is carefully being rebuilt using two precise suspended glass wall panels and one slim crane arm, without blocking the main route. Reading rooms contain simple abstract book slabs without text, course pavilions contain a few sculptural seats, giving an educational website metaphor. Three or four subtle tiny abstract visitor figures follow the usable route. Composition shows phased improvement and connection of useful archived material to new offerings. Exceptional clean premium 3D editorial render, tactile stone, frosted glass, brushed metal, warm ivory against midnight teal #001014 #031b22, cyan #00dfd6 mint #76e8db wayfinding light, soft directional light. No text, letters, numbers, branding, watermark, metrics, charts, computer screens, generic cube, collage, triptych or before/after split.",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "793acf3af70f3a77b601cef0e5aa84a3a0f3247d3088f50b8ad3ccd396ea46b5",
+      "sha256": "9faddb2b6466b1164edbd3b45685d28fa843febdc00c60e53d65532d0d1fae61",
+      "bytes": 265524
+    }
+  ],
+  "optimizedFormat": "WebP",
+  "optimizedQuality": 86
+}

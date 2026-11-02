@@ -1,0 +1,47 @@
+{
+  "slug": "web-application-vs-website",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "role": "cover",
+      "file": "apps/web/public/images/articles/web-application-vs-website/cover.webp",
+      "prompt": "Use case: stylized-concept. Asset type: original editorial cover for a premium Persian web agency article about choosing a website or web application according to user tasks. Generate one wide landscape 16:9 image, premium carefully staged architectural product photography / tactile 3D. In a coherent midnight teal studio, an elegant open information pavilion made of ivory stone contains a few large blank framed portfolio panels and an open reading ledge. Beside it stands a purposeful interactive service apparatus: an accessible circular mint-lit work surface with one blank case card, a translucent saved-data capsule, and a precise rail continuing into an active working alcove. Both share the same foundation and equal visual importance; the pavilion communicates reading and learning, the apparatus communicates doing and preserving work. No winner, no versus symbol, no split screen. Three-quarter architectural view, subject safely within the central crop, deliberate negative space, restrained clean composition. Materials: dark brushed metal, fine ivory stone, softly frosted teal glass. Palette midnight teal #001014 and #031b22, mint cyan #00dfd6 and #76e8db, restrained warm ivory. Controlled soft museum lighting, realistic contact shadows, refined detail, no visual noise. No words, letters, digits, logos, watermark, computer screens, charts, statistics, shields, generic cubes, or arrows.",
+      "alt": "غرفه معرفی با قاب‌های روشن در کنار فضای تعاملی دارای میز حلقه‌ای و محفظه شیشه‌ای، روی سکوی مشترک",
+      "caption": "تصویر مفهومی از دو کار متفاوت: معرفی اطلاعات و فراهم‌کردن محیط انجام کار.",
+      "afterHeading": "",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "70840f55479413855f9ca53483d33d25ef1d9e8eb2e13f09a56da8c24c881939",
+      "sha256": "2ed183942ee1b8127982fcad6226b9ed212491bd7c5a51c2f04b90da86c4a009",
+      "bytes": 180632
+    },
+    {
+      "role": "detail-1",
+      "file": "apps/web/public/images/articles/web-application-vs-website/detail-1.webp",
+      "prompt": "Use case: stylized-concept. Asset type: original in-article educational editorial illustration about roles and persistent workflow states in a web application. Generate one wide landscape 16:9 premium tactile 3D product image. A close, slightly elevated view of a crafted darkteal workflow apparatus on an ivory stone workbench. One distinctive ivory case card with a circular mint inset is held inside a clear small saved-state capsule, docked at the middle of a precise curved rail. Along the same rail are three clearly different physical work stations: an open drafting tray with one fine stylus, a review station with an adjustable inspection lens, and a finished closed archival sleeve. The same unique case card is represented only once, currently paused safely at the review station; the physical capsule and rail imply that progress remains stored between visits. Separate accessible hand-sized controls at the drafting and review stations suggest different responsibilities. Emphasize purposeful mechanical interlocks between states, not just decorative colored lights. Macro editorial object photography, large tactile forms and intelligible geometry, composition distinct from an architectural cover. Midnight teal #001014 / #031b22, mint #00dfd6 / #76e8db, warm ivory, brushed titanium and frosted glass. Soft directional light, strong visual hierarchy, restrained background. No text, digits, letters, logos, watermark, screens, fake data, charts, padlocks, or arrows.",
+      "alt": "سه ایستگاه متصل برای آماده‌سازی، بررسی و بایگانی پرونده با کارت‌های روشن، عدسی و محفظه شفاف",
+      "caption": "حفظ داده و کنترل جابه‌جایی میان وضعیت‌ها، بخشی از محدوده وب‌اپلیکیشن است.",
+      "afterHeading": "نقش‌ها و وضعیت‌ها هزینه پنهان هستند",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "f86cfc4cf0dbaaa9decfd5a21a99954d0cc6ce08889441b04a0507b516968acf",
+      "sha256": "571ace7ee9271ef4d3c7cbdeb0ad367a94fe2a022a37129bf46412df43c275d8",
+      "bytes": 180430
+    },
+    {
+      "role": "detail-2",
+      "file": "apps/web/public/images/articles/web-application-vs-website/detail-2.webp",
+      "prompt": "Use case: stylized-concept. Asset type: original in-article editorial illustration for a hypothetical small education institute evolving from an information website to an ongoing learning application. Generate one wide landscape 16:9 premium architectural miniature image with tangible materials. A coherent small learning center model on a dark stone plinth: in the foreground an already complete welcoming ivory information pavilion with THREE COMPLETELY BLANK SOLID IVORY DISPLAY PANELS, a reading bench and a simple contact slot. On its right, a carefully fitted functional learning room has been attached through a short visible mint-lit connector. This added room has three distinct small work desks and a central assignment tray with blank ivory task sheets, plus frosted individual cubbies holding persistent learner work. Show the architecture as an intentional modest phased expansion with a visible clean attachment seam, not construction chaos or futuristic megacity. Remaining plinth is calm empty space, emphasizing only needed current scope. Low three-quarter architectural camera, gentle depth, content centered and legible at editorial scale. Materials: ivory ceramic, midnight teal anodized metal, translucent mint glass and fine dark stone. Palette #001014 #031b22 #00dfd6 #76e8db and warm white. Gallery-quality controlled lighting, subtle cyan glow, purposeful visual storytelling. ALL cards, panels, sheets and surfaces are entirely blank; no decorative marks, lines, writing, images or miniature text. No words, letters, numbers, logos, watermark, UI screens, fake metrics, arrows, cube stacks, shield icons or people.",
+      "alt": "ماکت آموزشگاه با غرفه معرفی، راهروی شیشه‌ای فیروزه‌ای و اتاق افزوده دارای سه میز و قفسه پرونده‌ها",
+      "caption": "در مثال فرضی آموزشگاه، پیگیری تکلیف و بازخورد می‌تواند در فاز بعد به بخش معرفی افزوده شود.",
+      "afterHeading": "مثال فرضی: آموزشگاه کوچک",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "ab5d36a167a57a5ba8ce1c786c463e37eca1b5fc38d53582a4257b5bc2f67710",
+      "sha256": "373362b1df59424ce9ae80fe0063d924b9acc1e798a5e8043129d4813e6dfaf7",
+      "bytes": 164756
+    }
+  ],
+  "optimizedFormat": "WebP",
+  "optimizedQuality": 86
+}

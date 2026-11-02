@@ -13,6 +13,8 @@
     "start": "node tools/run-studio.mjs start",
     "setup:local": "node tools/setup-local.mjs",
     "content:prepare": "node tools/prepare-editorial.mjs",
+    "images:check": "node tools/publish-article-images.mjs",
+    "images:publish": "node tools/publish-article-images.mjs --apply",
     "check:production": "node tools/check-production.mjs",
     "build": "npm run build -w @loxx/api && npm run build -w @loxx/web",
     "typecheck": "npm run typecheck -w @loxx/api && npm run typecheck -w @loxx/web",

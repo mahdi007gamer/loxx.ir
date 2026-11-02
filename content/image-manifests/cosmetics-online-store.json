@@ -1,0 +1,47 @@
+{
+  "slug": "cosmetics-online-store",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "role": "cover",
+      "file": "apps/web/public/images/articles/cosmetics-online-store/cover.webp",
+      "prompt": "Use case: product-mockup. Asset type: wide 16:9 editorial cover for an article about trustworthy cosmetics e-commerce catalogues. Create an immaculate premium studio still life: one frosted deep teal pump bottle, one warm ivory cream jar with lid, and two elegant unbranded cosmetic tubes, arranged on a single low dark stone shelf, with two small tactile cream and cosmetic pigment swatches in the foreground. Purposeful balanced central composition with the key products safely inside the central crop; three-quarter camera at product height, controlled shallow depth of field. Midnight teal #001014 and #031b22 environment, restrained mint cyan #00dfd6 and #76e8db edge illumination, warm ivory highlights. Photoreal carefully staged product photography with tactile frosted glass, satin packaging, fine stone, realistic soft shadows, low visual noise. This is an illustrative editorial scene, not a client project. All packaging completely blank. No words, letters, numerals, logos, watermarks, screens, charts, faces, skin before/after, medical props or treatment claims. Landscape 16:9.",
+      "alt": "بطری پمپی سبز تیره، ظرف کرم و دو تیوب بی‌نشان کنار نمونه بافت کرم روی سکوی سنگی",
+      "caption": "چیدمان مفهومی محصولات آرایشی با بسته‌بندی و بافت‌های قابل تشخیص.",
+      "afterHeading": "",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "25288cbdcbf08c9bee2245a02713a3e83d90d4dd806f3d8e9f96d25f8de78b93",
+      "sha256": "962b6c6d50478b7b93a1698e32b0178aa7586cfd253a4ffa55a296b007d69a2a",
+      "bytes": 135972
+    },
+    {
+      "role": "detail-1",
+      "file": "apps/web/public/images/articles/cosmetics-online-store/detail-1.webp",
+      "prompt": "Use case: product-mockup. Asset type: independent wide 16:9 editorial in-article illustration about checking cosmetics product information against its packaging. A close overhead tabletop product-information review scene: a single unbranded frosted mint glass cosmetic pump bottle lies next to its open ivory folding carton; a small separate ivory packaging insert is folded open, entirely blank, and a polished metal magnifier rests over a plain abstract embossed leaf motif on the carton, suggesting careful inspection of source packaging without making claims. A closed cream jar and a restrained glossy cream texture dab occupy the far edge. Do not render any readable labels or text. Distinct calm flat-lay composition on midnight teal #031b22 stone, side light in pale mint #76e8db, warm ivory paper and subtle glass reflections. Photoreal premium editorial still life, tactile paper fibre and frosted glass, controlled low noise, not scientific evidence or medical advice. No words, letters, numbers, logos, watermarks, charts, interface, faces, skin, before/after imagery, laboratory gear or health claims. Landscape 16:9.",
+      "alt": "بطری آرایشی و جعبه‌های باز عاجی کنار ذره‌بین روی نقش برجسته بسته‌بندی",
+      "caption": "تصویر مفهومی بازبینی بسته‌بندی به‌عنوان منبع اطلاعات محصول.",
+      "afterHeading": "اطلاعات معتبر را از توصیه شخصی جدا کنید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "a4be1ab0b9c3789d0d81d6572eae291d209d6b7e9c29ce4feb0505598c323a61",
+      "sha256": "7d691642bd8e6f97bca6152e66c9c1c64c8ac36a27dd6f4db095d3156ef7cf7a",
+      "bytes": 204586
+    },
+    {
+      "role": "detail-2",
+      "file": "apps/web/public/images/articles/cosmetics-online-store/detail-2.webp",
+      "prompt": "Use case: product-mockup. Asset type: independent wide 16:9 editorial in-article image explaining cosmetic product variants with two sizes and four colours. Create a beautiful orderly studio product comparison, eight identical-family unbranded cosmetic tubes standing upright as two groups of four on a long stepped frosted glass display: four distinctly small tubes on the front lower step, four visibly taller tubes on the back higher step. Each group repeats exactly four muted cosmetic cap colours: dusty rose, warm terracotta, nude beige and deep mauve. The tube bodies are restrained warm ivory with no labels, one tiny matching pigment swatch immediately in front of each front tube. Every tube cleanly separated and individually visible, coherent scale and consistent packaging, at a three-quarter eye-level view. Premium photoreal product studio aesthetic, deep midnight teal #001014 background, mint cyan #00dfd6 and #76e8db rim lighting in the glass shelves, precise soft shadows and minimal noise. The visible grouping explains sizes and colour variants, without screens or diagrams. No words, letters, numbers, logos, watermark, faces, skin comparisons, medical claims or arbitrary floating icons. Landscape 16:9.",
+      "alt": "هشت تیوب آرایشی در دو اندازه با درپوش‌های صورتی، آجری، بژ و ارغوانی روی دو طبقه شیشه‌ای",
+      "caption": "دو اندازه و چهار رنگ، هشت گونه متمایز برای مدیریت تصویر و موجودی می‌سازند.",
+      "afterHeading": "مثال فرضی: محصول با دو حجم و چند رنگ",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "b65cb4cb67b9c2ec90b0feb649e3193827b7758e58bfca39172481619604a99a",
+      "sha256": "1687629fd6f1f3a6c3c9b83eeaf53d91c6c26d1ad55455455b7d38331d7cfc8e",
+      "bytes": 97428
+    }
+  ],
+  "optimizedFormat": "WebP",
+  "optimizedQuality": 86
+}

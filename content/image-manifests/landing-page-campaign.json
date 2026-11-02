@@ -1,0 +1,47 @@
+{
+  "slug": "landing-page-campaign",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "role": "cover",
+      "file": "apps/web/public/images/articles/landing-page-campaign/cover.webp",
+      "prompt": "Use case: stylized-concept. Asset type: editorial article cover, wide landscape 16:9. Create an exquisite premium 3D still life illustrating a focused sales landing page: a single beautifully crafted ivory desk lamp on a midnight-teal stone presentation island, one slim sculptural mint-lit pathway leading from this clear product presentation to a single small frosted-glass enquiry station. One product, one offer, one obvious destination. The enquiry station has only three empty recessed horizontal slots and one unmarked mint control, architectural rather than a literal screenshot. Strong central composition safe for a central cover crop, low camera angle, generous calm dark background. Palette midnight teal #001014 and #031b22, mint #00dfd6 and #76e8db, restrained ivory. Tactile stone, brushed metal lamp, softly glowing glass; controlled polished editorial lighting. No words, letters, numbers, logos, watermark, charts, conversion claims, arrows, fake testimonials, laptop or mobile phone. This is conceptual illustration, not real client evidence. Single coherent scene, no montage.",
+      "alt": "چراغ رومیزی روشن روی سکوی سنگی با مسیر نعنایی منتهی به فرم سه‌فیلدی",
+      "caption": "تصویر مفهومی یک پیشنهاد مشخص و مسیر روشن تا درخواست اولیه.",
+      "afterHeading": "",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "6835b819cfcfa4e4ef70bc4305307877afb23877219afe928d5664086f115536",
+      "sha256": "1a919e16c0f73b49db95fa091084e2bc846cc71015b13ec317a9972acbc5465c",
+      "bytes": 121942
+    },
+    {
+      "role": "detail-1",
+      "file": "apps/web/public/images/articles/landing-page-campaign/detail-1.webp",
+      "prompt": "Use case: stylized-concept. Asset type: supporting editorial illustration, wide landscape 16:9. Illustrate continuity between a campaign message and its landing destination through a beautiful tabletop installation. On the left a small upright frosted-glass campaign card contains only a recognizable miniature ivory desk lamp and one mint halo; on the right a larger horizontal landing-page composition repeats exactly the same ivory desk lamp, same mint halo and same ivory presentation surface, with simple blank geometric supporting content shapes below and one unobtrusive mint action shape. A single fine mint glass ribbon physically links the two matching product compositions. Use no advertising copy or type of any kind. Carefully staged overhead three-quarter camera, dark teal brushed desk, glass and ivory ceramic, polished studio render, soft cyan rim illumination. Clear visual match and one relevant path, not a collection of screen mockups. No text, letters, numerals, logos, watermarks, charts, fake performance statistics, testimonial stars or claims. Distinct tactile editorial scene, wide breathing room.",
+      "alt": "کارت تبلیغ و صفحه فرود با تصویر یکسان چراغ رومیزی و مسیر شیشه‌ای میان آن‌ها",
+      "caption": "هماهنگی تصویر و پیشنهاد، پیوند پیام ورودی و صفحه مقصد را روشن می‌کند.",
+      "afterHeading": "وعده تبلیغ را در ابتدای صفحه ادامه دهید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "f4a450e864700df34b2fe219d9d716ffaffdaca72ba77012c22a920482ede7eb",
+      "sha256": "32abc5db78208668ed8abf16db25996fbae2914a833d8a950b5305b56d52ba2b",
+      "bytes": 123822
+    },
+    {
+      "role": "detail-2",
+      "file": "apps/web/public/images/articles/landing-page-campaign/detail-2.webp",
+      "prompt": "Use case: stylized-concept. Asset type: supporting editorial illustration, wide landscape 16:9. A purposeful short initial enquiry illustrated as a refined physical service-design desk. Foreground right: one smooth dark-teal form tablet lying almost flat, exactly three empty shallow ivory input recesses and one small unmarked mint submission control; no text or labels. Foreground left: concrete evidence of a hypothetical new online shop service: a beautifully photographed ivory ceramic mug, small matching product catalog cards showing only the mug image, and a neat open order packaging sample. Behind the form a small open mint-lit receiving tray with one blank request card suggests receipt and subsequent review without promising immediate work. The objects should visibly belong to one coherent small retail project. Close editorial still life with asymmetrical composition, tactile paper and ceramic, frosted glass details, midnight teal #001014 / #031b22 with mint #76e8db and restrained warm ivory. Premium controlled lighting, clean purposeful scene. No words, letters, numbers, personal data, logos, watermarks, charts, fake conversion rates or fabricated client proof. No laptop, no generic cube, no montage.",
+      "alt": "فرم کوتاه سه‌فیلدی کنار ماگ، کارت محصول، بسته‌بندی و سینی دریافت درخواست",
+      "caption": "در مثال فرضی فروشگاه، فرم اولیه کوتاه می‌ماند و نمونه محصول به توضیح خدمت کمک می‌کند.",
+      "afterHeading": "مثال فرضی: کمپین طراحی فروشگاه تازه",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "2622714f042dc6dcf84054ae21f14e232477347019cc218b8e61693635ebbb68",
+      "sha256": "4d315e54b320f44e83a735f11b3b182c7d92b1389e536c5682c59a20ce106423",
+      "bytes": 120320
+    }
+  ],
+  "optimizedFormat": "WebP",
+  "optimizedQuality": 86
+}

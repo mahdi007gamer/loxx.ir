@@ -1,0 +1,47 @@
+{
+  "slug": "company-website-design",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "role": "cover",
+      "file": "apps/web/public/images/articles/company-website-design/cover.webp",
+      "prompt": "Use case: stylized-concept. Premium editorial 3D conceptual illustration for a Persian professional corporate website design article on LOXX. Wide landscape 16:9, 1536x864 or comparable. Sophisticated architectural product photography realism, tactile materials, restrained midnight teal #001014 and #031b22, mint cyan #00dfd6 and #76e8db illumination, warm ivory accents, soft shadows and controlled cinematic light. No text, letters, numbers, logos, watermarks, fabricated statistics, tiny illegible UI, or humans. No laptop, shield, generic floating cubes. This is conceptual illustration, not actual client project evidence. Cover image: camera at human eye level looking into a refined service company's architectural reception. A sculpted warm ivory reception desk stands in an open midnight teal room. Behind it a beautifully integrated digital portfolio wall presents three large wordless service views as architectural, industrial and craft objects, with simple generous composition. A subtle mint-lit seam along the stone floor gently leads from entrance toward the reception conversation point. Realistic life-size furnishings, warm indirect ceiling light, serious calm welcoming atmosphere, spatial depth, wide lens without distortion. Main desk and portfolio wall safely in central crop; no signage and no fake brands.",
+      "alt": "پذیرش شرکتی با میز سنگی روشن، دیوار نمایش نمونه‌ها و مسیر نورانی فیروزه‌ای",
+      "caption": "تصویر مفهومی از معرفی روشن شرکت و هدایت مخاطب به گفت‌وگو.",
+      "afterHeading": "",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "ab6b1160439c1679755f709e78026c5c867eac1c00f1c842eb6b958529d67277",
+      "sha256": "b6ea37db7ed3f6bd89eb845d225393a1bad280f8bb79a6acf20e311e8e41c12e",
+      "bytes": 224382
+    },
+    {
+      "role": "detail-1",
+      "file": "apps/web/public/images/articles/company-website-design/detail-1.webp",
+      "prompt": "Use case: stylized-concept. Premium editorial 3D conceptual illustration for a Persian professional corporate website design article on LOXX. Wide landscape 16:9, 1536x864 or comparable. Sophisticated architectural product photography realism, tactile materials, restrained midnight teal #001014 and #031b22, mint cyan #00dfd6 and #76e8db illumination, warm ivory accents, soft shadows and controlled cinematic light. No text, letters, numbers, logos, watermarks, fabricated statistics, tiny illegible UI, or humans. No laptop, shield, generic floating cubes. This is conceptual illustration, not actual client project evidence. In-article image on explaining a clear path for each company service: an elegant architectural materials archive in a midnight teal studio, photographed from a slightly elevated oblique three-quarter angle. Three distinct physical service portfolios are laid open on an ivory stone review table, each with a different carefully built tangible deliverable: a folded architectural floorplan with absolutely no lettering, a machined brushed metal fitting on a fitted felt insert, and a restrained stack of cream material swatches with translucent glass samples. Their organised presentation clearly expresses service scope, method and outputs. Mint edge lighting, realistic paper and metal textures, comfortable negative space, no text on any page or surface, no numbers, no charts, no laptop.",
+      "alt": "پرونده‌های منظم خدمات شامل نقشه معماری، قطعات فلزی و نمونه‌های متریال روی میز سنگی",
+      "caption": "خروجی و محدوده هر خدمت را با نمونه‌های مرتبط و قابل فهم توضیح دهید.",
+      "afterHeading": "برای هر خدمت یک مسیر روشن بسازید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "64abb82c746a34ff066735e0e028e4fd313606d94151d03c92422b9f679e86e3",
+      "sha256": "b84d1aa1358bd07856baa4a4ff05c8ac9d461e91fc7cfd6bbd0272061729fad7",
+      "bytes": 198244
+    },
+    {
+      "role": "detail-2",
+      "file": "apps/web/public/images/articles/company-website-design/detail-2.webp",
+      "prompt": "Use case: stylized-concept. Premium editorial 3D conceptual illustration for a Persian professional corporate website design article on LOXX. Wide landscape 16:9, 1536x864 or comparable. Sophisticated architectural product photography realism, tactile materials, restrained midnight teal #001014 and #031b22, mint cyan #00dfd6 and #76e8db illumination, warm ivory accents, soft shadows and controlled cinematic light. No text, letters, numbers, logos, watermarks, fabricated statistics, tiny illegible UI, or humans. No laptop, shield, generic floating cubes. This is conceptual illustration, not actual client project evidence. In-article image on accountable contact-form follow-up: close medium shot of a refined corporate reception work surface from the side, showing a slim upright frosted glass contact interface with exactly three empty rounded field outlines and one mint circular submission control, absolutely no text or glyphs. A single solid warm ivory folded request envelope appears to travel along a short elegant mint-lit recessed track from the glass interface into an orderly brushed metal case tray at a responsible staff member's desk. Behind the tray a simple ivory desk chair and warm task lamp suggest ownership without any person visible. Real human-scale objects, orderly polished midnight teal interior, restrained warm ivory, cinematic shallow depth, no client data, no writing, no statistics, no tiny illegible UI.",
+      "alt": "فرم شیشه‌ای بدون نوشته و پاکت درخواست در مسیر نورانی به سینی پیگیری روی میز مسئول پاسخ‌گویی",
+      "caption": "پس از ثبت فرم، درخواست باید مقصد و مسئول پیگیری مشخصی داشته باشد.",
+      "afterHeading": "فرم را برای ادامه گفت‌وگو طراحی کنید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "77e8042cf0153a5d305b92f2c01b2cdba08b0766595e837b40bfc5f9c9e6bd68",
+      "sha256": "2011f0a211ee17ad3c2647eca4d2ea5e7d6d2dc701fc643ca0e8e23275b0f456",
+      "bytes": 120230
+    }
+  ],
+  "optimizedFormat": "WebP",
+  "optimizedQuality": 86
+}

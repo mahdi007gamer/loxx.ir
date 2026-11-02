@@ -1,0 +1,47 @@
+{
+  "slug": "inventory-order-management",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "role": "cover",
+      "prompt": "Use case: stylized-concept. Asset type: professional LOXX editorial article illustration about inventory and order management. Premium clean tactile miniature 3D product staging with midnight teal #001014 and #031b22, mint cyan #00dfd6 and #76e8db illumination, restrained warm ivory, brushed metal and frosted glass. Wide landscape 16:9 image, refined studio lighting, high material fidelity, calm controlled shadows, coherent geometry, no visual noise. No words, letters, numbers, logos, watermarks, charts, UI screens or decorative laptop. Scene: a beautifully organized miniature retail fulfilment floor, viewed at a low three-quarter overhead angle. A central physical pick-and-pack bench with an opened ivory corrugated shipping parcel, tissue paper and a small ceramic retail item; behind it neat dark teal shelves contain individual ivory cartons and boxed bottles, each discernible. Three precise mint inset floor tracks lead from shelving to separate shallow order trays and then a packed parcel waiting at a dispatch bay. Material details show cartons, taped seams, shelf brackets and rounded trays. Tell a meaningful clear story of stock becoming prepared orders. Main warehouse and parcel composition safely central for cover cropping, dark teal negative space around the miniature. Sophisticated architectural product photography, no people.",
+      "alt": "قفسه‌های مرتب کالا، میز بسته‌بندی و سینی‌های سفارش متصل به مسیرهای روشن انبار",
+      "caption": "مدیریت سفارش، از کنترل موجودی قفسه تا آماده‌سازی و تحویل بسته ادامه دارد.",
+      "afterHeading": "",
+      "file": "apps/web/public/images/articles/inventory-order-management/cover.webp",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "d83c27f26ab2919f1ed2e3f74052b25d575b251c6f15780365aaa781deba0e44",
+      "sha256": "f215ad29992beb1b91f165ae45d75c8f3161ac075488cb6f25a5666a2f6c0299",
+      "bytes": 126244
+    },
+    {
+      "role": "detail-1",
+      "prompt": "Use case: stylized-concept. Asset type: professional LOXX editorial article illustration about inventory and order management. Premium clean tactile miniature 3D product staging with midnight teal #001014 and #031b22, mint cyan #00dfd6 and #76e8db illumination, restrained warm ivory, brushed metal and frosted glass. Wide landscape 16:9 image, refined studio lighting, high material fidelity, calm controlled shadows, coherent geometry, no visual noise. No words, letters, numbers, logos, watermarks, charts, UI screens or decorative laptop. Scene: a very close overhead still life explaining available stock versus reserved stock. A dark teal shelf compartment contains exactly one elegant ivory boxed ceramic cup, with its transparent mint reservation clip visibly attached to the shelf lip and a mint route line connecting it to a waiting open shallow order tray in front. Beside that order tray is a second empty ivory order tray, separated and unconnected, visibly awaiting stock. An elegant hourglass with pale mint sand stands next to the reserved item, suggesting reservation expiry. Clear physical objects, crisp cardboard textures, purposeful separated spacing, no text, no status words, no numeric labels. Focus on the last remaining boxed item and its one reservation; top down camera, broad horizontal composition, premium editorial tabletop staging.",
+      "alt": "آخرین فنجان بسته‌بندی‌شده روی قفسه با اتصال رزرو به یکی از دو سینی سفارش و ساعت شنی",
+      "caption": "رزرو باید به یک سفارش مشخص متصل باشد و زمان انقضای روشنی داشته باشد.",
+      "afterHeading": "موجود، رزروشده و قابل فروش را جدا کنید",
+      "file": "apps/web/public/images/articles/inventory-order-management/detail-1.webp",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "6951597ddb709db071e8fa18e8043889e4c0b24a3a70b97d32237793f60cba6a",
+      "sha256": "7e4c753c0da15286cb9af6c9391258707dda6c8e8e21f7fb9c405ba38b78f3a7",
+      "bytes": 152850
+    },
+    {
+      "role": "detail-2",
+      "prompt": "Use case: stylized-concept. Asset type: professional LOXX editorial article illustration about inventory and order management. Premium clean tactile miniature 3D product staging with midnight teal #001014 and #031b22, mint cyan #00dfd6 and #76e8db illumination, restrained warm ivory, brushed metal and frosted glass. Wide landscape 16:9 image, refined studio lighting, high material fidelity, calm controlled shadows, coherent geometry, no visual noise. No words, letters, numbers, logos, watermarks, charts, UI screens or decorative laptop. Scene: a polished physical return-inspection workbench in an online-shop warehouse, eye-level close perspective. An open returned corrugated parcel with folded ivory packing tissue at left, a ceramic cream cup on a mint-edged illuminated inspection mat in the center with a simple magnifying glass angled above its surface; at right an empty clean mint-rimmed product tray points toward a neat shelf of sellable ivory cartons in softly blurred background. A separate small dark stone quarantine tray sits behind the inspection area, visibly detached from the clean shelf route. Clear conceptual sequence from unpacking to inspecting before restocking. Tactile realistic cardboard, ceramic, metal and soft glass. No people, text, labels or screens. Calm spacious landscape composition with useful visual hierarchy.",
+      "alt": "بررسی فنجان مرجوعی با ذره‌بین روی میز بازرسی، کنار بسته باز و سینی کالای قابل فروش",
+      "caption": "کالای برگشتی پس از بررسی کیفیت می‌تواند دوباره به موجودی قابل فروش اضافه شود.",
+      "afterHeading": "چک لیست پنل عملیات",
+      "file": "apps/web/public/images/articles/inventory-order-management/detail-2.webp",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "260fff117f218bbfe81752e700fd46f0fb3e2a3ef72de85c0ecd6597bb6e4dfb",
+      "sha256": "4f12e9ce3af5fb9012af42eb282f555f4fe5d593e78ec16415dbea8e73d299b3",
+      "bytes": 134706
+    }
+  ],
+  "optimizedFormat": "WebP",
+  "optimizedQuality": 86
+}

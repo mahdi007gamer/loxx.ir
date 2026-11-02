@@ -1,0 +1,47 @@
+{
+  "slug": "category-filter-design",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "role": "cover",
+      "file": "apps/web/public/images/articles/category-filter-design/cover.webp",
+      "prompt": "Use case: stylized-concept. Create a premium editorial cover image for an article on ecommerce category and filter design. Wide landscape 16:9. An elegant miniature retail library in architectural perspective: three unmistakably separate orderly aisles, one displays ivory shoes, another brushed-metal desk lamps, another refined travel bags. Each aisle holds a few differentiated recognisable products on midnight teal stone plinths. Transparent mint glass frames at the aisle entrances imply useful filters without any interface, text or symbols. A clean illuminated cyan floor route guides the eye to one well chosen product at center. Purposeful spatial categorisation, tactile museum-quality objects, realistic 3D, calm precision, sophisticated editorial lighting, dark midnight teal #001014 and #031b22, mint/cyan #00dfd6 and #76e8db highlights, restrained ivory, no neon overload. Central subject safe for cropping. No words, letters, numbers, logos, watermark, chart, generic funnel icon, screens or laptops. Not a montage.",
+      "alt": "نمایش دسته‌های کفش، چراغ و کیف در فضای نمایشگاهی با مسیرهای نورانی و قاب‌های شیشه‌ای",
+      "caption": "دسته‌های روشن و مسیرهای قابل فهم، یافتن کالای مناسب را آسان می‌کنند.",
+      "afterHeading": "",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "d4981df075e74bf9f94ed6ae314b42bd1206547aba7a095560d6b27026bb8019",
+      "sha256": "94d2a218e7a54443f570e3249ac29490dc3e474cf4125d524c4beb6cedcc94af",
+      "bytes": 177394
+    },
+    {
+      "role": "detail-1",
+      "file": "apps/web/public/images/articles/category-filter-design/detail-1.webp",
+      "prompt": "Use case: stylized-concept. A premium clean editorial 3D illustration explaining meaningful ecommerce filters from actual buying questions. Wide landscape 16:9, close slightly elevated view of a carefully organised footwear collection on a midnight teal stone display. Six realistic unbranded shoes differ visibly in size, ivory versus dark teal material, and low versus high ankle shape. Three delicate translucent glass selection boundaries slide on brushed-metal rails: they frame a useful subset, leaving two ivory low shoes crisply illuminated while other variants remain visible in subtle shadow. Communicate filter attributes through the products themselves rather than UI or symbols. Refined tactile leather and fabric, pristine materials, very low visual noise, controlled soft studio lighting, midnight teal #001014/#031b22 background, mint cyan #00dfd6/#76e8db edge illumination and warm ivory products. Beautiful generous negative space. No text, letters, numbers, logos, watermark, screens, charts, funnel icon, laptop, or collage.",
+      "alt": "کفش‌های متفاوت از نظر رنگ و مدل با مرزهای شیشه‌ای انتخاب دو کفش روشن",
+      "caption": "فیلتر مفید از ویژگی‌های واقعی و قابل مقایسه محصول ساخته می‌شود.",
+      "afterHeading": "فیلترها را از سؤال خرید استخراج کنید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "cd9028d9a889fb1ad04aa53942d1a3cd43f3ac626f5f1906ae2c23c1ec1637bd",
+      "sha256": "1b0e07d267c985a3f558bc3e436a43ab6e95da46923add3ce64899b7066634ee",
+      "bytes": 112368
+    },
+    {
+      "role": "detail-2",
+      "file": "apps/web/public/images/articles/category-filter-design/detail-2.webp",
+      "prompt": "Use case: stylized-concept. Create a refined explanatory editorial illustration for the empty-filter-result recovery section of an ecommerce article. Wide landscape 16:9. A miniature premium camping product gallery on dark teal stone: several recognisable ivory and muted teal camping tents of visibly different capacities and shapes occupy quiet pedestals in the distance. In foreground a short physical path has three thin glass filter gates, the last gate visibly slid open sideways on a rail; the earlier narrow route ends at an empty circular pedestal, while a single elegant mint-lit floor route branches through the reopened gate toward one appropriate ivory tent. The conceptual story is relaxing one excessive constraint to discover a suitable product, immediately legible without text. Architectural camera at low three-quarter perspective, realistic premium 3D, tactile tent fabrics and brushed metal fittings, restrained cinematic soft lighting, midnight teal #001014 and #031b22, mint/cyan #00dfd6 and #76e8db, warm ivory. Keep uncluttered, no text, letters, numbers, logos, watermark, generic funnel icon, UI screens or laptop. Single cohesive scene.",
+      "alt": "مسیر نورانی از میان دروازه‌های شیشه‌ای به چادر مناسب در میان چند مدل چادر",
+      "caption": "در حالت بدون نتیجه، حذف یک محدودیت باید مسیر انتخاب را دوباره باز کند.",
+      "afterHeading": "مثال فرضی: فروشگاه تجهیزات سفر",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "1519bb83c245b7c7d34753140e3c380fe181ccf8931bfd797550425602bc77d1",
+      "sha256": "9e23ea32c22dfef305f361d2b44b0fc061d4e22f4c1d2cd6533641ef13cadb95",
+      "bytes": 217810
+    }
+  ],
+  "optimizedFormat": "WebP",
+  "optimizedQuality": 86
+}

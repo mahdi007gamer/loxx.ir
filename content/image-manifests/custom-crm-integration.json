@@ -1,0 +1,47 @@
+{
+  "slug": "custom-crm-integration",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "role": "cover",
+      "file": "apps/web/public/images/articles/custom-crm-integration/cover.webp",
+      "prompt": "Use case: stylized-concept.\nAsset type: original wide editorial cover for a Persian article about reliable website-to-CRM integration.\nPrimary request: show a single customer request making a clear traceable journey from website intake into an organized CRM casework atelier.\nScene: premium miniature architectural desk installation on a midnight teal surface, one slim upright glass intake portal on the left, one warm ivory blank request card traveling on a fine illuminated mint rail into a central brushed-metal casework desk with three orderly shallow trays; an elegant empty chair behind the destination desk suggests an accountable salesperson. A tiny unlettered attachment tab accompanies the card, no personal data. The card and destination trays are the main subjects. This is a physical conceptual editorial sculpture, not software UI.\nComposition: cinematic 16:9 wide landscape, three-quarter eye-level view, subject grouped safely within central 65 percent for cover cropping, generous breathing room, restrained asymmetry, tactile crafted objects.\nLighting and materials: controlled studio key light with mint/cyan glow along the connector, brushed aluminium, frosted glass, warm ivory heavy paper, dark matte stone, soft realistic contact shadows.\nPalette: midnight teal #001014 and #031b22 with mint #00dfd6 and pale cyan #76e8db, restrained warm ivory.\nConstraints: professional clean premium editorial 3D, very low visual noise, clear path and ownership. No words, no letters, no numerals, no logos, no watermark, no charts, no graphs, no data, no fake screen interfaces, no laptop, no giant network hub, no handshake. Generate one coherent original image, not a montage.",
+      "alt": "کارت درخواست روی مسیر نورانی از درگاه شیشه‌ای به سینی‌های پرونده روی میز کارشناس منتقل می‌شود",
+      "caption": "نمای مفهومی مسیر درخواست از سایت تا محل پیگیری در CRM.",
+      "afterHeading": "",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "12bebce09ffd03514b814e71ef8bf1324802d09d4d57261a5d6bf33e6f0f25d3",
+      "sha256": "252ca5ed419e24f61de0a883a2badec90e04eb4fb70a2c6d9b2fb2d5c10551bd",
+      "bytes": 125050
+    },
+    {
+      "role": "detail-1",
+      "file": "apps/web/public/images/articles/custom-crm-integration/detail-1.webp",
+      "prompt": "Use case: stylized-concept.\nAsset type: original in-article explanatory editorial image about defining people versus requests and preventing duplicate CRM records.\nPrimary request: a precise physical sorting scene with one unique customer represented by a single mint frosted-glass circular portrait token containing a simple human silhouette, anchored above two distinctly separate ivory request folders. Two translucent duplicate incoming slips align into just one accepted request card passing through a narrow polished-metal validation gate into one tray, while the second legitimate request folder remains separate beside it. Express one person, separate requests, and duplicate prevention without any text or diagram labels.\nScene: close-up overhead three-quarter view of a refined casework sorting table with substantial blank ivory cards, two shallow dark teal trays, one luminous mint gate, and a single person token on a small stand. The objects should feel crafted and functional rather than floating generic shapes.\nComposition: wide 16:9 landscape, tighter macro view than a cover, carefully spaced large objects, central routing gate with distinct stacked duplicate slips left and the accepted single card right; separate second request folder clearly visible lower right, sparse background.\nLighting: soft upper-left studio light, gentle cyan edge highlights, crisp tactile paper shadows.\nPalette and materials: midnight teal #001014/#031b22 matte desk, mint #00dfd6 and #76e8db frosted glass, warm ivory paper, fine brushed metal.\nConstraints: premium clean editorial 3D, conceptual illustration rather than actual client software. No words, no letters, no numerals, no logos, no watermark, no charts, no fake miniature UI, no laptop, no shield, no giant hub, no montage. One coherent original image.",
+      "alt": "نشان یک مشتری بالای دروازه بررسی کارت‌ها و سینی‌های جداگانه درخواست روی میز سبز تیره قرار دارد",
+      "caption": "تفکیک هویت مشتری از درخواست‌ها، پایه تشخیص ثبت تکراری است.",
+      "afterHeading": "واحد ثبت و تشخیص تکرار را تعریف کنید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "e390d93fdc19911185ba592fb68ca50143b853cf8ac7171d0bb2087910a1f486",
+      "sha256": "67a5fc6c6505f9ed551937529c946eca661509b835cb02bbd935201fff940107",
+      "bytes": 148418
+    },
+    {
+      "role": "detail-2",
+      "file": "apps/web/public/images/articles/custom-crm-integration/detail-2.webp",
+      "prompt": "Use case: stylized-concept.\nAsset type: original in-article conceptual editorial image explaining safe request queueing during a temporary CRM connection outage.\nPrimary request: a small refined mechanical mail conveyor interrupted by an open connector gap, with three neatly preserved blank ivory request envelopes resting safely in an orderly protected waiting rack before the gap; beyond the gap sits a single empty receiving tray. The scene should communicate a visible paused transfer with preserved requests, ready for a later retry, without implying that the requests vanished.\nScene: one continuous tabletop installation, horizontal conveyor rail at low height on a midnight teal stone plinth, three separated envelopes upright in a precise metal rack under an arched clear glass canopy on the left, a short physically disconnected twin plug cable centered in the foreground, and destination tray on the right. Small warm amber indicator glow beside the connector indicates waiting; no text or symbols are required.\nComposition: wide cinematic 16:9 landscape, low close side angle, tangible queue of envelopes is dominant, orderly open space around the short gap, distinct from an office desk or abstract network diagram.\nLighting and materials: controlled premium studio lighting, mint luminous rail ending at the interruption, dim warm amber at the connector, clear glass, brushed steel, ivory paper, matte teal stone, soft shadows and realistic reflections.\nPalette: midnight teal #001014/#031b22 with mint #00dfd6 and pale cyan #76e8db, tiny restrained amber accent.\nConstraints: clean professional editorial 3D, no words, no letters, no numerals, no logos, no watermark, no charts, no screens or miniature UI, no laptop, no shield, no generic cube, no montage. One original coherent image.",
+      "alt": "سه پاکت درخواست زیر پوشش شیشه‌ای در صف مانده‌اند و اتصال جداشده مسیر انتقال به سینی مقصد را متوقف کرده است",
+      "caption": "در قطعی موقت اتصال، درخواست‌ها باید در صفی قابل پیگیری حفظ شوند.",
+      "afterHeading": "قطع ارتباط باید سناریوی طراحی باشد",
+      "width": 1672,
+      "height": 940,
+      "originalSha256": "fc23408ec7f8b3a355b80d7c3f03c3eccb392634276377caf95d6e0e7a4fb69e",
+      "sha256": "68a2e6f9fdae395fed2847562a3341a5533e0c457b43ea53d08178a391c68b80",
+      "bytes": 136032
+    }
+  ],
+  "optimizedFormat": "WebP",
+  "optimizedQuality": 86
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "service-booking-website",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "role": "cover",
+      "file": "apps/web/public/images/articles/service-booking-website/cover.webp",
+      "prompt": "Use case: stylized-concept. Asset type: editorial article cover, wide landscape 16:9. Create a premium carefully staged conceptual photography studio appointment scene. A beautiful quiet studio room with an ivory seamless backdrop, a professional camera on tripod, one refined photographic lamp and an elegant portrait stool; in the foreground a single luminous mint translucent glass time block sits precisely in a brushed-metal reservation cradle, symbolizing a genuinely reserved studio slot. Tactile photorealistic editorial 3D, sophisticated midnight teal #001014 and #031b22 architecture, restrained warm ivory, mint #00dfd6 and pale cyan #76e8db illumination. Wide eye-level three-quarter composition, primary subject central and safe for a cover crop, coherent quiet space, soft controlled cinematic light and fine material detail. No people, no words, letters, dates, numerals, logos, watermark, clocks with markings, screens, charts, fake appointment records or miniature UI. One cohesive scene, not a montage.",
+      "alt": "استودیوی عکاسی با دوربین و نورپردازی و یک بلوک شیشه‌ای روشن در جایگاه رزرو",
+      "caption": "تصویر مفهومی یک نوبت رزروشده برای استودیوی عکاسی.",
+      "afterHeading": "",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "a28ae46df25deada3afaa951f6cdd366fbd7f23934ffacbb74b1f3d9ddc8e254",
+      "sha256": "2d840b07d4b94cf8c86c5a64af7a7c33b1fa3fa980baea8e943e1e393142c201",
+      "bytes": 127518
+    },
+    {
+      "role": "detail-1",
+      "file": "apps/web/public/images/articles/service-booking-website/detail-1.webp",
+      "prompt": "Use case: stylized-concept. Asset type: explanatory inline article illustration, wide landscape 16:9. Depict capacity conflict prevention for booking a photography studio through an exquisite physical scheduling mechanism. An overhead-oblique close editorial view of a dark teal stone workbench: three parallel brushed-metal rails representing room, photographer and studio equipment. One long solid mint glass reservation bridge engages the three rails simultaneously, with small frosted glass end buffers visibly reserving preparation time. A second translucent ivory booking block waits beside the rail because the overlapping position is occupied; a clearly empty recessed position farther along remains free. Make the constrained fit mechanically coherent and visually legible without any labeling or UI. Premium tactile photorealistic 3D, precise engineered objects, midnight teal #001014 #031b22, mint #00dfd6 #76e8db, warm ivory, restrained reflections, soft directional studio lighting. No text, letters, dates, numbers, logos, watermark, arrows with writing, charts, customer data, screens. One unified meaningful still life, not a triptych.",
+      "alt": "بلوک شیشه‌ای مشترک روی سه ریل منابع استودیو و یک بلوک رزرو منتظر در کنار آن",
+      "caption": "قطعی شدن نوبت به آزاد بودن هم‌زمان منابع و زمان آماده‌سازی وابسته است.",
+      "afterHeading": "رزرو موقت و قطعی را جدا کنید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "3f3271f87aabe0e0b709212a5cfca490e9384e0b91078692250bed9b0cbe4dd0",
+      "sha256": "cca417855c49e13ae7de7723e3b36b1a60576e8aedc715edd0c21143d156c618",
+      "bytes": 199214
+    },
+    {
+      "role": "detail-2",
+      "file": "apps/web/public/images/articles/service-booking-website/detail-2.webp",
+      "prompt": "Use case: stylized-concept. Asset type: explanatory inline article illustration, wide landscape 16:9. Create a graceful and safe appointment rescheduling concept specific to a photography studio. On a dark teal sculptural desk, one small well-crafted mint glass reservation capsule is cradled by a slender curved mechanical transfer arm between two open recessed slots in a continuous brushed-metal schedule track. The previous slot retains a soft mint connection to the capsule while the destination is visibly available, conveying preservation until the move completes. Beside the connected track sit a real miniature camera lens, a folded ivory backdrop swatch and a studio light reflector, all intact and calmly arranged to represent the same service resources. Close low three-quarter camera angle, different from a room view or overhead capacity scene. Premium editorial photorealistic 3D, tactile stone glass metal, midnight teal #001014 and #031b22, gentle cyan #00dfd6 and #76e8db light, restrained ivory, clean negative space. No people, words, letters, dates, numbers, arrows, logos, watermark, fake client records, screens or charts. Single coherent conceptual scene.",
+      "alt": "بازوی فلزی در حال انتقال کپسول رزرو میان دو جایگاه با حفظ اتصال به جایگاه قبلی",
+      "caption": "در تغییر نوبت، زمان قبلی تا قطعی شدن جایگزین باید قابل بازیابی بماند.",
+      "afterHeading": "تغییر نوبت را از ابتدا طراحی کنید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "cd9a071e70f14c4d109ea0061547e5d4b58bb919188508d04a5116ad55163f3b",
+      "sha256": "f2d02652f008f95a7ce9b2e19e26e05de2ee17496396f52103abc84b17b41ef6",
+      "bytes": 140484
+    }
+  ],
+  "optimizedFormat": "WebP",
+  "optimizedQuality": 86
+}

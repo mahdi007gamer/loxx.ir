@@ -1,0 +1,47 @@
+{
+  "slug": "mobile-shopping-experience",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "role": "cover",
+      "file": "apps/web/public/images/articles/mobile-shopping-experience/cover.webp",
+      "prompt": "Use case: stylized-concept. Asset type: dedicated editorial cover for a Persian article about a usable mobile shopping experience. Create a premium photorealistic 3D still life: one elegant slim smartphone angled gently upright on a low ivory stone block, its display presenting a beautifully simple shoe product interface ONLY through a large clean image of an ivory sneaker, generous rounded color swatches, and a broad mint purchase control. One real ivory sneaker rests beside the phone, clearly connecting physical product to mobile commerce. No other devices. Eye level close editorial camera with shallow depth of field, central safe subject crop, carefully balanced quiet horizontal composition. Midnight teal #001014 background, deep teal #031b22 stone surface, restrained mint #00dfd6 and #76e8db rim illumination and warm ivory. Tactile materials, soft studio light, pristine luxury product photography, clean and useful visual story. Wide 16:9 landscape. Absolutely no text, letters, numbers, logos, watermark, fake charts, statistics, miniature UI labels, hands, shields or abstract cubes. Illustrative conceptual design, not an actual client screenshot.",
+      "alt": "گوشی با نمایش مفهومی صفحه خرید کفش، انتخاب رنگ و دکمه بزرگ کنار یک کتانی کرم‌رنگ",
+      "caption": "تصویر مفهومی از دسترسی روشن به تصویر کالا، انتخاب تنوع و اقدام خرید در موبایل.",
+      "afterHeading": "",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "947452f99b464a8cb6acbdd4e5e5602dbaa22e86a8fca476d4239f6e04afe7f2",
+      "sha256": "7b974952411376732b8fdb18f1b108cac4b57cdee30439f4d877533785c954e9",
+      "bytes": 123676
+    },
+    {
+      "role": "detail-1",
+      "file": "apps/web/public/images/articles/mobile-shopping-experience/detail-1.webp",
+      "prompt": "Use case: stylized-concept. Asset type: in-article editorial illustration explaining thumb-friendly mobile product filters. Create a very close oblique overhead view of a single smartphone laid nearly flat across midnight teal stone. On its display a clean conceptual shoe-store filter sheet: three generous round color selection controls, a row of broad pill-shaped unlabelled size choices, and one large mint apply button, all with comfortable spacing. Subtle luminous translucent mint rings hover just above two touch controls to convey easy touch targets; the rings are elegant tactile optical glass, not noisy neon effects. A partially visible ivory sneaker product thumbnail sits toward the top of this interface. Crop close enough that the ergonomics are the subject; no real hands. Premium precise product render, macro optical detail, glass and brushed dark metal, soft ivory accents, midnight teal #001014 and #031b22, restrained mint #00dfd6 #76e8db. Horizontal 16:9 composition, clear negative breathing room, calm controlled studio lighting. No words, letters, numbers, logos, watermark, charts or written UI labels. Not an infographic collage or real client work.",
+      "alt": "نمای نزدیک کنترل‌های بزرگ انتخاب رنگ و اندازه روی گوشی با حلقه‌های شفاف نشان‌دهنده ناحیه لمس",
+      "caption": "فاصله مناسب میان کنترل‌ها و بازخورد انتخاب، استفاده از فیلتر را با لمس آسان‌تر می‌کند.",
+      "afterHeading": "فیلتر را به یک کار قابل پایان تبدیل کنید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "ceeb15b6a96cdcc706e96bf3927b4bbb5848d28e2dcd6c775e1d3d4b351feb72",
+      "sha256": "2b36e01f0efd2cecbb715088a66c9dc57169aca19a439bc0e9fd19dcd232a53b",
+      "bytes": 117332
+    },
+    {
+      "role": "detail-2",
+      "file": "apps/web/public/images/articles/mobile-shopping-experience/detail-2.webp",
+      "prompt": "Use case: stylized-concept. Asset type: in-article premium editorial image about preserving progress from mobile delivery address through cart to payment result. On a dark teal sculptural studio plinth show three physical slim portrait phone-screen panels arranged along one gentle curved path receding in space. First panel shows an unlabelled address form made of large blank ivory input fields and a simple location pin; middle panel shows one ivory sneaker image with a compact cart silhouette and a large mint bottom control; final panel shows one clear mint circular check mark on calm ivory surface to represent a completed checkout. Link these stages with one thin soft glowing mint curved line on the tabletop; physically coherent perspective, not a collage. Wide low-angle camera with three distinct panels all readable as simple shapes, central composition, ample breathing room, no clutter. Premium photorealistic 3D, brushed metal edges, smooth dark stone, warm ivory glass, midnight teal #001014 #031b22 background, controlled mint #00dfd6 #76e8db lighting, 16:9 landscape. Absolutely no words, letters, numbers, logo, watermark, fake chart or statistical claims. A conceptual illustration, not an actual project screenshot.",
+      "alt": "سه پنل موبایل شامل فرم نشانی، سبد خرید کفش و نشان تأیید در امتداد یک مسیر نورانی",
+      "caption": "تصویر مفهومی پیوستگی مسیر نشانی، مرور سبد و تأیید خرید؛ داده‌های واردشده باید در رفت‌وبرگشت مراحل حفظ شوند.",
+      "afterHeading": "فرم آدرس را با صفحه‌کلید آزمایش کنید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "94238b52d53cb3f4ff08c94075683b61db7bbf1a91fcfb2487a0c1ff7f645644",
+      "sha256": "8239c065a1f0862f53dddd93808b9b7252d348d85c14af3f2d39de0a1672a501",
+      "bytes": 129778
+    }
+  ],
+  "optimizedFormat": "WebP",
+  "optimizedQuality": 86
+}

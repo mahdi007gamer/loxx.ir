@@ -57,3 +57,16 @@ test('structured article headings create unique navigable anchors', () => {
   assert.ok(html.includes('id="section-2"'));
   assert.ok(html.includes('<thead>'));
 });
+
+test('article images use local assets, useful alt/caption and lazy loading while remote or executable image URLs stay inert', () => {
+  const blocks = parseArticle('## بررسی\n\n![نمای مفهومی فروشگاه](/images/articles/online-shop-launch/detail-1.webp "توضیح تصویر و مسیر خرید")\n\nمتن بعد از تصویر');
+  assert.equal(blocks.filter(block => block.type === 'image').length, 1);
+  const html = renderToStaticMarkup(createElement(ArticleBody, { blocks }));
+  assert.ok(html.includes('<figure'));
+  assert.ok(html.includes('alt="نمای مفهومی فروشگاه"'));
+  assert.ok(html.includes('<figcaption>توضیح تصویر و مسیر خرید</figcaption>'));
+  assert.ok(html.includes('loading="lazy"'));
+  for (const unsafe of ['![bad](javascript:alert)', '![bad](https://example.com/tracker.png)', '![bad](/images/../../private.png)']) {
+    assert.equal(parseArticle(unsafe).some(block => block.type === 'image'), false);
+  }
+});

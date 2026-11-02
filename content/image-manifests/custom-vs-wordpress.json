@@ -1,0 +1,47 @@
+{
+  "slug": "custom-vs-wordpress",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "role": "cover",
+      "alt": "دو سازه مینیاتوری سنگی و شیشه‌ای؛ یکی ماژولار و دیگری با فرم اختصاصی، روی یک میز پیوسته",
+      "caption": "انتخاب میان ابزار آماده و توسعه اختصاصی به تناسب نیاز و توان نگهداری بستگی دارد.",
+      "afterHeading": "",
+      "file": "apps/web/public/images/articles/custom-vs-wordpress/cover.webp",
+      "prompt": "Use case: stylized-concept. Asset: premium editorial illustration for Persian LOXX article comparing custom website development and a CMS, with a nuanced equal-respect comparison. Clean tactile 3D product-studio render, midnight teal #001014 / #031b22 environment, restrained mint cyan #00dfd6 / #76e8db edge illumination, warm ivory stone, glass and brushed metal. Landscape 16:9 composition. No words, letters, numerals, logos, watermark, charts or fake UI text. No laptop. Cover: On one continuous dark stone studio worktable, create two refined miniature website-architecture sculptures sharing one architectural scene. Near left, a well-designed low arrangement of interchangeable ivory prefabricated modules with mint glass inserts and elegant standardized joints. Near right, a flowing tailored architectural structure with precision-crafted curved ivory ribs and custom fitted teal glass. Both look equally professional, stable, beautiful and purposeful; neither broken or superior. A single soft-lit glass path connects them across the same table. Eye-level three-quarter architectural photography with sculptural depth, key objects safely inside central crop. Quiet background, restrained glow, intentional art direction, no graphic split screen or infographic.",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "a879b8210f48d573d5c989e087cd51bcf94d18e6d8b65e758a31600ad908e24e",
+      "sha256": "5a562281860234d882fc4b9918945a0a644cb8b5a1fd7fb88f8f07412d9b904f",
+      "bytes": 200806
+    },
+    {
+      "role": "detail-1",
+      "alt": "شابلون شیشه‌ای فیروزه‌ای هم‌راستا با اجزای یک ساختار محتوایی و شاخه منحنی اختصاصی",
+      "caption": "مدل محتوا و جریان کار واقعی را پیش از انتخاب ابزار با یک نمونه کوچک بسنجید.",
+      "afterHeading": "نیاز محتوا را از نیاز نرم‌افزاری جدا کنید",
+      "file": "apps/web/public/images/articles/custom-vs-wordpress/detail-1.webp",
+      "prompt": "Use case: stylized-concept. Asset: premium editorial illustration for Persian LOXX article comparing custom website development and a CMS, with a nuanced equal-respect comparison. Clean tactile 3D product-studio render, midnight teal #001014 / #031b22 environment, restrained mint cyan #00dfd6 / #76e8db edge illumination, warm ivory stone, glass and brushed metal. Landscape 16:9 composition. No words, letters, numerals, logos, watermark, charts or fake UI text. No laptop. Inline editorial scene on choosing an appropriate website tool to fit real requirements: a precision-machined translucent teal physical template held just above a low ivory website-structure model. Three shaped openings align accurately with purposeful content modules below, while one curved workflow extension branches gently beyond the ordinary rectangular model. A small pair of refined calipers rests on the stone tabletop, suggesting evaluation before commitment. No human hands, no screen, no symbols. Focus on the gap between template and structure and the clear fit of a useful tool to a real project, not ranking technologies. Top-down oblique close product photography, landscape, mint edge light with warm ivory materials and clean dark teal negative space.",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "35edae717163f15f2e29cba42fb5aa7771a3b485c8048aba01f67f4171c1afe3",
+      "sha256": "d68e8f17456b633fb16813400406e2180e3038cafaf5f65927e7994780b1a6f5",
+      "bytes": 202864
+    },
+    {
+      "role": "detail-2",
+      "alt": "سازه باز و قابل سرویس با قطعات ماژولار جداشدنی و اتصال‌های فلزی یک بخش منحنی شیشه‌ای",
+      "caption": "هزینه تغییر و مسئولیت نگهداری برای قطعات آماده و اتصال‌های اختصاصی باید از ابتدا روشن باشد.",
+      "afterHeading": "هزینه تغییر را کنار هزینه شروع ببینید",
+      "file": "apps/web/public/images/articles/custom-vs-wordpress/detail-2.webp",
+      "prompt": "Use case: stylized-concept. Asset: premium editorial illustration for Persian LOXX article comparing custom website development and a CMS, with a nuanced equal-respect comparison. Clean tactile 3D product-studio render, midnight teal #001014 / #031b22 environment, restrained mint cyan #00dfd6 / #76e8db edge illumination, warm ivory stone, glass and brushed metal. Landscape 16:9 composition. No words, letters, numerals, logos, watermark, charts or fake UI text. No laptop. Inline editorial scene about future maintenance and change costs for website platforms: a single beautifully serviceable architectural mechanism open on a midnight teal stone workbench. Its ivory main frame has a few accessible standardized removable parts laid neatly beside it; a curved extension attaches through visible precision engineered bespoke metal connectors. Both standard modules and tailored connectors are clean, robust and refined, illustrating different maintenance responsibilities without declaring superiority. One small elegant hex key rests beside an accessible screw; clear intentional connections, no random machinery or sci-fi city. Macro three-quarter camera, detailed tactile ivory ceramic, brushed metal joints, translucent mint glass extension. Spacious landscape 16:9, controlled mint rim light and soft studio shadows.",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "fc7fa2073df421958298fbfae7efd4e61f9298a463bc52952a2c6fd74ae2bb9f",
+      "sha256": "ed442990e37fa21125396e90e4598e86debaa37e6443e94abfd60ecf1f16d65d",
+      "bytes": 246308
+    }
+  ],
+  "optimizedFormat": "WebP",
+  "optimizedQuality": 86
+}

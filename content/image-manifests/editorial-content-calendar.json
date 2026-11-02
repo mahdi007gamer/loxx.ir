@@ -1,0 +1,47 @@
+{
+  "slug": "editorial-content-calendar",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "role": "cover",
+      "file": "apps/web/public/images/articles/editorial-content-calendar/cover.webp",
+      "prompt": "Use case: stylized-concept. Asset type: original editorial cover for a Persian premium web studio article about service-business editorial strategy and a useful content calendar.\nScene: an immaculate dark midnight-teal editorial planning table. Main subject: a crafted brushed-metal scheduling rail with five generously spaced blank ivory topic cards, each held upright in a delicate mint glass clip. A small telephone receiver and an actual precision repair component sit at the start, suggesting real customer questions becoming specific useful articles. A modest open research folio and one pencil, no more.\nStyle: premium photorealistic 3D editorial still-life, tactile paper, brushed metal, smoked glass, finely grained dark stone. Elevated three-quarter wide view, clear central subject safe for central thumbnail crop, carefully balanced negative space. Wide landscape 16:9.\nPalette: #001014 and #031b22, controlled #00dfd6 and #76e8db light, warm ivory. Soft large studio key light and precise cyan rim reflections, calm focused atmosphere.\nConstraints: every card and paper completely blank; no text, letters, numbers, logos, watermarks, charts, screen UI, robots, newspaper motifs, laptops, shields, generic floating cubes. This is an illustrative planning still life, not an actual client project.",
+      "alt": "میز برنامه‌ریزی محتوا با کارت‌های موضوعی روی ریل، دفتر خالی و ابزار کنار تلفن مشتری",
+      "caption": "تقویم کاربردی، پرسش‌های واقعی مشتری را به موضوع‌های مستقل و قابل بررسی تبدیل می‌کند.",
+      "afterHeading": "",
+      "width": 1672,
+      "height": 940,
+      "originalSha256": "6de7f1d8bf71d8ad68f29fe17e5e06c679528dac5a5e4642740ecf47778f909e",
+      "sha256": "d297353b171f7d15230a4652e58bbfa21309f64868714e6a8425ba25ce9bc244",
+      "bytes": 152670
+    },
+    {
+      "role": "detail-1",
+      "file": "apps/web/public/images/articles/editorial-content-calendar/detail-1.webp",
+      "prompt": "Use case: stylized-concept. Asset type: original in-article editorial image about the different roles of an informative article and a service page.\nScene: intimate close elevated view of a premium midnight-teal research desk. One small open ivory booklet contains only a clean physical cutaway model of a precise mechanical repair assembly, a tiny measuring caliper and one carefully separated replacement piece, suggesting an in-depth answer to a practical customer decision. Beside it at some distance a broader closed service folio supports an orderly complete service toolkit in a shallow fitted tray. One fine mint ribbon connects the useful booklet to the service folio without merging them.\nComposition: clear visual contrast between narrow detailed explanation and broader service scope, no split-screen, no collage, tactile physical editorial still life. Landscape 16:9, close camera, generous dark negative space, polished but credible materials.\nPalette: midnight teal #001014/#031b22, restrained cyan mint #00dfd6/#76e8db, warm ivory paper, brushed steel. Soft controlled studio lighting and crisp focal detail.\nConstraints: no words, letters, numerals, annotations, logos, watermarks, charts, testimonials or screen interfaces. All paper blank. Avoid laptops, giant icons, floating cubes, generic gears with no purpose. Illustrative objects, not client evidence.",
+      "alt": "دفتر راهنمای جزئیات یک قطعه مکانیکی در کنار مجموعه ابزار کامل خدمات و روبان ارتباطی",
+      "caption": "مقاله یک پرسش محدود را پاسخ می‌دهد و صفحه خدمت، محدوده و مسیر دریافت خدمت را روشن می‌کند.",
+      "afterHeading": "مقاله و صفحه خدمت نقش متفاوت دارند",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "f0d5874253b7e6033e252b86dd1ebcffcd800d16733b76ba17dbabbd76d2ed77",
+      "sha256": "3dd8782a864c3d0c491265a8c2d9b05b89db08d38d5342aaa0a3f77d5d65b977",
+      "bytes": 126378
+    },
+    {
+      "role": "detail-2",
+      "file": "apps/web/public/images/articles/editorial-content-calendar/detail-2.webp",
+      "prompt": "Use case: stylized-concept. Asset type: original in-article editorial image showing publishing followed by review and improvement.\nScene: a beautiful compact editorial workbench, viewed almost overhead, made from midnight-teal stone. Three distinct shallow brushed-metal paper trays are arranged around one continuous slender mint glass loop. A small stack of blank ivory drafts sits in the first tray; one carefully opened paper folio with a subtle embossed geometric shape sits in the second under a precise inspection loupe; a refined single finished folio sits in the third. A single loose revision card returns along the curved loop toward the drafts. The physical arrangement tells a maintainable publication-review-revision cycle, not mass production.\nStyle: exceptionally clean premium editorial 3D product photography, realistic paper fibres and brushed-metal texture, disciplined negative space and elegant proportions, landscape 16:9.\nPalette: deep #001014/#031b22, restrained mint #00dfd6/#76e8db reflections, soft warm ivory. Broad diffused top light, gentle realistic shadows.\nConstraints: no words, letters, numbers, printed lines, arrows, logos, watermarks, fake charts, computers, robots, newspapers, clocks, generic shields or giant cubes. All sheets blank. One coherent scene, not a montage.",
+      "alt": "سه سینی کاغذ و ذره‌بین روی میز سبز تیره در یک مسیر حلقه‌ای بازبینی محتوا",
+      "caption": "انتشار با بازبینی، دریافت بازخورد و اصلاح محتوای قبلی ادامه پیدا می‌کند.",
+      "afterHeading": "انتشار را پایان کار ندانید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "2a2fbbd50b1d866064a9b733f219762cfbad029991ddabaeec8deb00b7cde45b",
+      "sha256": "9eaa92d4dbd0b2e3499e494d9f0fe25b2476e0502f6a3da4e91759396ebf61be",
+      "bytes": 178428
+    }
+  ],
+  "optimizedFormat": "WebP",
+  "optimizedQuality": 86
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "website-security-checklist",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "role": "cover",
+      "alt": "مدل سه‌بعدی فروشگاه با مرزهای شیشه‌ای دسترسی و بستهٔ سفارش روی مسیر کنترل‌شدهٔ نورانی",
+      "caption": "امنیت فروشگاه از مرزهای دسترسی و مسیر قابل اعتماد سفارش آغاز می‌شود.",
+      "afterHeading": "",
+      "file": "apps/web/public/images/articles/website-security-checklist/cover.webp",
+      "prompt": "Use case: stylized-concept. Asset type: original editorial cover for a Persian website-security checklist article. Create a premium cinematic 3D architectural cutaway of a small refined online-retail operation: a central ivory parcel on a mint-lit controlled order rail, moving through three distinct carefully spaced access boundaries built from dark brushed-metal frames and clear glass. Open public storefront entrance in front, a restricted operational room with neatly arranged parcel shelves behind it, and a fully opaque administrative compartment at the rear. A single luminous round verification token authorizes a hinged checkpoint on the parcel route. Make the role of boundaries and trustworthy order flow visually intelligible without a diagram. The construction should feel like a meticulously maintained miniature architectural model photographed in a studio, tactile stone base, real glass thickness and subtle metal machining. Color palette midnight teal #001014 and #031b22, mint/cyan #00dfd6 and #76e8db, restrained warm ivory. Wide landscape 16:9, main architecture and parcel safely in central crop, slightly elevated three-quarter camera, clean negative space, beautiful controlled mint rim lighting, restrained warm white key light, low noise. No words, letters, logos, watermark, readable interfaces, fake charts, figures, customer data, passwords, card details, giant shields, padlocks, hooded people, hacker imagery, code walls or generic laptop. One coherent original scene, not montage.",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "fa33fd6e0e2469d836fb43dbc57b6ed6e75da85498250b6a7bbd974d74941ca0",
+      "sha256": "24d7a2b8181bf216fecaff669010fe86bbd9286fe51db110d5d3ed3e75a55e71",
+      "bytes": 197776
+    },
+    {
+      "role": "detail-1",
+      "alt": "محفظهٔ ارسال بسته با ابزار اختصاصی در جایگاه هم‌شکل و محفظه‌های بستهٔ مجاور",
+      "caption": "هر نقش باید فقط به ابزار و اطلاعات لازم برای همان وظیفه دسترسی داشته باشد.",
+      "afterHeading": "دسترسی را بر اساس وظیفه محدود کنید",
+      "file": "apps/web/public/images/articles/website-security-checklist/detail-1.webp",
+      "prompt": "Use case: stylized-concept. Asset type: original inline editorial image explaining least-privilege access in ecommerce operations. Create an exquisite close-up staged physical task station: one precision ivory-and-brushed-metal operational tool rests in a uniquely matching shallow slot at the parcel-dispatch compartment of a darkteal modular cabinet. The dispatch compartment contains a small unlabelled parcel, a folded blank packing card and a neatly wound twine spool, all genuinely usable task objects. Adjacent frosted-glass compartments have different shaped tool slots and stay closed, suggesting other responsibilities without revealing records. Clearly emphasize that the one tool fits only the relevant task compartment; this is access by role, not a lock-picking scene. A thin mint light outlines the active compartment and the fitted tool, while the rest are calm and dim. Premium tactile 3D product photography, intimate low three-quarter macro view, deliberate horizontal composition, darkteal stone surface, brushed titanium, warm ivory card, glass with realistic edges. Midnight teal #001014/#031b22 and mint #00dfd6/#76e8db, restrained warm white. Wide landscape 16:9. No readable text, letters, numbers, logos, watermark, customer records, passwords, payment information, keys with giant keychains, giant padlocks, shields, attackers, laptops, charts, interface screenshots. One coherent independent scene, not montage.",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "11fa42a5e24fc8c111d7b69de1338c2dad3cb83a6d3dc9d9d3f1ce2979699b2f",
+      "sha256": "bbd596f892420546e9ad0a269afd548a026842422e27e202938c206cb4c2c120",
+      "bytes": 119350
+    },
+    {
+      "role": "detail-2",
+      "alt": "میز نگهداری با بستهٔ به‌روزرسانی، محفظهٔ شیشه‌ای آزمون و نمونهٔ بازیابی‌شده در سکوی جداگانه",
+      "caption": "به‌روزرسانی و بازیابی را در محیط کنترل‌شده آزمایش کنید.",
+      "afterHeading": "به‌روزرسانی و بازیابی را به فرد مشخص بسپارید",
+      "file": "apps/web/public/images/articles/website-security-checklist/detail-2.webp",
+      "prompt": "Use case: stylized-concept. Asset type: original inline editorial illustration about controlled website updates and tested recovery. Create a premium 3D studio still life of a precisely engineered maintenance workbench with three physically separated bays: on the left a sealed small dark metal update cartridge waits in a mint-lit inspection cradle; centrally a transparent isolated testing chamber contains an immaculate miniature retail checkout mechanism and a small ivory parcel under a focused inspection lamp; on the right an intact archive capsule rests next to an exact restored miniature mechanism on its own separate ivory platform, showing that recovery has actually been rehearsed. A narrow mint track connects the left cartridge only to the central chamber; the live system is represented by a separate stable darkteal mechanism farther back, deliberately isolated from this test setup. Make the controlled maintenance and recovery story clear through physical separation, real handles and inspection fixtures, without charts or labels. Refined editorial industrial-design imagery, tactile brushed metal, thick glass, darkteal stone, warm ivory ceramic, mint illumination #00dfd6/#76e8db against midnight teal #001014/#031b22. Wide landscape 16:9, overhead oblique camera distinct from the other two images, clean controlled lighting, purposeful spaced composition. No words, letters, numbers, logos, watermarks, code, UI screenshots, personal data, passwords, payment data, padlocks, shields, hooded attackers, generic laptop, fake statistics or guarantees. One coherent original scene, not a triptych or montage.",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "b9d1e4b918c8251ad012387b88b77f6551b112a5c9e7b4b4cab6b7056e066947",
+      "sha256": "ab86e10520793f2accfbbe4939bc42d588e940c0f312b698e7fe791ba960432d",
+      "bytes": 195226
+    }
+  ],
+  "optimizedFormat": "WebP",
+  "optimizedQuality": 86
+}

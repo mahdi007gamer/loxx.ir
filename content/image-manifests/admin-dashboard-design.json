@@ -1,0 +1,47 @@
+{
+  "slug": "admin-dashboard-design",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "role": "cover",
+      "alt": "کنسول شیشه‌ای با کارت‌های کار در سه ردیف اولویت و نشانگرهای نعنایی روی میز تیره",
+      "caption": "نمای مفهومی از پنلی که کارهای نیازمند اقدام را در اولویت قرار می‌دهد.",
+      "afterHeading": "",
+      "file": "apps/web/public/images/articles/admin-dashboard-design/cover.webp",
+      "prompt": "Use case: stylized-concept\nAsset type: original editorial cover image for a Persian article about usable administration dashboards, wide landscape 16:9.\nPrimary request: Premium tactile 3D editorial still life of an administrative operations console organized around daily priorities. On a low midnight teal desk, a central freestanding gently angled glass-and-brushed-metal console has three clearly separated physical lanes: a prominent front lane containing two ivory task cards with mint status tabs ready for attention, a narrower middle lane holding one pending card, and a quiet rear lane of neatly archived cards. A restrained set of physical round controls sits along the console base. The cards are entirely blank, with only simple recessed geometric status markers, never writing. Make it feel like a beautifully usable operational workspace, a metaphor for finding the next task quickly, without charts or numbers.\nStyle/medium: highly refined photorealistic 3D product editorial, architectural craft and precise materials, credible object scale, clean purposeful composition.\nComposition/framing: wide landscape 16:9, slightly elevated three-quarter front camera, main console safely within central 60 percent for cover crop, calm negative space around it, coherent single scene.\nLighting/mood: controlled softbox lighting, delicate mint edge glow, soft realistic shadows, quiet professional confidence.\nColor palette: midnight teal #001014 and #031b22, mint #00dfd6 and #76e8db, restrained warm ivory.\nMaterials/textures: smoked glass, satin brushed metal, thick uncoated ivory cards, matte stone desk.\nConstraints: no people, no laptop, no giant shield, no cubes, no graphs, no fake KPI statistics. No words, letters, numerals, logos, watermark, tiny UI text, pictograms resembling text, or real client screenshot claims. This is an illustrative editorial concept. Generate one independent finished image, not a collage or triptych.",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "7fc6aca9f8a64701568f380c1c8f2c8c4cefcd89133345a9dbca7b8607529aef",
+      "sha256": "2bcac2d075545d22cb9200a0b7065144a30fbd00d0f4a19bf2f2dd97875f4733",
+      "bytes": 128990
+    },
+    {
+      "role": "detail-1",
+      "alt": "سه سینی جداگانه با کاغذ، مداد و مهر تأیید و کلیدهای هندسی متفاوت برای نقش‌های کاری",
+      "caption": "هر نقش باید ابزار و اختیار متناسب با مسئولیت خود داشته باشد.",
+      "afterHeading": "نقش را به اختیار واقعی ترجمه کنید",
+      "file": "apps/web/public/images/articles/admin-dashboard-design/detail-1.webp",
+      "prompt": "Use case: stylized-concept\nAsset type: original in-article editorial image for role-based administrative permissions, wide landscape 16:9.\nPrimary request: A sophisticated overhead product still life showing three different role-specific work trays on a midnight teal stone work surface. The left small ivory tray holds a blank unfinished document card and a graphite pencil; the center brushed-metal tray holds a second document card and a small mint approval stamp with a purely geometric circular face; the right smoked-glass tray holds three neatly stacked approved cards with a recessed mint check mark. Distinct shaped key tokens rest in matching shallow sockets on each tray, physically suggesting that each role has only its appropriate tools. Arrange trays as an elegant diagonal progression from drafting to reviewing to publishing, with generous gaps, no connecting arrows and no duplicated full toolset. Clear physical access and responsibility metaphor, no security cliché.\nStyle/medium: premium clean tactile photorealistic 3D editorial product image, meticulous craftsmanship and crisp readable objects.\nComposition/framing: wide landscape 16:9, true top-down camera, three trays placed across a spacious workbench, central grouping, quiet negative space, single coherent studio scene.\nLighting/mood: soft directional studio light, restrained mint reflections, luminous but dark, minimal visual noise.\nColor palette: midnight teal #001014 / #031b22, mint cyan #00dfd6 / #76e8db, warm ivory and brushed silver.\nMaterials/textures: matte stone, thick paper, graphite pencil, satin metal, translucent smoked glass.\nConstraints: all paper cards remain entirely blank. No words, letters, numerals, logos, watermark, tiny UI text, charts, giant shields, laptop, cube metaphor, padlocks, or literal screenshots. No collage or triptych. Produce a distinct independent image.",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "6ee6571e1dd1c1f7f2b186c76a905045d09e40c2a4ad89f2d209d26700766fac",
+      "sha256": "10ebe864b3c2b78bd93798b702fc631a59949c034f116d9fc9094cb78f41d92d",
+      "bytes": 202654
+    },
+    {
+      "role": "detail-2",
+      "alt": "بسته پستی کنار کارت مقصد با قطعه ناقص، کارت کامل نعنایی و نشانگرهای بررسی و اصلاح و تأیید",
+      "caption": "نمای مفهومی اصلاح اطلاعات ناقص سفارش و ثبت مسیر تغییر وضعیت.",
+      "afterHeading": "مثال فرضی: رسیدگی به سفارش مشکل‌دار",
+      "file": "apps/web/public/images/articles/admin-dashboard-design/detail-2.webp",
+      "prompt": "Use case: stylized-concept\nAsset type: original in-article editorial illustration of resolving a problematic paid order, wide landscape 16:9.\nPrimary request: A premium physical process still life illustrating one parcel held because delivery information is incomplete and then made ready. On a midnight teal stone inspection bench, a single small warm-ivory cardboard parcel rests in a shallow brushed-metal staging tray. Beside it is a modular destination card with four geometric pieces; one missing ivory piece sits immediately above its matching gap, as if about to complete the card. A completed mint destination card lies at the front edge of the tray, next to a modest mint circular ready marker and a closed hand-operated quality stamp. Behind the parcel, a slim smoked-glass rail holds three small circular mint-and-metal change tokens in sequence, a subtle physical metaphor for an audit trail. Tell a calm story of explicit missing information, correction, and traceable status change. Avoid magical glowing streams and busy interface scenery.\nStyle/medium: sophisticated tactile photorealistic 3D product editorial, restrained still-life art direction.\nComposition/framing: wide landscape 16:9, low close three-quarter camera from right, parcel and modular destination card central, visible deliberate arrangement, shallow but sufficient depth of field to keep the important pieces legible.\nLighting/mood: soft key light from left, mint edge highlights, controlled reflections and gentle shadows, professional and reassuring.\nColor palette: midnight teal #001014 and #031b22, mint #00dfd6 and #76e8db, warm ivory, satin silver.\nMaterials/textures: fine paperboard parcel without shipping print, dense paper destination modules, stone, brushed metal, smoked glass.\nConstraints: no words, letters, numerals, addresses, customer details, logos, watermark, fake charts, miniature UI text, screenshots, people, laptop, shields or generic cubes. Parcel is recognisable shipping packaging, not a decorative cube. No collage or triptych. Generate one distinct finished image.",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "8fd47ad6b539d5214029c36ca3ac33b035c4e8820ecd3388bd2fb7478328dbb7",
+      "sha256": "d06432191fda107a1ed117a954d6faeb9ca6fad2c1224d605210d8ae6434efee",
+      "bytes": 158652
+    }
+  ],
+  "optimizedFormat": "WebP",
+  "optimizedQuality": 86
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "website-image-optimization",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "role": "cover",
+      "file": "apps/web/public/images/articles/website-image-optimization/cover.webp",
+      "prompt": "Use case: stylized-concept. Asset type: premium editorial article cover, wide landscape 16:9. Primary request: a beautiful optical image preparation atelier, representing one high-quality original product photograph delivered in appropriate display sizes while preserving its subject. Subject: an exquisite warm ivory ceramic pitcher with a small rounded handle, tactile speckled glaze and a single sculptural mint leaf stem. Behind it is one large pristine photographic transparency of the same pitcher still life, held in an elegant brushed-metal source holder. In front, three clearly different-sized rectangular optical glass display frames stand along a subtle diagonal, each revealing a crisp correctly proportioned view of that same pitcher and stem; arrange all frames within one continuous physically staged scene rather than a split-screen collage. The smallest frame has a tighter crop but keeps the recognizable pitcher safely visible, no stretching. Camera: elevated three-quarter carefully staged product photograph with central composition safe for cover crop, museum-quality tactile realism, controlled depth of field. Materials: dark teal stone work surface, optical glass edges, brushed metal, ivory ceramic. Palette: midnight teal #001014 #031b22, restrained mint illumination #00dfd6 #76e8db and warm ivory. Soft studio lighting, beautiful low-noise detail, elegant restrained composition. No words, letters, numerals, logos, watermark, file-format labels, fake compression figures, charts, abstract digital cubes, laptop, speedometer, flags or pseudo UI.",
+      "alt": "عکس پارچ سرامیکی با برگ‌های نعناع در قاب‌های شیشه‌ای کوچک، متوسط و بزرگ روی میز سنگی",
+      "caption": "نسخه‌های انتشار باید با اندازه نمایش تناسب داشته باشند و موضوع اصلی را حفظ کنند.",
+      "afterHeading": "",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "dde54a69e7ceddfaf11eca0f639b7cf1964d6737990992fe375b77a58c873cf0",
+      "sha256": "88d057496f72b0c81f1bac9d3d9b6788f90ca3b8a75fa1552c7cfb2dc3e35ce5",
+      "bytes": 212064
+    },
+    {
+      "role": "detail-1",
+      "file": "apps/web/public/images/articles/website-image-optimization/detail-1.webp",
+      "prompt": "Use case: stylized-concept. Asset type: in-article editorial illustration, wide landscape 16:9. Primary request: a carefully staged macro image-quality workbench that keeps the original separate from a refined web-ready optical output while preserving meaningful ceramic texture. Show one genuine original photographic plate of a warm ivory ceramic pitcher detail lying safely in a shallow brushed metal archival tray at the back left. In the foreground an upright thin clean glass optical plate shows the same pitcher curve, handle and delicate natural speckled glaze with sharp believable detail, a circular glass inspection lens hovering near its surface makes the fine texture clearly visible. A few unused thick translucent glass sheets rest tidily aside on the right, suggesting excess visual weight removed, without destruction of the original. One coherent tabletop still life, not a before/after collage, not a tutorial diagram. Camera: intimate low oblique macro product photography, tactile ceramic detail and glass reflections, elegant dark teal stone workbench, midnight teal #001014 #031b22, soft mint/cyan #00dfd6 #76e8db edge illumination, restrained warm ivory. Controlled soft studio lighting, purposefully uncluttered. No writing, text-like lines, words, letters, numbers, labels, file formats, fake statistics, charts, arrows, watermark, logos, computer screens, laptop or generic icons.",
+      "alt": "نمای نزدیک بافت خال‌دار پارچ سرامیکی روی صفحه شیشه‌ای زیر ذره‌بین، کنار سینی نگهداری و صفحات شیشه‌ای",
+      "caption": "نگهداری منبع اصلی و بررسی بافت، بخشی از کنترل کیفیت خروجی وب است.",
+      "afterHeading": "فایل اصلی را از نسخه انتشار جدا نگه دارید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "a2b37fc6e04482f4523777a430bf5b21b0af3f8b3156ab3716131194b9072f4d",
+      "sha256": "0b5ad18292e8cff9124416c48f5e1ca6129d82f0b2e762ea05adf9a66d56a2cb",
+      "bytes": 188964
+    },
+    {
+      "role": "detail-2",
+      "file": "apps/web/public/images/articles/website-image-optimization/detail-2.webp",
+      "prompt": "Use case: stylized-concept. Asset type: in-article editorial illustration for jewelry image optimization, wide landscape 16:9. Primary request: show the same refined jewelry product photograph correctly framed at desktop-detail and mobile-card display sizes without losing critical metal and gemstone detail. One sculptural brushed platinum ring with a modest clear faceted gemstone rests on a dark teal stone pedestal in the foreground. Behind it stand two frameless optical image windows: a larger landscape glass window reveals the same entire ring with generous breathing room and detailed gemstone, a smaller portrait window reveals a centered tighter crop of the same ring while keeping the whole gemstone and ring shape intact. The windows are photographic prints on glass with no UI, both ring images are perfectly proportioned, not stretched, and show controlled studio reflections consistent with the actual ring. The larger window has a subtle light ivory backing and the smaller a dark teal backing, illustrating review on contrasting backgrounds. Composition: beautiful three-quarter premium still-life jewelry product photography, distinct from an optical equipment workbench, one continuous scene, balanced generous negative space and low visual noise. Materials: brushed platinum, clear faceted gemstone, optical glass and dark teal stone. Palette midnight teal #001014 #031b22 with mint/cyan #00dfd6 #76e8db illumination and restrained ivory. No numbers, words, labels, letters, gibberish, UI buttons, logos, watermark, compression percentages, charts, money, fake commercial claims, phone body or laptop.",
+      "alt": "انگشتر نقره‌ای با نگین شفاف در دو قاب افقی روشن و عمودی تیره، همراه نمونه روی پایه سنگی",
+      "caption": "در قاب‌های متفاوت و پس‌زمینه‌های روشن و تیره، جزئیات مهم زیورآلات را بازبینی کنید.",
+      "afterHeading": "مثال فرضی: فروشگاه زیورآلات",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "f1bbd39d11b0356a144eadb6fa543a7f0770d291fcbe031f3dd62406669917e4",
+      "sha256": "a9db4ee70386dc6f25d9738bb0f0626940c542c5d35ab54ce5e20cad42ffd67c",
+      "bytes": 151930
+    }
+  ],
+  "optimizedFormat": "WebP",
+  "optimizedQuality": 86
+}

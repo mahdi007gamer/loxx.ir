@@ -1,0 +1,47 @@
+{
+  "slug": "multilingual-website",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "role": "cover",
+      "file": "apps/web/public/images/articles/multilingual-website/cover.webp",
+      "prompt": "Use case: stylized-concept. Asset type: premium editorial article cover, wide landscape 16:9. Primary request: create one elegant architectural website pavilion with three culturally neutral entrances opening around the same central content core, expressing a multilingual website with equivalent content. Scene: a museum-quality miniature architectural installation on midnight teal stone in a quiet dark studio. A luminous warm ivory sculptural product artifact stands at the center of an open circular pavilion; three precisely built curved glass entrances lead to it with equivalent paths, each entrance has different but harmonious spatial proportions, no cultural motifs. Fine coordinated mint light channels link all entrances to the same central artifact. Materials: frosted glass, brushed metal, warm ivory ceramic, dark teal stone. Camera: elevated three-quarter architectural product photograph, central subject safely within middle crop, purposeful generous negative space, physically plausible beautiful detailed 3D, restrained mint/cyan glow #00dfd6 #76e8db on #001014 #031b22, soft cinematic lighting, low visual noise. No words, letters, numerals, flags, logos, watermark, fake UI, readable or pseudo-readable writing, charts, screens, laptop or globe.",
+      "alt": "سه ورودی شیشه‌ای با مسیرهای نورانی به یک اثر مرکزی در سازه‌ای دایره‌ای می‌رسند",
+      "caption": "نمای مفهومی مسیرهای زبانی متفاوت به محتوای معادل.",
+      "afterHeading": "",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "56af811168acbc99524a7f7f328e265b6cd90edd66ba0ac0eb5fb3f7dd3f5225",
+      "sha256": "9fa10750fe83863482a15e2fe4ed9645a076fcad9333a0eb4ae59b6468674e08",
+      "bytes": 202964
+    },
+    {
+      "role": "detail-1",
+      "file": "apps/web/public/images/articles/multilingual-website/detail-1.webp",
+      "prompt": "Use case: stylized-concept. Asset type: in-article editorial image, wide landscape 16:9. Primary request: show left-to-right and right-to-left layout parity as two elegant physical interface panels presented side by side on one workbench, with a single ivory precision valve as the same product subject in both. Each panel uses large simple blank ivory content slabs and mint rounded control shapes; one arrangement mirrors the other, with matching hierarchy, photo object placement and corresponding directional flow represented by a gentle mint light track. No lines imitating writing. Let the two product valves clearly match in shape and finish. Panels are sculptural conceptual exhibits, not actual website screenshots. Composition: close three-quarter tabletop view, equal visual importance and clear breathing room, brushed teal metal panels supported above dark stone, tactile frosted glass, clean premium editorial 3D. Palette #001014 #031b22 with mint #00dfd6 #76e8db and warm ivory, soft controlled studio lighting. No text, words, letters, numerals, gibberish, flags, symbols of countries, logos, watermark, miniature UI, charts, laptops, globe or collage.",
+      "alt": "دو پنل آینه‌ای با شیر صنعتی یکسان و جای‌گذاری متناظر بخش‌های محتوا و کنترل‌ها",
+      "caption": "چیدمان دو جهت نمایش باید سلسله‌مراتب و کارکرد یکسانی داشته باشد.",
+      "afterHeading": "ترجمه را داخل رابط آزمایش کنید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "45048d6796fa5f027c6df0741acf4742e80ad0070af7c54c77b7de11aa16185c",
+      "sha256": "01b04fff56146df1b3a506054fce12bca92a9ef0b4c43519bbbb0c263d0d0d6f",
+      "bytes": 104932
+    },
+    {
+      "role": "detail-2",
+      "file": "apps/web/public/images/articles/multilingual-website/detail-2.webp",
+      "prompt": "Use case: stylized-concept. Asset type: in-article editorial image, wide landscape 16:9. Primary request: a precise localization maintenance workbench showing one shared source specification artifact coordinating updates to two equivalent localized product page panels. A central shallow brushed metal source tray holds an ivory miniature industrial valve and a single neatly shaped amber glass revision token. Two mint light rails connect that source tray to two standing frosted-glass content panels, each containing the exact same small valve relief and the same blank geometric content modules arranged in opposite reading directions. One amber revision token is visibly passing along one rail toward its page panel, while the other panel holds a matching amber inset: a calm coordinated review process, not a claim of automated perfection. Small unmarked date-layout tiles are arranged differently on each panel but use only plain solid shapes, never pseudo text or numbers. Composition: wide overhead oblique macro still life, central tray in foreground and page panels further back, visually distinct from a side by side screen comparison. Premium carefully staged 3D product photography, tactile materials, midnight teal #001014 #031b22, mint #00dfd6 #76e8db, warm ivory and restrained amber, soft controlled light, low noise. No text, letters, numerals, gibberish, flags, cultural stereotypes, logos, watermark, charts, actual software screenshots, laptop or globe.",
+      "alt": "سینی منبع مشترک محصول با مسیرهای نورانی به دو پنل محتوای معادل و نشانگرهای کهربایی بازبینی متصل است",
+      "caption": "تغییر مشخصات محصول باید بازبینی نسخه‌های زبانی مرتبط را همراه داشته باشد.",
+      "afterHeading": "مثال فرضی: شرکت صادرات تجهیزات",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "1131f4b98b7db6d36c3a0da6e2e50b4226fda46d30f82c57eafa34125840591a",
+      "sha256": "96fcc18a533237ccf1b0adfe2cb78f46de64ce52f3db6a4441d213feabf4a4f3",
+      "bytes": 136864
+    }
+  ],
+  "optimizedFormat": "WebP",
+  "optimizedQuality": 86
+}

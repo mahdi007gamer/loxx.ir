@@ -1,0 +1,47 @@
+{
+  "slug": "instagram-to-online-store",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "role": "cover",
+      "file": "apps/web/public/images/articles/instagram-to-online-store/cover.webp",
+      "prompt": "Use case: stylized-concept. Premium original LOXX Persian web studio editorial image. Wide landscape 16:9, 1536x864 or similar. Midnight teal #001014 and #031b22 environment, mint cyan #00dfd6 and #76e8db restrained accent light, warm ivory objects. Exquisite tactile product materials, refined art direction, subtle realism, controlled studio light, clean low-noise composition. NO words, letters, digits, logos, watermark, graph data, readable UI or social-media brand marks. This is conceptual illustration, not an actual client screenshot. Cover for an article about converting a social-media shop into a coherent online storefront while retaining personal customer relationships. On a deep teal gallery tabletop, a single elegant smartphone at a diagonal shows only four large image-only tiles of handmade handbags and leather accessories, no interface text. A restrained arc of three separate photographic product cards flows naturally from the phone into real artisan bags and a neatly curated ivory merchandising plinth: mint mini handbag, ivory handmade shoulder bag, polished brass clasp, fabric sample. Objects are purposeful, spacious and physically believable. Elevated three-quarter camera, strong central silhouette with crop-safe subject, warm ivory softbox highlight and mint rim. Focus on the progression from casual image stream to organized product range, not generic futuristic architecture.",
+      "alt": "گوشی با تصاویر کیف‌های دست‌ساز که به نمایش منظم کیف‌های واقعی و نمونه‌های رنگ متصل شده است",
+      "caption": "نمایش مفهومی انتقال تصاویر پراکنده پیج به کاتالوگ منظم فروشگاه.",
+      "afterHeading": "",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "a934ea431078090dccf0aa41af12013e7a4aaa0b3d7f5892637225bb1cfc4686",
+      "sha256": "a96fc58b8d9c6deac77fcca4d616536c50bbe485ae40c3923a38ce9cda1622da",
+      "bytes": 214952
+    },
+    {
+      "role": "detail-1",
+      "file": "apps/web/public/images/articles/instagram-to-online-store/detail-1.webp",
+      "prompt": "Use case: stylized-concept. Premium original LOXX Persian web studio editorial image. Wide landscape 16:9, 1536x864 or similar. Midnight teal #001014 and #031b22 environment, mint cyan #00dfd6 and #76e8db restrained accent light, warm ivory objects. Exquisite tactile product materials, refined art direction, subtle realism, controlled studio light, clean low-noise composition. NO words, letters, digits, logos, watermark, graph data, readable UI or social-media brand marks. This is conceptual illustration, not an actual client screenshot. In-article editorial illustration about turning repeated customer questions and scattered direct-message orders into clear product information. An elegant overhead still life on dark teal stone: at left a small gently disordered fan of blank ivory speech-bubble cards and fabric swatches, at center an open artisan handbag with precisely arranged material samples and a small unmarked measuring tape with no marks, at right three tidy shallow trays each containing a distinct leather accessory, its matching color swatch and a blank visual product card. Message clutter visually settles into ordered product knowledge. No arrows, no infographic text, no charts. Warm ivory card stock, mint leather, muted silver fittings, nuanced soft shadows, tightly edited high-end composition.",
+      "alt": "کارت‌های گفت‌وگوی پراکنده در کنار کیف، نمونه‌های پارچه و سینی‌های منظم اطلاعات محصول",
+      "caption": "پرسش‌های تکراری مشتری می‌توانند به اطلاعات روشن درباره جنس، رنگ و مدل تبدیل شوند.",
+      "afterHeading": "پیام‌های پرتکرار را به محتوای تصمیم‌ساز تبدیل کنید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "aa686f5623da95d036d5c50fbf338304ee3b6690da661b14e53e5f204298d442",
+      "sha256": "a94ddbba8b3e35d42d937ace52bdd867aa17d1c2774d8ef5570c562de96a5595",
+      "bytes": 251374
+    },
+    {
+      "role": "detail-2",
+      "file": "apps/web/public/images/articles/instagram-to-online-store/detail-2.webp",
+      "prompt": "Use case: stylized-concept. Premium original LOXX Persian web studio editorial image. Wide landscape 16:9, 1536x864 or similar. Midnight teal #001014 and #031b22 environment, mint cyan #00dfd6 and #76e8db restrained accent light, warm ivory objects. Exquisite tactile product materials, refined art direction, subtle realism, controlled studio light, clean low-noise composition. NO words, letters, digits, logos, watermark, graph data, readable UI or social-media brand marks. This is conceptual illustration, not an actual client screenshot. In-article illustration for the hypothetical handmade-bag shop example: personal conversation continues beside a structured store and delivery workflow. Wide cinematic close-up of a beautifully crafted midnight-teal and ivory retail workbench. Left: a smartphone standing upright with two large plain mint and ivory chat-bubble shapes only, no text. Center: a single sculptural mint handmade shoulder bag, one ivory bag, carefully matched swatches and two clearly separated ready-made and custom-material trays. Right: two neat ivory delivery parcels with blank wax-like mint closure seals. A fine continuous mint light ribbon visually connects conversational phone, product trays and packaging without arrows. Warm human craft conveyed through stitching, woven fabric and brass hardware; no people or hands, no generic glass cubes. Three-quarter low camera, generous negative space and understated luxurious lighting.",
+      "alt": "گوشی با نماد گفت‌وگو در کنار کیف‌های دست‌ساز، نمونه‌های سفارشی و بسته‌های آماده ارسال",
+      "caption": "ارتباط انسانی پیج در کنار معرفی دقیق کالا و مسیر مشخص آماده‌سازی سفارش ادامه پیدا می‌کند.",
+      "afterHeading": "مثال فرضی: پیج فروش کیف دست‌ساز",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "46d2ccc351b798a8d6342ae4e24fe1c640bcde135e5fd6f04c386b99c6dc95b8",
+      "sha256": "16de32ae6ab695846a256e7b9b66a13fb8d81279264dbce81318ae4974d5fd87",
+      "bytes": 213538
+    }
+  ],
+  "optimizedFormat": "WebP",
+  "optimizedQuality": 86
+}

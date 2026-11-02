@@ -1,0 +1,47 @@
+{
+  "slug": "technical-seo-website",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "role": "cover",
+      "prompt": "Use case: stylized-concept. Asset type: premium technical SEO article editorial cover, wide landscape 16:9. Create an elegant architectural cutaway model of a website as a small low-rise content building on a midnight teal stone plinth. A welcoming open central entrance leads into an orderly hierarchy of three ivory-walled content rooms connected by clearly visible walkable mint floor paths and open doorways. Each room contains one beautiful unmarked glass-and-ivory page artifact, a shallow vertical rectangle with two raised horizontal content reliefs, no writing. A separate opaque dark brushed-metal service chamber sits at rear right with a solid closed wall and no public path entering it, suggesting a deliberate private area. The public path from entrance branches naturally into the rooms; one primary path is subtly illuminated. Architecture should be plausibly navigable, cleanly cut away so connections are clear, no maze, no decorative wires. Isometric overhead product photograph of a museum-quality architectural model, central subject safely framed with ample dark breathing room. Palette deep teal #001014 and #031b22, ivory concrete, smoked glass and limited mint #76e8db glow. Tactile fine materials, restrained lighting, precise soft shadows, very low visual noise. No people, laptops, shields, robots, globes, generic cubes, words, letters, numbers, URLs, logos, watermark, charts, statistics or ranking claims. A conceptual illustration of crawlable content architecture and private boundaries, not a screenshot.",
+      "file": "apps/web/public/images/articles/technical-seo-website/cover.webp",
+      "alt": "ماکت معماری سایت با سه اتاق محتوای روشن، مسیرهای متصل نعنایی و یک محفظه خصوصی بسته",
+      "caption": "تصویر مفهومی از مسیرهای عمومی قابل دسترسی و مرز روشن بخش خصوصی سایت.",
+      "afterHeading": "",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "89499f52c05034c461fb593a640ebd530ba0ab3a53fa58338318d77dc3899120",
+      "sha256": "b76a763cbec29c1020e1b0a0be3be9273c668fa9c86ba7c6a783ea15f6d288f9",
+      "bytes": 135056
+    },
+    {
+      "role": "detail-1",
+      "prompt": "Use case: stylized-concept. Asset type: editorial illustration for a technical SEO article section about content accessibility and meaningful internal links. Wide landscape 16:9. Scene: a refined physical navigation study on a dark teal exhibition table, photographed close from low oblique overhead. Four upright warm-ivory content-page plaques with softly rounded corners are arranged at purposeful successive depths; each plaque carries a recessed rectangular image panel and a few abstract raised horizontal content bars with absolutely no writing. The foreground plaque has an open arch cut into its base and a broad smooth mint inlaid walkway passes directly through it to a related page in the midground, then branches to two clearly reachable specialist pages behind. Every route ends at a page entrance and the routes are broad, visible and unobstructed. A small separate frosted rectangular index tray sits at one edge without pretending to replace those actual connections. Main visual story is a coherent navigable relationship between related content, with a clear visual progression from entry to deeper pages; not random node graphs or an abstract circuit board. Fine ceramic plaque texture, polished mint glass path inlay, dark stone base. Premium tactile 3D studio realism, controlled warm ivory key light with teal reflected shadows, calm editorial composition. No words, letters, numbers, logos, watermark, browser UI, search branding, ranking charts, arrows covered in labels, tiny fake text, laptops, robots or decorative cubes.",
+      "file": "apps/web/public/images/articles/technical-seo-website/detail-1.webp",
+      "alt": "قاب‌های محتوای عاجی با درگاه‌های باز که مسیر شیشه‌ای نعنایی آن‌ها را به هم متصل می‌کند",
+      "caption": "دسترسی به صفحه‌های مهم به لینک‌های مرتبط و مسیر حرکت روشن نیاز دارد.",
+      "afterHeading": "دسترسی به محتوا و مسیر حرکت را بررسی کنید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "a11e0698e3e31c877db1d18ccc12094205a261942a817212fb7d131b9c348e3a",
+      "sha256": "26b06ffe49b47e36759a53e65b412e46e9106d94e0f2bec073c6f65ed49cb7e1",
+      "bytes": 170514
+    },
+    {
+      "role": "detail-2",
+      "prompt": "Use case: stylized-concept. Asset type: in-article editorial illustration for a technical SEO hypothetical example of one service appearing at three addresses. Wide landscape 16:9. Create a calm precise physical wayfinding sculpture on a dark midnight teal stone surface: three distinct narrow ivory walkway strips enter from the foreground at left, center and right, curving gently to converge into ONE broader mint glass path that reaches a single upright ivory service-content plaque at the rear center. The destination plaque is the only content object, a substantial ceramic rectangle with one smoked-glass image recess and two clean shallow horizontal relief bars, no words. Make the confluence seamless and believable, with every incoming route visibly reaching the same intended destination and no dead ends, tangled loops or crossing paths. Small brushed-metal seams where old route strips join the new mint route suggest intentional migration. Nothing looks like a racing track, highway interchange or performance chart: this is a tabletop editorial metaphor for agreeing on a primary content destination. Composition: cinematic close low view toward the single destination, generous side breathing room, tactile materials and elegant spatial hierarchy. Palette #001014 dark teal, warm ivory, restrained #76e8db mint and subtle cyan reflections. Soft studio light, premium architectural product-render realism, fine surface grain and precise contact shadows. No screens, laptop, robot, shield, cube clusters, logos, words, letters, numbers, URL strings, watermark, statistics, chart or search ranking promise. Conceptual illustration only, no client evidence.",
+      "file": "apps/web/public/images/articles/technical-seo-website/detail-2.webp",
+      "alt": "سه مسیر عاجی که به یک مسیر نعنایی و یک قاب محتوای اصلی در انتها می‌رسند",
+      "caption": "در مثال فرضی، مسیرهای هم‌هدف به یک مقصد اصلی هماهنگ می‌شوند.",
+      "afterHeading": "مثال فرضی: خدمت دارای سه آدرس",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "bb00ff3448aeffc50e4a7574c62fea0d783bfbb5af4aa3faddafee68226dc6ee",
+      "sha256": "02a2eaae2c20525f891c5deac6c9e360ff660299ea25c75148c5252891681372",
+      "bytes": 114724
+    }
+  ],
+  "optimizedFormat": "WebP",
+  "optimizedQuality": 86
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "ecommerce-seo-architecture",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "role": "cover",
+      "file": "apps/web/public/images/articles/ecommerce-seo-architecture/cover.webp",
+      "prompt": "Use case: stylized-concept. Asset type: dedicated editorial article cover, wide landscape 16:9. Primary request: visualize ecommerce category and product architecture as an exquisite tiered retail showroom, thoughtfully organised by useful product families. Scene: a premium architectural miniature on a midnight teal studio ground, with a central open atrium and three connected gallery tiers, each displaying actual recognisable objects: elegant ivory walking sneakers, folded clothing, and a few ceramic homewares. Clear mint illuminated walkways connect category rooms to a few focused individual product plinths. This is meaningful retail organisation, not a network graph. Composition: low three-quarter architectural camera, generous breathable spacing, central safe-crop focal showroom, inviting intricate but clean craftsmanship. Style: exceptionally polished tactile 3D editorial, glass balustrades, satin ivory stone, brushed dark metal, realistic product surfaces. Palette: #001014 and #031b22 midnight teal, restrained #00dfd6/#76e8db edge light and warm ivory. Soft cinematic studio light. No words, letters, numbers, logos, watermarks, graphs, search icons, fake UI, offers or currencies. No laptop, shields, shopping cart icon. Single coherent scene, not montage.",
+      "alt": "نمایشگاه چندطبقه با بخش‌های کفش، پوشاک و لوازم خانه و مسیرهای ارتباطی روشن",
+      "caption": "دسته‌بندی روشن، ارتباط میان خانواده کالاها و صفحه‌های محصول را قابل فهم می‌کند.",
+      "afterHeading": "",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "4b1d1b74c32c7fdc057942e65787a634be845a392de10393b6766315a653e307",
+      "sha256": "a1cb218fe8a071ce4a0f4939adb2c64dab5cfc21e4eb8fba442de6926150f90a",
+      "bytes": 293046
+    },
+    {
+      "role": "detail-1",
+      "file": "apps/web/public/images/articles/ecommerce-seo-architecture/detail-1.webp",
+      "prompt": "Use case: stylized-concept. Asset type: in-article editorial illustration, wide 16:9. Primary request: useful category collections contrasted with excessive incidental filter combinations, using a beautifully art-directed physical selection installation around real shoes. Scene: directly overhead on deep midnight teal stone, a carefully arranged collection of six minimalist walking shoes of different colours and shapes, organised into two spacious purposeful groups by useful type. Two thin mint translucent rounded rectangular selection frames contain coherent groups. Several smaller neutral glass filter frames rest orderly aside, unlit and unused; they are tools for narrowing choices, not an endless proliferating network. Objects must be large, tactile and believable. Composition: crisp top-down product still life with excellent whitespace, central pair of categories visually clear, no tiny interface screens. Premium editorial 3D/product photography fusion, soft ivory leather, dark teal textile, glass edges, delicate cyan reflections. Palette #001014/#031b22, mint #76e8db, restrained ivory. No text, letters, numerals, logos, watermarks, charts, currency, fake labels, laptop or cart icon. One unified scene.",
+      "alt": "دو گروه کفش ورزشی و روزمره در قاب‌های شفاف روی سنگ سبز تیره",
+      "caption": "دسته‌های معنادار را از ترکیب‌های موقت فیلتر جدا کنید تا هر صفحه نقش مشخصی داشته باشد.",
+      "afterHeading": "همه ترکیب‌های فیلتر صفحه محتوایی نیستند",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "d180b0fbff6ca58ff612848a4fa64615d641eda427392886dca239e56ac35376",
+      "sha256": "1576e91d40af84e4cd29829c0b792256da81b00018436583871d760881f5077f",
+      "bytes": 219674
+    },
+    {
+      "role": "detail-2",
+      "file": "apps/web/public/images/articles/ecommerce-seo-architecture/detail-2.webp",
+      "prompt": "Use case: stylized-concept. Asset type: in-article editorial illustration, wide landscape 16:9. Primary request: communicate an informative temporarily out-of-stock product position and relevant alternatives within a refined shoe shop. Scene: at eye-level close three-quarter view, an elegant central empty recessed product plinth in dark teal stone retains a clean sculptural product silhouette recessed into a frosted glass panel behind it, communicating a shoe model still documented even when not on the shelf. Adjacent two separate well-lit plinths display real beautiful ivory and deepteal walking sneakers as related alternatives; a subtle continuous mint route links the empty position to them without suggesting an automatic forced redirect. Composition: calm premium showroom close-up, clear empty central position, alternatives visible in depth to the right, spacious and purposeful. Tactile brushed metal, frosted glass, matte stone, real leather and textile details. Palette midnight teal #001014/#031b22, soft mint #00dfd6/#76e8db highlights and warm ivory. Professional controlled studio lighting, photoreal editorial 3D, clean visual hierarchy. No text, letters, numbers, logos, watermark, fake prices, offers, currency, rankings, graphs, laptop or generic icon. Single coherent spatial scene.",
+      "alt": "جایگاه خالی یک مدل کفش با طرح محصول روی شیشه و دو مدل جایگزین در کنار آن",
+      "caption": "برای کالای ناموجود، اطلاعات مفید را حفظ کنید و جایگزین‌های مرتبط را روشن نشان دهید.",
+      "afterHeading": "برای موجودی و حذف کالا سیاست داشته باشید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "38c75f772d3a7e5afb74c9307d7558cd4897f9e042f8b6f69d5594dd4717886c",
+      "sha256": "9111e52a7208131aaec8e529887aea9469ee8f3a2089f48ee6e53a5795f8bb28",
+      "bytes": 156116
+    }
+  ],
+  "optimizedFormat": "WebP",
+  "optimizedQuality": 86
+}

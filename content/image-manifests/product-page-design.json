@@ -1,0 +1,47 @@
+{
+  "slug": "product-page-design",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "role": "cover",
+      "file": "apps/web/public/images/articles/product-page-design/cover.webp",
+      "prompt": "Use case: product-mockup. Premium original editorial image for LOXX Persian web design article about product page design. Wide landscape 16:9, impeccable clean high-end product photography with subtly conceptual 3D presentation. Midnight teal #001014 / #031b22 environment, restrained mint cyan #00dfd6 / #76e8db edge lighting, warm ivory ceramics, stone and brushed metal accents. Purposeful minimal composition and tactile real materials. No words, letters, numerals, logos, watermark, charts, fake statistics or legible UI. No laptop or phone. Create an immaculate hero presentation of one sculptural handcrafted ivory ceramic pour-over coffee dripper and its matching low bowl, main subject safely central. A refined upright smoke-glass digital product panel behind shows only a large silhouette image of this same ceramic object, three circular glaze swatches and an empty outlined purchase shape, with no text at all. A tiny teal glazed variation and clay material chip nearby explain meaningful product variations. Strong true product-photography feel, three-quarter low angle, deliberate dark negative space, soft controlled key light, ceramic fine grain, exquisite understated luxury. A coherent single scene, not a collage.",
+      "alt": "دریپر سرامیکی کرم‌رنگ کنار نمونه لعاب و نمایش تصویری انتخاب محصول",
+      "caption": "نمایش روشن کالا و تنوع‌ها، پایه تصمیم خرید در صفحه محصول است.",
+      "afterHeading": "",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "db701c57bd49b07525687d72dc2db254077ec63db04c8ea95cb978b3af0ee801",
+      "sha256": "4491ec54decb3c12ca7bf4bec1889ee73ce80a7ed77517fc2eb2579f45bc5790",
+      "bytes": 133810
+    },
+    {
+      "role": "detail-1",
+      "file": "apps/web/public/images/articles/product-page-design/detail-1.webp",
+      "prompt": "Use case: product-mockup. Premium original editorial image for LOXX Persian web design article about product page design. Wide landscape 16:9, impeccable clean high-end product photography with subtly conceptual 3D presentation. Midnight teal #001014 / #031b22 environment, restrained mint cyan #00dfd6 / #76e8db edge lighting, warm ivory ceramics, stone and brushed metal accents. Purposeful minimal composition and tactile real materials. No words, letters, numerals, logos, watermark, charts, fake statistics or legible UI. No laptop or phone. Create a close intimate tactile still life explaining why ecommerce product imagery needs material detail, alternate angles and scale. The same type of handcrafted ivory ceramic coffee pour-over dripper is lying gently on its side on dark teal stone, exposing the fine radial ribs and drain aperture; matching upright ceramic bowl behind provides alternate view, a small brushed metal measuring caliper opened beside the dripper establishes real scale without any engraved numbers. A single small unglazed clay sample reveals the ceramic body texture. Macro editorial photography, camera slightly above table height, warm ivory highlights and subtle cyan reflected edge, convincing fine grain and glaze, shallow but usable focus. One single physical arrangement, no frames, no contact sheet, no montage.",
+      "alt": "نمای نزدیک شیارها و جنس دریپر سرامیکی در کنار کولیس و نمونه بدنه سفالی",
+      "caption": "تصاویر جزئیات، زاویه متفاوت و مقیاس باید هرکدام پرسشی از خریدار را پاسخ دهند.",
+      "afterHeading": "مجموعه تصاویر را بر اساس وظیفه انتخاب کنید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "61d21a249f78d82779be1ecc4c2073ad27c7c8aa42bd60ea36cbe4bdce37481f",
+      "sha256": "cadb11ed75c6b8e085d32ac5de767c8067a557ff0f1a9c66e43a34999d7e8dbf",
+      "bytes": 185954
+    },
+    {
+      "role": "detail-2",
+      "file": "apps/web/public/images/articles/product-page-design/detail-2.webp",
+      "prompt": "Use case: product-mockup. Premium original editorial image for LOXX Persian web design article about product page design. Wide landscape 16:9, impeccable clean high-end product photography with subtly conceptual 3D presentation. Midnight teal #001014 / #031b22 environment, restrained mint cyan #00dfd6 / #76e8db edge lighting, warm ivory ceramics, stone and brushed metal accents. Purposeful minimal composition and tactile real materials. No words, letters, numerals, logos, watermark, charts, fake statistics or legible UI. No laptop or phone. Create a striking explanatory still life for transparent product variant selection, availability and fulfilment. One beautiful handcrafted ivory ceramic pour-over dripper stands to left of center. To its right a low smoke-glass control tray contains three real circular glaze sample buttons in ivory, pale seafoam and dark teal; ivory sample has one precise cyan illuminated selection ring. Nearby two spare ceramic drippers sit visibly ready on an elegant shallow packing shelf beside a single open ivory protective shipping box with molded paper cradle. A discreet small analog clock with hands but absolutely no numbers conveys preparation time. Intuitive physical product controls, no text or pseudo UI; clean sculptural diagonal composition, deeper camera angle distinct from cover and detail macro, controlled teal studio with cyan rim light and warm white ceramic highlights. Single scene, not a collage.",
+      "alt": "دریپر سرامیکی و نمونه‌های رنگ با حلقه انتخاب روشن، ساعت و جعبه محافظ ارسال",
+      "caption": "انتخاب رنگ، موجودی و زمان آماده‌سازی باید در کنار اطلاعات محصول روشن باشند.",
+      "afterHeading": "قیمت، تنوع و موجودی را هماهنگ نمایش دهید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "5c38ca775253a4da2c0fb7ddf864f46e6544620fe6c1544b356d0f32a1e7c6f7",
+      "sha256": "9f380eaaad492cacaf58ac3b66afa64e78575e98b7c93e8264efdde3b9d9b4cc",
+      "bytes": 174732
+    }
+  ],
+  "optimizedFormat": "WebP",
+  "optimizedQuality": 86
+}

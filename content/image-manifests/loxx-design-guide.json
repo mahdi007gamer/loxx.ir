@@ -1,0 +1,47 @@
+{
+  "slug": "loxx-design-guide",
+  "assets": [
+    {
+      "role": "cover",
+      "file": "apps/web/public/images/articles/loxx-design-guide/cover.webp",
+      "prompt": "Use case: stylized-concept. Asset type: unique cover image for a Persian professional guide about evaluating a website design studio, project scope, portfolio evidence and acceptance quality. Primary request: a premium editorial 3D scene showing a central elegant glass website architecture model on a black stone worktable, with three distinct translucent layers: a purposeful user path of connected mint points, carefully arranged page panels, and a precision inspection lens examining one panel. It should communicate considered planning and verifiable design quality. Scene: refined dark studio with architectural depth, luminous glass and brushed metal, subtle cyan reflections. Composition: one cohesive wide landscape 16:9 image, central subject safe for cover cropping, visually compelling with disciplined negative space. Color palette: midnight teal #001014 and #031b22, luminous mint/cyan #00dfd6 and #76e8db, restrained white. Polished cinematic 3D rendering, tactile materials, crisp purposeful forms. No lettering, no logos, no watermark, no tiny gibberish UI text, no fake metrics, no client screenshot, no multi-panel collage.",
+      "alt": "مدل شیشه‌ای معماری سایت با مسیر کاربر و ذره‌بین بررسی کیفیت طراحی",
+      "caption": "هدف سایت، محدوده اجرا و معیار کیفیت را پیش از شروع پروژه روشن کنید.",
+      "afterHeading": "",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "e4f5f2e502f483b06ccfb8e4a7746240c4efadd31470c792d2c30993b8ea4bd0",
+      "sha256": "bb3d4d83b637fa10ded9ade32a02c95c1c4dade15e71481c926eff0436aeb890",
+      "bytes": 204306
+    },
+    {
+      "role": "detail-1",
+      "file": "apps/web/public/images/articles/loxx-design-guide/detail-1.webp",
+      "prompt": "Use case: stylized-concept. Asset type: first in-article illustration for a Persian guide to evaluating a web design studio portfolio. Primary request: premium editorial 3D scene of an oversized optical inspection lens looking closely at a carefully crafted website model displayed simultaneously on elegant desktop and mobile devices. Under the lens the interface geometry is crisp and coherent: broad blank text bars, elegant image blocks and a clear action button, no readable text. Three small physical evidence tiles on the table represent usability with a pointer, responsive sizing with aligned device silhouettes, and completed user journey with a linked path. This is a conceptual illustration, not a real client screenshot. Composition: single cohesive landscape 16:9, three-quarter close view, precision lens and devices central, purposeful and uncluttered. Materials: smoky glass, brushed dark metal, dark stone. Lighting: luminous cyan rim lighting with subtle soft white highlights, sophisticated studio atmosphere. Palette: midnight teal #001014 and #031b22, mint cyan #00dfd6 and #76e8db. No logos, no watermark, no lettering or tiny gibberish UI text, no statistics, no collage.",
+      "alt": "بررسی خوانایی و مسیر کاربر در نمونه طراحی سایت روی نمایشگر و موبایل",
+      "caption": "نمونه‌کار را با بررسی عملی مسیر کاربر و نمایش موبایل ارزیابی کنید.",
+      "afterHeading": "نمونه‌کار را با پرسش عملی بررسی کنید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "53c3fe672182f9b9fdc815f38df6f1c9a860a0ddd74e1eadfeb1d34cc1140720",
+      "sha256": "e63d0a3615a4b9da28c0d72736806a8c45b182a0aedde0e5c6b95d1778079fcf",
+      "bytes": 178534
+    },
+    {
+      "role": "detail-2",
+      "file": "apps/web/public/images/articles/loxx-design-guide/detail-2.webp",
+      "prompt": "Use case: stylized-concept. Asset type: second in-article illustration for a Persian guide about converting a website proposal into concrete deliverables and acceptance criteria. Primary request: premium polished editorial 3D visualization of a modular website project being assembled on a refined dark stone desk. Exactly three substantial translucent glass page models stand on an architectural plan; elegant mint connection rails lead to a solid illuminated acceptance checkmark sculpted from frosted glass. A metal drafting compass and a short neat stack of blank deliverable cards convey a defined project scope. Each page model has a different simple purposeful structure made of blank geometric blocks, no words. Show a clear orderly progression from blueprint to assembled working pages to final acceptance, as one coherent physical scene, not an infographic panel grid. Composition: wide landscape 16:9 with a low three-quarter viewpoint, central objects with generous breathing room, beautiful tactile details. Color palette midnight teal #001014 and #031b22, luminous mint/cyan #00dfd6 and #76e8db, restrained white. Dark glass, black stone, brushed metal; cinematic soft lighting. No logos, watermark, lettering, unreadable tiny UI, fake data, client screenshots or collage.",
+      "alt": "تبدیل نقشه صفحات سایت به تحویل‌های مشخص و تأیید نهایی پروژه",
+      "caption": "برای هر بخش پروژه، خروجی قابل تحویل و معیار پذیرش مشخص کنید.",
+      "afterHeading": "پیشنهاد اجرایی را به تحویل‌های مشخص تبدیل کنید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "b57849bdf513528e8f3c836e1e75cf5c47d74d75d8b83c0f1742e9bc0862fb1b",
+      "sha256": "ba1cc097eb8113f19bd6cef628151c6528f3113933612f1864b81f7911c90cea",
+      "bytes": 216216
+    }
+  ],
+  "tool": "built-in image_gen",
+  "optimizedFormat": "WebP",
+  "optimizedQuality": 86
+}

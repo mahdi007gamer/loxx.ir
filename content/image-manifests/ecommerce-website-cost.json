@@ -1,0 +1,47 @@
+{
+  "slug": "ecommerce-website-cost",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "role": "cover",
+      "file": "apps/web/public/images/articles/ecommerce-website-cost/cover.webp",
+      "prompt": "Use case: stylized-concept. Original professional editorial image for LOXX article about ecommerce website cost planning. Premium clean photorealistic 3D, tactile real materials, meticulously staged lighting. Landscape 16:9. Palette midnight teal #001014 and #031b22, luminous mint cyan #00dfd6 and #76e8db, restrained warm ivory. No text, letters, digits, logos, watermarks, charts, fake UI, laptops, shopping carts or coin piles. COVER: a beautifully assembled miniature digital retail architecture on one elegant dark plinth, with three physically connected zones at different depths: a curated ivory product catalog shelf with miniature shoes and vessels, a precise packing station with one folded carton and wrapped parcel, and a sculptural brushed-metal payment terminal with completely blank glossy face. Thin mint-lit inlaid paths connect zones, explaining scope beyond the storefront. Sophisticated architectural maquette viewed three-quarter from moderate height, broad breathing room, main subject centrally safe for cover crop. Soft mint rim light and a warm white key, subtle glass dividers, no people.",
+      "alt": "ماکت فروشگاه با قفسه محصولات، ایستگاه بسته‌بندی و پایانه پرداخت متصل با مسیر نور فیروزه‌ای",
+      "caption": "دامنه فروشگاه، کاتالوگ کالا، عملیات ارسال و پرداخت را با هم در بر می‌گیرد.",
+      "afterHeading": "",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "6bfe5a94d063cfe67a765e0654cac075ab62690a2fe496229da89aebe8980b64",
+      "sha256": "155b32c265489ec19a90e0bb76223eb4c1effe891a9076a46660b84513e9052f",
+      "bytes": 130394
+    },
+    {
+      "role": "detail-1",
+      "file": "apps/web/public/images/articles/ecommerce-website-cost/detail-1.webp",
+      "prompt": "Use case: stylized-concept. Original professional editorial image for LOXX article about ecommerce website cost planning. Premium clean photorealistic 3D, tactile real materials, meticulously staged lighting. Landscape 16:9. Palette midnight teal #001014 and #031b22, luminous mint cyan #00dfd6 and #76e8db, restrained warm ivory. No text, letters, digits, logos, watermarks, charts, fake UI, laptops, shopping carts or coin piles. INLINE PRODUCT COMPLEXITY: premium editorial still life comparing a simple fixed product to configurable retail goods using actual physical objects. On a broad midnight-teal tabletop, left one closed ivory hardcover book with blank cover on a low stone tray. Right a thoughtfully arranged folded teal shirt with two fabric color swatches, a measuring tape with no marks or numerals, and a separate ivory gift sleeve indicating configurable sizes colors packaging. Asymmetrical overhead three-quarter close composition; physically realistic cloth and paper textures, luminous mint reflected light, clean visual separation, no divider line, no infographic. Explain that the same product count can involve different complexity.",
+      "alt": "کتاب ساده در کنار پیراهن، نمونه رنگ پارچه و بسته‌بندی برای مقایسه پیچیدگی کالا",
+      "caption": "تنوع رنگ، اندازه و بسته‌بندی می‌تواند حجم کار را بیش از تعداد عنوان کالا تغییر دهد.",
+      "afterHeading": "پیچیدگی مدل کالا را مشخص کنید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "b9e196b1b0ab8a27e7f7567a2de9ab720903633b569263e64f6afb8d980f28e5",
+      "sha256": "1dd60459ffb4e07e08fb02141f1c15591626f801e958c26fab68022900832fca",
+      "bytes": 176692
+    },
+    {
+      "role": "detail-2",
+      "file": "apps/web/public/images/articles/ecommerce-website-cost/detail-2.webp",
+      "prompt": "Use case: stylized-concept. Original professional editorial image for LOXX article about ecommerce website cost planning. Premium clean photorealistic 3D, tactile real materials, meticulously staged lighting. Landscape 16:9. Palette midnight teal #001014 and #031b22, luminous mint cyan #00dfd6 and #76e8db, restrained warm ivory. No text, letters, digits, logos, watermarks, charts, fake UI, laptops, shopping carts or coin piles. INLINE LIFECYCLE COSTS: sculptural still life showing three balanced distinct workstreams of a digital store over time, using neatly fitted dark stone modules in a flowing arc. First module supports a small architectural drafting compass and stacked blank ivory blueprint sheets to signify build. Middle module holds a refined miniature server chassis with simple glowing mint slits and a tiny closed packing carton, to signify ongoing operations. Last module supports a brushed-metal open-ended maintenance spanner beside a clean replaceable mint glass component, to signify upkeep. All objects neatly scaled, clean material separation, ample midnight-teal negative space, camera low three-quarter, soft studio shadow, sophisticated visual continuity with no arrows, numbers, charts, text or symbols.",
+      "alt": "ابزار طراحی، سرور و ابزار نگهداری روی سه سکوی سنگی پیوسته",
+      "caption": "در برآورد، هزینه ساخت اولیه را از بهره‌برداری و نگهداری جدا کنید.",
+      "afterHeading": "هزینه ساخت و هزینه استفاده را جدا ثبت کنید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "452117f8c3acc59203d2ea684d49b01fd44efcdc1b74e2712f797bd3d1c221c4",
+      "sha256": "ec1f407e17c2ada5c87c611d44cbff0b83eb1e55b06b59a8f4ad658cd941330a",
+      "bytes": 117916
+    }
+  ],
+  "optimizedFormat": "WebP",
+  "optimizedQuality": 86
+}

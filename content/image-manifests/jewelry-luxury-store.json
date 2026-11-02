@@ -1,0 +1,47 @@
+{
+  "slug": "jewelry-luxury-store",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "role": "cover",
+      "file": "apps/web/public/images/articles/jewelry-luxury-store/cover.webp",
+      "prompt": "Use case: product-mockup. Asset type: editorial article cover for a refined jewelry catalog website. Create one premium photorealistic carefully staged jewelry product photograph, wide landscape 16:9. In a midnight teal stone studio (#001014, #031b22), a sculptural finely crafted warm gold ring with a single pale translucent stone and a matching pair of small minimal earrings sit on two low dark teal stone plinths. Entire ring and earrings clearly visible, realistic fine metal edges and convincing material detail. Central composition safe for cover cropping, low viewpoint, gentle depth of field, restrained mint/cyan edge illumination (#76e8db) and soft ivory studio key light. Elegant quiet craft, natural scale, generous breathing room, not flashy. No people, no money, gold piles, text, numbers, letters, logos, watermark, screen UI, prices, investment symbolism or claims. A single cohesive still life, no montage.",
+      "alt": "انگشتر و یک جفت گوشواره با سنگ‌های روشن روی پایه‌های سنگی سبز تیره",
+      "caption": "نمای مفهومی کاتالوگ با نور هماهنگ و جزئیات قابل مشاهده.",
+      "afterHeading": "",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "4f145848888804881c2c2688255c2c782d735c76a9262962ccdcb96a1dd55f10",
+      "sha256": "8628562c0969cda40a917bfeac90caa3820bd61dcf3bebc2cbe40a5cf1d5d2e5",
+      "bytes": 135336
+    },
+    {
+      "role": "detail-1",
+      "file": "apps/web/public/images/articles/jewelry-luxury-store/detail-1.webp",
+      "prompt": "Use case: product-mockup. Asset type: in-article editorial illustration explaining jewelry photography, dimension and craft. Create one wide landscape 16:9 macro product photography scene viewed obliquely from above. A beautifully made fine gold ring with delicate setting rests flat on an ivory jeweler's work pad; a precise brushed steel vernier caliper with completely unmarked jaws lightly measures the ring's outer diameter beside a second matching small earring showing its real scale. Focus on craft texture, coherent physical geometry, tool and jewelry boundaries. Dark midnight teal workbench, restrained mint light from one side, soft neutral white key light, realistic polished metal reflections, ivory pad and quiet composition. No inscriptions or measurement numerals anywhere, no words, letters, watermark, logos, prices, financial imagery, disembodied hands or screens. Single photograph, no collage. Convey examining actual dimensions and details without asserting metal purity or gem type.",
+      "alt": "نمای نزدیک انگشتر و گوشواره روی پارچه روشن در کنار کولیس فلزی برای بررسی ابعاد",
+      "caption": "نمای نزدیک و ابزار اندازه‌گیری به توضیح ابعاد و جزئیات قطعه کمک می‌کنند.",
+      "afterHeading": "عکس برای درک ابعاد و جزئیات باشد",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "8a9d00bde108e7e8695c59afe106eab2b0a5158018f726480a0bc8603855d2e3",
+      "sha256": "07a81b332b028d52ad2bdaf905bde273694c461dcb823b43fc0254a0fe0939a3",
+      "bytes": 171144
+    },
+    {
+      "role": "detail-2",
+      "file": "apps/web/public/images/articles/jewelry-luxury-store/detail-2.webp",
+      "prompt": "Use case: product-mockup. Asset type: in-article conceptual jewelry quotation and custom ring sizing illustration. Create one wide landscape 16:9 still life, premium photorealistic product imagery. At an elegant midnight teal consultation desk a single refined warm gold ring is displayed on a small ivory velvet ring stand, beside an unmarked tapered brushed metal ring sizing mandrel laid diagonally and two blank ivory specification cards held neatly in a clear glass folio. A small transparent glass hourglass with pale ivory sand beside the cards indicates a quotation has limited validity. Camera eye-level three-quarter angle, sculptural balanced arrangement, tactile glass, velvet and brushed metal; controlled neutral white studio light and restrained mint/cyan edge accents, low visual noise. The ring stays the main subject and all objects physically plausible. No readable text or marks, numbers, currency, prices, logos, watermark, charts, investment claims or actual customer data. Single coherent scene, no montage.",
+      "alt": "انگشتر روی پایه مخملی کنار ابزار تعیین اندازه، کارت‌های خالی مشخصات و ساعت شنی",
+      "caption": "در سفارش با اندازه انتخابی، مشخصات و پایان اعتبار پیشنهاد باید روشن باشند.",
+      "afterHeading": "مثال فرضی: سفارش انگشتر با اندازه انتخابی",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "c0e3498ebf705a6e9aa47f52aa9946a07b6654e1508273400d4410db0d11e73d",
+      "sha256": "80ce411166f4550b2976ed3e6d01e989ca6cfe0c647fc23b86fe87f3e84065b9",
+      "bytes": 130040
+    }
+  ],
+  "optimizedFormat": "WebP",
+  "optimizedQuality": 86
+}

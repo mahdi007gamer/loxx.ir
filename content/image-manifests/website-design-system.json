@@ -1,0 +1,47 @@
+{
+  "slug": "website-design-system",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "role": "cover",
+      "prompt": "Use case: stylized-concept. Asset type: premium editorial website article cover, wide landscape 16:9. Subject: a meticulously organized tactile design-system component library presented as an elegant physical specimen tray on a midnight teal studio table. A single shallow brushed-metal grid tray holds coordinated interface components cast in warm ivory porcelain, smoked teal glass and mint resin: pill-shaped action buttons in three intentional sizes, rounded rectangular input-field frames, shallow content cards with inset image windows and discreet raised horizontal relief bars, tiny circular selection controls, and a neat short row of four graduated spacing strips. Each family shares exactly the same corner-radius vocabulary, edge thickness and optical alignment. One ivory card is lifted slightly above its slot, revealing the organizing grid beneath. No screens, no laptops, no cubes; these are beautiful tangible UI component samples with deliberate proportions. Composition: oblique overhead studio product photograph, the complete library safely inside central crop, generous dark negative space around tray. Materials have visible fine satin grain, polished glass edges and delicate contact shadows. Palette midnight teal #001014 and #031b22, warm ivory, restrained mint #76e8db and cyan #00dfd6 edge illumination. Precise architectural lighting, clean premium editorial 3D realism, low visual noise. No words, letters, numbers, logos, watermark, chart, tiny UI text, explanatory labels or statistics. This is a conceptual illustration, never a screenshot.",
+      "file": "apps/web/public/images/articles/website-design-system/cover.webp",
+      "alt": "سینی منظم نمونه‌های فیزیکی دکمه، ورودی، کارت و کنترل انتخاب با متریال عاجی، شیشه‌ای و سبز نعنایی",
+      "caption": "تصویر مفهومی از کتابخانه اجزای هماهنگ با اندازه‌ها و حالت‌های محدود.",
+      "afterHeading": "",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "19ec8e0800aaf6fb2b5e978c4b0d14f2759091ff21ab106172a6cf9a9d168e5a",
+      "sha256": "65bbdd61904c98b6c1272c5778b1417a704a312eb3c477a62d2584b1c9d174ea",
+      "bytes": 132660
+    },
+    {
+      "role": "detail-1",
+      "prompt": "Use case: stylized-concept. Asset type: in-article editorial illustration for a website design-system section about connecting foundational rules to their usage. Wide landscape 16:9. Create an exquisite close overhead physical designer's workbench on midnight teal slate. At the left, a compact aligned palette of just three flat material swatches in ivory, mint and deep teal, three slim graduated spacing gauges, and two precise rounded-corner radius templates. To the right, their visual application is unmistakable in a coordinated family of three tangible interface sample cards: a small action-button sample, a medium form-field-and-button sample, and a larger content-card sample. Each sample visibly repeats the same mint action surface, ivory surface, deep teal inset, measured gaps and consistent radius. A few very subtle thin inlaid mint guide lines align the source samples with the component family, never an arbitrary network. Objects lie flat with tiny tactile elevations, ceramic and frosted-glass finishes, exceptionally tidy alignment, no redundant objects. Concept is a limited set of useful design tokens becoming concrete reusable components, not random decoration. Close top-down composition, precise balanced layout and calm negative space. Premium product photography/3D editorial realism, soft grazing ivory light, controlled cyan edge reflections. No screens or laptops, no dials, no cubes, no words, letters, numbers, labels, logos, watermark, fake statistics, charts or illegible interface text.",
+      "file": "apps/web/public/images/articles/website-design-system/detail-1.webp",
+      "alt": "نمونه‌رنگ‌ها، نوارهای فاصله و الگوهای گوشه در کنار دکمه، ورودی و کارت هماهنگ",
+      "caption": "قواعد پایه زمانی کاربردی‌اند که اثر آن‌ها در اجزای واقعی دیده شود.",
+      "afterHeading": "قواعد پایه را به کاربردشان وصل کنید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "4b1c3c2d66294927a30802d4ec6241148d827e7a60cb3866832845be44b475e2",
+      "sha256": "646b13b61754a4b5779e8ec21bf3e74213892c080f3c565a49e961b15b78da75",
+      "bytes": 52814
+    },
+    {
+      "role": "detail-2",
+      "prompt": "Use case: stylized-concept. Asset type: premium conceptual editorial illustration for the section about unifying administrative tables while retaining useful variants. Wide landscape 16:9. On a dark teal seamless studio surface, arrange three elegant unbranded physical UI specimen frames: one wider desktop-scale frame behind, two smaller narrow frames in the foreground. Frames are thin brushed dark metal with frosted glass inserts; no keyboard, no device logos, no laptop. Each contains the same recognizable table component grammar built as tactile ivory row rails with consistent gaps, a restrained mint rounded search recess above and a slim pagination track below. The wide frame has four columns of empty rounded cells; one narrow frame has two columns and repeated small mint status pills, the other narrow frame has two columns with a subtle ivory circular inventory alert marker. These meaningful content variants preserve common row spacing, rounded corners and search/pagination behavior while adapting width. No words or numbers, all cells blank or abstract monochrome relief. Composition: low oblique side view at desk height, one coherent sculptural scene with intentional aligned frames at different scales, broad calm negative space and clearly visible repeated table proportions. Fine satin surfaces, warm ivory ceramic cells, deep midnight teal #001014 background, limited mint #76e8db highlights, soft cinematic studio light, extremely refined editorial 3D product realism. No charts, statistics, code, letters, labels, logos, watermark, generic laptop, shield or random objects. This is an illustrative table-system study, not actual client work.",
+      "file": "apps/web/public/images/articles/website-design-system/detail-2.webp",
+      "alt": "سه قاب جدول با جست‌وجو و صفحه‌بندی مشترک و ستون‌ها و نشانگرهای متفاوت در ابعاد بزرگ و کوچک",
+      "caption": "پوسته و رفتار مشترک جدول می‌تواند تفاوت‌های موردنیاز هر کاربرد را حفظ کند.",
+      "afterHeading": "مثال فرضی: یکسان کردن جدول‌های پنل",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "6eaa15c4a9818fd23f52a4be047761502049518d841d744a937d42423091a90b",
+      "sha256": "ee41643094543cc0e06778ea72793452a3f4f0fb93c3e789eec2275c64c32e8e",
+      "bytes": 72798
+    }
+  ],
+  "optimizedFormat": "WebP",
+  "optimizedQuality": 86
+}

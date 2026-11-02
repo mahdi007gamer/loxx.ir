@@ -1,0 +1,47 @@
+{
+  "slug": "custom-website-cost",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "role": "cover",
+      "file": "apps/web/public/images/articles/custom-website-cost/cover.webp",
+      "prompt": "Use case: stylized-concept. Asset type: dedicated editorial cover for a Persian article about estimating bespoke website cost through scope and architecture. Create one premium clean photorealistic 3D still life: an architect's bespoke website model made from carefully fitted upright ivory functional panels and smoked-teal glass layers, with distinct content, booking and workflow shapes instead of text. A brushed metal drafting divider and a blank architectural scale lie beside the model, communicating precise custom scope rather than money. Midnight teal #001014 seamless studio, muted warm ivory ceramic, brushed titanium details, restrained cyan #00dfd6 edge light. Purposeful elegant tactile objects, refined commercial product photography, three quarter camera, soft shadows and low noise. Wide 16:9 landscape; principal model central with crop-safe margins. No words, letters, numbers, logos, watermark, screens, laptop, coins, shield, generic floating cubes, fake charts or montage. One coherent scene.",
+      "alt": "ماکت معماری سایت با پنل‌های سفارشی و ابزار اندازه‌گیری روی زمینه سبز تیره",
+      "caption": "دامنه طراحی اختصاصی را با اجزای موردنیاز و رفتار آن‌ها تعریف کنید.",
+      "afterHeading": "",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "19ffddc62d88365c5c6950cc920496f7cd18b0c13eb1f9e3ac40d909a57a6aab",
+      "sha256": "782ce098083cb80217c417063ea4c75a399634d986f544c4db437abadd51ff73",
+      "bytes": 137280
+    },
+    {
+      "role": "detail-1",
+      "file": "apps/web/public/images/articles/custom-website-cost/detail-1.webp",
+      "prompt": "Use case: stylized-concept. Asset type: in-article editorial illustration about external integrations and legacy data in bespoke website estimation. Create one premium conceptual product photograph of a central upright smoked-glass application gateway sculpture connected by three deliberately routed cyan data cables to clearly distinct tactile workflow modules: an ivory document archive with neatly slotted blank cards, a brushed-metal service scheduling board with physical booking pegs, and a small technical instrument with a ceramic dial. Connector ports visibly fit; the relationships feel engineered and understandable, not random decorative circuitry. Deep midnight teal #031b22 studio tabletop, ivory stone, smoked glass and brushed metal, mint #76e8db light through cables, restrained glow, elegant negative space. High oblique overhead wide 16:9 composition, razor-clean craft and soft studio shadows. No words, letters, numerals, logos, watermark, fake UI, generic laptop, shield, coins, montage. One coherent original scene.",
+      "alt": "اتصال هسته شیشه‌ای برنامه به بایگانی کارت‌ها، صفحه زمان‌بندی و ابزار فنی با کابل‌های فیروزه‌ای",
+      "caption": "اتصال هر سامانه و انتقال داده‌های قبلی باید جداگانه بررسی و برآورد شود.",
+      "afterHeading": "اتصال‌ها و داده‌های قبلی را زود بررسی کنید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "a3ec1cc31d45d63ff1266eacd999a5f3d21e889e77cc1da5508d949bd6e4e0de",
+      "sha256": "50bb6c453fdca6523f1cc20a56b51a4f6da57cc4cb0570adabd782cfb2ff1ec2",
+      "bytes": 95056
+    },
+    {
+      "role": "detail-2",
+      "file": "apps/web/public/images/articles/custom-website-cost/detail-2.webp",
+      "prompt": "Use case: stylized-concept. Create a premium editorial product photograph illustrating website project priorities: a refined ivory presentation tray in the middle holds a simple miniature blank webpage made from softly rounded ceramic panels. Two separate smaller trays beside it contain optional blank calendar cards and extra content cards, showing the main website first and additional features later. Direct overhead studio view, elegant orderly layout, midnight teal #001014 tabletop, warm ivory ceramic, brushed metal tray edges, restrained mint #00dfd6 highlights. Soft photographic light, clean quiet composition, wide 16:9 landscape. One coherent scene, no text, letters, numbers, labels, logos, watermark, people, money, screens or montage.",
+      "alt": "طرح اصلی سایت در سینی مرکزی و قابلیت‌های تقویم و محتوای بیشتر در دو سینی جدا",
+      "caption": "ابتدا هسته ضروری سایت را کامل کنید و قابلیت‌های کم‌اولویت را به مرحله بعد بسپارید.",
+      "afterHeading": "پیشنهادها را با این پرسش‌ها هم‌تراز کنید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "b3d98a8f76a73d562fb27c8488e8c9a02896131040060bc19cc2875c5d5f052b",
+      "sha256": "d33310eebe9c58112dbd0cd3e93fa6f8f704f9ec892f34fc46dd8772e04551b4",
+      "bytes": 88678
+    }
+  ],
+  "optimizedFormat": "WebP",
+  "optimizedQuality": 86
+}

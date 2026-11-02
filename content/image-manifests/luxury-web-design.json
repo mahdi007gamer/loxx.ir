@@ -1,0 +1,47 @@
+{
+  "slug": "luxury-web-design",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "role": "cover",
+      "file": "apps/web/public/images/articles/luxury-web-design/cover.webp",
+      "prompt": "Use case: stylized-concept. Asset type: unique editorial blog cover for a luxury website design article. Generate a single refined photorealistic 3D editorial scene, wide 16:9 landscape. An elegant architectural storefront in a dark midnight teal gallery: a sculpted monolithic deep-teal frame surrounds a floating translucent glass display plane, with a single ivory ceramic sculptural object elegantly presented on a shallow brushed-metal plinth. Carefully controlled whitespace and proportions express premium digital design through clarity, not decoration. Mint light traces the edge of the glass; large soft negative space around the central subject, center-safe composition with atmospheric depth. Palette #001014, #031b22, luminous mint #00dfd6 and #76e8db, restrained ivory. Sophisticated real materials, satin metal, optical glass, soft studio lighting, crisp geometry. No text, no letters, no logos, no watermarks, no gold, no fake tiny interface, no busy grids, no collage. This is an original illustrative editorial scene, not an actual client website.",
+      "alt": "مجسمه سرامیکی روشن در ویترین شیشه‌ای معماری با نور نعنایی و فضای تیره",
+      "caption": "تصویر مفهومی از ارائه آرام و دقیق در طراحی لوکس.",
+      "afterHeading": "",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "43ffad4da6917e9c1f9f918cd46ecd21cb3a6e0b1c98634ca5a458137368dfd9",
+      "sha256": "535b34d52a964329b1157fbfd8d518ad989ceb30faf9572df00920de96b10df1",
+      "bytes": 92758
+    },
+    {
+      "role": "detail-1",
+      "file": "apps/web/public/images/articles/luxury-web-design/detail-1.webp",
+      "prompt": "Use case: stylized-concept. Asset type: inline editorial image for an article about luxury website typography and whitespace. Single sophisticated physical design study, wide 16:9 landscape, overhead oblique view over a deep midnight teal desk. A large frosted-glass sheet and exactly three thin satin ivory rectangular material strips of different widths are precisely arranged with generous intentional spacing and a strong visual hierarchy. A short mint illuminated edge and fine metal alignment rods make rhythm and proportion tangible. Objects are abstract physical design materials, not screens or fake UI. Beautiful shallow shadows, matte textures, controlled specular highlights, magazine-quality 3D still life. Background #001014/#031b22, accents #00dfd6/#76e8db, restrained warm white, brushed dark metal. Central safe composition, clear focal group, calm uncluttered negative space. No written text, no glyphs, no logos, no watermarks, no gold, no collage, no architectural storefront or ceramic sculpture. Original illustrative concept for typography hierarchy and whitespace, not client work.",
+      "alt": "صفحه شیشه‌ای مات کنار سه نوار روشن با فاصله‌های منظم روی سطح سبز تیره",
+      "caption": "چیدمان مفهومی برای نمایش نظم، نسبت و فضای خالی.",
+      "afterHeading": "تایپوگرافی و فضای خالی را به خدمت محتوا بگیرید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "225840595c7d131fef51f91c97e8fd92edf13525f0d641543611fdcd8a16d643",
+      "sha256": "1a61d83202a1492029799143f194af61175be91a344349529288d3790e85f9aa",
+      "bytes": 110258
+    },
+    {
+      "role": "detail-2",
+      "file": "apps/web/public/images/articles/luxury-web-design/detail-2.webp",
+      "prompt": "Use case: product-mockup. Asset type: unique inline editorial image for an article about high quality product imagery in luxury website design. Single wide 16:9 photoreal editorial studio composition: a handmade sculptural silver pendant with a smoothly brushed surface suspended at a gentle angle over a dark-teal folded velvet platform. Beside it, one small optical macro lens hovering on a restrained metal arm reveals its fine handmade material texture through the lens; the main object remains clearly visible and unbranded. Rich material detail, artistic but useful product presentation, controlled mint rim-light and a broad soft ivory studio reflection. Premium dark midnight teal #001014/#031b22, luminous mint #00dfd6/#76e8db, satin silver and restrained whites. Low three-quarter camera, center-safe clear focal subject, luxurious calm spacious balance, no excessive sparkle. No words, no labels, no logos, no watermark, no fake interface, no gold, no collage, no generic devices. Illustrative hypothetical handmade jewelry product presentation, not a real brand or actual client.",
+      "alt": "گردنبند نقره‌ای روی مخمل سبز تیره و ذره‌بین نمایش‌دهنده بافت فلز",
+      "caption": "نمونه تصویری فرضی برای نمایش جنس و جزئیات محصول.",
+      "afterHeading": "عکس باکیفیت باید اطلاعات هم بدهد",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "0f445304b06130a97e52725ed0b746fa47223bf8003c2166a4dca3148c75c122",
+      "sha256": "7be33714dfd751c6da4abe12ac92b1b4a1bb05a6c081e9c55f1ca35aff30d8e9",
+      "bytes": 127166
+    }
+  ],
+  "optimizedFormat": "WebP",
+  "optimizedQuality": 86
+}

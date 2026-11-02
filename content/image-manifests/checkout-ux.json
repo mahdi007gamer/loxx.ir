@@ -1,0 +1,47 @@
+{
+  "slug": "checkout-ux",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "role": "cover",
+      "file": "apps/web/public/images/articles/checkout-ux/cover.webp",
+      "prompt": "Use case: stylized-concept. Asset type: original editorial cover for a Persian premium web studio article about a clear ecommerce checkout journey. Create one wide 16:9 sophisticated tangible 3D still-life, no text. A continuous elegantly curved ivory stone pathway connects three physical miniature waypoints in a midnight teal architectural studio: an open sculptural shopping basket holding a small ivory leather bag and folded mint fabric; an orderly address/fulfilment station represented only by an unmarked tactile destination pin and neatly fitted parcel; and a serene completed-order parcel on a round landing with a restrained luminous mint check-shaped light above it. The same bag is subtly visible through the translucent parcel at the middle station, conveying preserved selected items through the journey. This is a physical cinematic scene, not an infographic or UI. Distinct layered depth, three-quarter camera, centrally safe crop, generous clean dark negative space, polished premium art direction. Midnight teal #001014 and #031b22, luminous mint #00dfd6 and #76e8db, warm ivory, brushed metal, frosted glass. Soft precise studio lighting, tactile materials, realistic soft shadows, low visual noise. No words, letters, numbers, logos, money symbols, fake forms, screens, padlocks, charts, watermark, montage or panels.",
+      "alt": "مسیر پیوسته سبد خرید، تعیین مقصد و بسته سفارش تأییدشده در فضای سبز تیره",
+      "caption": "در هر مرحله خرید، انتخاب کالا و وضعیت بعدی باید روشن بماند.",
+      "afterHeading": "",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "25623e336c2836e7d5c4a0c442379191697c8d8e53ff97d156e39af6c5b1c345",
+      "sha256": "e6c47182898ec9f39518bf946bdcacb4e41fe0d2d3b9ee19f2e5d278d0a52bd9",
+      "bytes": 141122
+    },
+    {
+      "role": "detail-1",
+      "file": "apps/web/public/images/articles/checkout-ux/detail-1.webp",
+      "prompt": "Use case: stylized-concept. Asset type: original in-article editorial illustration about showing shipping and fulfilment choices early in an online purchase. Create a wide 16:9 polished tangible 3D product still-life in a midnight teal studio. Center an elegant small ivory leather bag on a low matte stone platform. Alongside it, two clearly different fulfilment choices are represented as physical premium packaging: a compact closed mint parcel on a short direct brushed-metal track, and an open frosted-glass presentation box with protective ivory lining on a longer gently curved track. Their transparent layered packaging reveals the same product silhouette, letting a viewer inspect delivery options before deciding. Use restrained luminous mint route grooves and subtly different physical track lengths; there are no diagrams, screens, charts, labels or time promises. Camera close three-quarter at table level, strong compositional hierarchy, beautifully tactile leather, glass and paper, controlled soft cinematic lighting, deep teal #001014 / #031b22, cyan mint #00dfd6 / #76e8db, warm ivory. One coherent scene, refined, clean, practical editorial storytelling. No text, numbers, logos, watermarks, money signs, UI widgets, padlocks or montage.",
+      "alt": "کیف روشن در کنار دو بسته‌بندی متفاوت روی مسیرهای ارسال کوتاه و منحنی",
+      "caption": "تفاوت شیوه‌های تحویل را پیش از تصمیم نهایی مشتری روشن کنید.",
+      "afterHeading": "هزینه و ارسال را زود روشن کنید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "49883db7191b7aba4c4af08b3a1b61c5579253af0aaf9886fda409346c02656e",
+      "sha256": "a371c614bc37109b34742b13526990f7fec3dddd52bf3aa7bc7be811aa2eb24b",
+      "bytes": 137422
+    },
+    {
+      "role": "detail-2",
+      "file": "apps/web/public/images/articles/checkout-ux/detail-2.webp",
+      "prompt": "Use case: stylized-concept. Asset type: original in-article editorial illustration about courteous checkout validation and preserving correctly entered information. Wide landscape 16:9 premium tangible 3D macro still-life, one coherent scene. On a midnight teal desk, a refined ivory address-organizer tray contains four smoothly fitted frosted-glass tactile tokens in distinct abstract shapes, already safely seated. A fifth small mint destination-pin-shaped token sits just beside its matching recessed slot; a delicate curved mint light guides it gently toward the correct slot. The other four tokens stay undisturbed. Beside the tray an open sculptural basket still holds a small ivory bag and folded mint fabric, visibly preserving the purchase while an address mistake is repaired. The visual communicates a recoverable small error without punishment. Beautiful precision-fit stone and glass, physically plausible scale, a tiny warm amber edge light only at the empty slot, no alarm symbolism. Close oblique camera, soft depth of field, midnight teal #001014 / #031b22, luminous mint #00dfd6 / #76e8db and warm ivory. Clean sophisticated 3D editorial art, tactile premium materials, controlled lighting. No actual form, screen, words, letters, numbers, red cross, money symbols, logos, padlocks, watermark, panels or infographic.",
+      "alt": "توکن نشانی کنار جای خالی خود با راهنمای نوری و سبد خرید دست‌نخورده",
+      "caption": "اصلاح یک فیلد نباید اطلاعات صحیح یا محتویات سبد را پاک کند.",
+      "afterHeading": "فرم کوتاه، اما قابل بازیابی بسازید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "9824f8d944a1f91c141bec9d7d71aaf5db4b2e99937460f96fbc667e0cf5c2ca",
+      "sha256": "eda22213c8cddc224c2f357f4e10c0443b7f271e575505e72a39dbe157412f18",
+      "bytes": 137906
+    }
+  ],
+  "optimizedFormat": "WebP",
+  "optimizedQuality": 86
+}

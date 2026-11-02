@@ -1,0 +1,47 @@
+{
+  "slug": "sitemap-robots-canonical",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "role": "cover",
+      "file": "apps/web/public/images/articles/sitemap-robots-canonical/cover.webp",
+      "prompt": "Use case: stylized-concept. Asset type: premium editorial website illustration for Persian LOXX article about sitemap, robots.txt and canonical URLs. Wide landscape 16:9. Immaculate tactile architectural 3D, midnight teal #001014 and #031b22, mint #00dfd6 and pale cyan #76e8db illumination, restrained ivory. Physically credible glass, satin metal and stone; controlled studio lighting and very low visual noise. No writing, letters, numbers, logos, watermarks, charts, fake statistics or computer screens. This is an illustrative concept, not a client screenshot. Cover: a precise miniature floorplan of connected website rooms on a dark stone slab, photographed from an elegant high three-quarter angle. Several open ivory gallery rooms represent public pages; delicate mint paths connect them into a coherent ordered structure. One principal route is slightly brighter and leads toward a single central luminous open doorway, while two peripheral private rooms have opaque closed walls. Architectural craftsmanship, beautiful uncluttered central subject, lots of breathing room, no arrows or floating icons. Distinct broad spatial composition.",
+      "alt": "ماکت معماری صفحات عمومی روشن با مسیرهای متصل و اتاق‌های خصوصی بسته روی سنگ سبز تیره",
+      "caption": "تصویر مفهومی ساختار صفحات عمومی و مسیر اصلی سایت؛ بخش خصوصی به حفاظت مستقل نیاز دارد.",
+      "afterHeading": "",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "df9ade78c59b2acc77591256986d0b1804c1385e82dd8e448299542aba32dfee",
+      "sha256": "21fe0d2f0eff3963483c7cf7d97e0d83fbd4b475b75b0a906b9464b2a86e43de",
+      "bytes": 225304
+    },
+    {
+      "role": "detail-1",
+      "file": "apps/web/public/images/articles/sitemap-robots-canonical/detail-1.webp",
+      "prompt": "Use case: stylized-concept. Asset type: premium editorial website illustration for Persian LOXX article about sitemap, robots.txt and canonical URLs. Wide landscape 16:9. Immaculate tactile architectural 3D, midnight teal #001014 and #031b22, mint #00dfd6 and pale cyan #76e8db illumination, restrained ivory. Physically credible glass, satin metal and stone; controlled studio lighting and very low visual noise. No writing, letters, numbers, logos, watermarks, charts, fake statistics or computer screens. This is an illustrative concept, not a client screenshot. Inline image for the section about meaningful modification dates: an archivist's careful physical index atlas, viewed almost overhead. On a midnight teal tabletop a shallow transparent glass folio holds twelve neat blank ivory page tiles. Only one tile is visibly being replaced, slightly raised above its matching slot with a restrained mint illuminated edge, while the other tiles remain stable and unlit. Beside the folio lies one understated brushed-metal precision instrument, no labels or clockface. A clear visual metaphor for updating the record of the changed page rather than falsely refreshing everything. Clean luminous texture and editorial still-life composition, very different from an architectural floorplan.",
+      "alt": "اطلس شیشه‌ای کارت‌های صفحات با یک کارت برجسته و لبه روشن برای نمایش به‌روزرسانی انتخابی",
+      "caption": "زمان تغییر را به همان صفحه‌ای متصل کنید که محتوای آن واقعاً تغییر کرده است.",
+      "afterHeading": "زمان تغییر را واقعی نگه دارید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "6d3e5120830d629b767c791b5e883d907cc8d898c16c4a34c9d71d8517acb310",
+      "sha256": "c3c9ca604ab7442704247bda394e2de43d2030c64f6549f054a6aee00cc817f5",
+      "bytes": 174852
+    },
+    {
+      "role": "detail-2",
+      "file": "apps/web/public/images/articles/sitemap-robots-canonical/detail-2.webp",
+      "prompt": "Use case: stylized-concept. Asset type: premium editorial website illustration for Persian LOXX article about sitemap, robots.txt and canonical URLs. Wide landscape 16:9. Immaculate tactile architectural 3D, midnight teal #001014 and #031b22, mint #00dfd6 and pale cyan #76e8db illumination, restrained ivory. Physically credible glass, satin metal and stone; controlled studio lighting and very low visual noise. No writing, letters, numbers, logos, watermarks, charts, fake statistics or computer screens. This is an illustrative concept, not a client screenshot. Inline image for canonical coordination: close low-angle view of three elegant translucent glass channels travelling from different positions across a dark teal stone base, gently converging at one substantial ivory doorway at the far center. A continuous mint light filament inside each channel resolves into one single coherent brighter line at the chosen doorway. Two subtle unused side exits are dark, without barriers or padlocks. This is a physical sculptural route-selection metaphor: different address variants align on one accessible destination. Exquisite glass refraction, soft depth of field yet destination sharp, spacious minimal premium scene; no diagrams, arrows, text or screens.",
+      "alt": "مسیر شیشه‌ای فیروزه‌ای به درگاه اصلی روشن در کنار دو خروجی فرعی تاریک روی زمینه سنگی",
+      "caption": "نسخه اصلی آدرس باید با مقصد canonical، لینک‌های داخلی و نقشه سایت هماهنگ باشد.",
+      "afterHeading": "canonical را با لینک‌ها هماهنگ کنید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "2c553ce33f355efc9b783c0dcaafd3440473e382435cb0de38c882189568c34a",
+      "sha256": "a28b254ce292f4d217425facf0f9fedbc9311eee5e1b8c288a747313c4d9d841",
+      "bytes": 128764
+    }
+  ],
+  "optimizedFormat": "WebP",
+  "optimizedQuality": 86
+}

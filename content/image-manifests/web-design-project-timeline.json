@@ -1,0 +1,47 @@
+{
+  "slug": "web-design-project-timeline",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "role": "cover",
+      "file": "apps/web/public/images/articles/web-design-project-timeline/cover.webp",
+      "prompt": "Use case: stylized-concept\nAsset type: premium editorial cover for an article explaining website project duration through dependencies.\nPrimary request: A beautifully crafted physical scheduling installation, with a single clear essential path passing through five DIFFERENT functional stations: a site-map arch of branching metal rods, layered frosted glass page frames, a precise assembly jig, a softly illuminated inspection gate, and a small open release portal. Connecting mint light travels through a continuous recessed channel between the stations, while one shorter parallel side route rejoins before the inspection gate. The dependency sequence feels materially necessary, as a refined kinetic museum object, never a diagram with labels.\nScene/backdrop: very dark midnight teal studio, low monolithic stone plinth, spacious background.\nStyle/medium: high-end tactile editorial 3D, realistic brushed metal, frosted glass, polished stone, precise subtle workmanship.\nComposition/framing: wide landscape 16:9, three-quarter elevated camera, installation centered with all essential elements inside central 70 percent, visible flowing path from front left to back right, uncluttered visual hierarchy.\nLighting/mood: controlled softbox and restrained mint edge glow, premium calm professional mood.\nColor palette: midnight teal #001014 and #031b22, mint #00dfd6 and #76e8db, small ivory details.\nConstraints: one standalone image, no collage. No words, letters, numbers, text, logos, watermarks, deadlines, calendars, clocks, laptops, shields, generic cubes, miniature interface text, bar charts or statistics. The image conveys dependency and a critical path without promising a duration.",
+      "alt": "سازه‌ای از مراحل متصل با مسیر نورانی سبزآبی، قاب‌های شیشه‌ای، ایستگاه ساخت و دروازه انتشار روی سکوی سنگی",
+      "caption": "نمایی مفهومی از وابستگی مراحل و مسیر ضروری تا انتشار سایت.",
+      "afterHeading": "",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "bfcac71935b0cb7cca5b002a3d14fb63f080d400804aa464be4618d91ffb7c77",
+      "sha256": "cc6b280bd4c4be34676a4ce58386dd3789bdb4f98fb81ef39c3e6cc004621302",
+      "bytes": 151434
+    },
+    {
+      "role": "detail-1",
+      "file": "apps/web/public/images/articles/web-design-project-timeline/detail-1.webp",
+      "prompt": "Use case: stylized-concept\nAsset type: in-article editorial illustration about preparing real content before finalizing website design.\nPrimary request: A precise physical content preparation bench. At left, three clearly recognizable editorial ingredients stand in a shallow stone tray: a small premium product sample bottle, a photographic print showing that same bottle on ivory paper, and a stack of ivory textless paper sheets with clean debossed horizontal texture. At center a slim mint illuminated connector runs from the prepared tray into a partially assembled frosted glass web-page frame at right. The frame has a photo-sized rectangular recess matching the physical photograph and two fitted blank content panels, showing that prepared materials determine the design. One foreground pair of white cotton-gloved hands is carefully sliding the physical photograph into the matching page recess. Focus is the tactile act of making content fit, not a computer screen.\nScene/backdrop: deep midnight teal studio tabletop with quiet negative space.\nStyle/medium: realistic conceptual product photography and crafted 3D, finely textured ivory paper, translucent glass, matte stone, brushed metal.\nComposition/framing: wide landscape 16:9, close diagonal overhead angle, preparation tray left and fitted design frame right in a balanced composition; central action fully visible.\nLighting/mood: soft directional light and restrained mint reflection, luxurious editorial clarity.\nColor palette: #001014, #031b22, #00dfd6, #76e8db, warm ivory.\nConstraints: one standalone original image. No words, letters, numbers, logos, watermarks, fake UI text, deadlines, clocks, laptop, charts. The paper and frame are unlabelled illustration props, not a real client interface.",
+      "alt": "دست‌های دستکش‌پوش در حال قراردادن عکس محصول در قاب طراحی شیشه‌ای، کنار محصول واقعی و برگه‌های محتوای آماده",
+      "caption": "آماده‌بودن عکس و محتوای واقعی، تصمیم‌های طراحی را قابل اتکا می‌کند.",
+      "afterHeading": "محتوا را به آخر پروژه موکول نکنید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "f9cef312f62d38eb5001a9bc9f352389983eba9f1357fc95ebf421485eb1c85e",
+      "sha256": "8c34f9ec6e85afc267e9061abd83963516ee24494a8824664986865a22f3349d",
+      "bytes": 160548
+    },
+    {
+      "role": "detail-2",
+      "file": "apps/web/public/images/articles/web-design-project-timeline/detail-2.webp",
+      "prompt": "Use case: stylized-concept\nAsset type: premium in-article editorial illustration about optional website scope assigned to a later phase.\nPrimary request: An unmistakable Y-shaped physical routing sculpture viewed from directly overhead. ONE main mint-lit channel enters from bottom center and continues STRAIGHT to top center through a small satin-metal release arch. A SECOND distinct curved side channel branches off to the RIGHT at the halfway point, sweeps outward, and terminates on a separate round elevated platform on the far right. On the side platform sits a frosted glass oval integration component with several tiny metal connection prongs. The side branch and its component occupy the right half of the image; the continuous straight essential main path occupies the center-left. Both channels must be clearly visible, separated by a broad expanse of dark stone, with the Y fork mechanically legible. The central straight path does not pass through the extra component. No channel merging, no train.\nScene/backdrop: one sparse installation on midnight teal honed stone with a seamless dark studio background.\nStyle/medium: exceptionally polished editorial 3D still life, real tactile satin steel and frosted glass, restrained premium engineering.\nComposition/framing: wide 16:9 landscape, near top-down camera, fully show all three ends of the Y, balanced negative space; no object cropped off.\nLighting/mood: soft studio lighting with mint illumination limited to route channels and subtle ivory reflections.\nColor palette: midnight teal #001014, #031b22, mint #00dfd6, #76e8db.\nConstraints: one single scene, a clear main path and distinct optional side branch are essential. No text, letters, numbers, logos, labels, watermark, clocks, calendars, charts, screens, laptops, cubes or deadline promises.",
+      "alt": "مسیر نورانی مستقیم با یک انشعاب جانبی که به قطعه شیشه‌ای جداگانه می‌رسد",
+      "caption": "قابلیت اضافه را می‌توان در شاخه‌ای جدا برای فاز بعد برنامه‌ریزی کرد.",
+      "afterHeading": "تغییر محدوده چگونه زمان را عوض می‌کند؟",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "de978125b73ab69d0d40debd9b0f7a7d5a668c9bf68ff69b0d32965200f8c832",
+      "sha256": "e8257a543938804e9026796109c8d793b196f4754e9726bf32c86d1dfd6fb19e",
+      "bytes": 89876
+    }
+  ],
+  "optimizedFormat": "WebP",
+  "optimizedQuality": 86
+}

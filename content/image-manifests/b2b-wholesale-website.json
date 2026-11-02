@@ -1,0 +1,47 @@
+{
+  "slug": "b2b-wholesale-website",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "role": "cover",
+      "file": "apps/web/public/images/articles/b2b-wholesale-website/cover.webp",
+      "prompt": "Use case: stylized-concept. Asset type: editorial cover for a Persian article about B2B wholesale ordering. Create one premium, carefully staged realistic 3D wholesale supply scene, landscape 16:9. In the central safe crop, a large open kraft master carton holds neatly divided ten-packs of plain mint and ivory protective packaging supplies; behind it several sealed bulk cartons sit on a real-scale wooden shipping pallet. In front, a thick blank trade quotation folio on a brushed metal wholesale desk leads visually toward a prepared shipment farther back, suggesting enquiry, quotation and fulfilment without arrows or diagrams. Use midnight teal #001014 and #031b22 studio architecture, restrained mint #00dfd6 edge illumination, warm ivory materials, tactile corrugated cardboard and paper details. Three-quarter elevated camera, grounded physically plausible objects, sophisticated controlled lighting and generous negative space. This is conceptual editorial illustration. No words, letters, numerals, logos, watermark, barcodes, visible UI, fake charts, tiny labels, laptops, shields or floating cubes.",
+      "alt": "کارتن باز حاوی لوازم بسته‌بندی کنار پوشه پیش‌فاکتور و پالت‌های آماده ارسال در انبار",
+      "caption": "نمای مفهومی از پیوند واحد بسته‌بندی، پیش‌فاکتور و آماده‌سازی سفارش عمده.",
+      "afterHeading": "",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "414b91b70443cc0982bf4a7fa25d8dabf23124bf15daa6bc3de26ce9319dfe58",
+      "sha256": "d86312d40c5042743b99e769eff55521d2612fbce5689b5a15ddc726c74af74e",
+      "bytes": 176456
+    },
+    {
+      "role": "detail-1",
+      "file": "apps/web/public/images/articles/b2b-wholesale-website/detail-1.webp",
+      "prompt": "Use case: stylized-concept. Asset type: first inline editorial illustration for a Persian B2B wholesale article, section about customer groups and quantity-based price rules. Create a distinct landscape 16:9 premium product still life photographed from near overhead. On a midnight teal stone trade desk arrange three clearly separated quantities of the same plain kraft shipping carton: one small carton at left, a neatly stacked group of four in the center, and a larger palletized group of twelve at right. The cartons have identical unit size; quantity visibly increases across the scene without charts. A blank open mint trade account folio and simple ivory sample of packaging material lie in the foreground, conveying wholesale account terms. Tactile corrugated cardboard, restrained brushed metal pallet edge, sophisticated teal #031b22 shadows and soft mint #76e8db reflections, warm ivory highlights, clean controlled studio lighting, purposeful low-noise composition. No text, numbers, currency symbols, letters, labels, logos, barcodes, watermark, screens, fake charts, generic laptop or shield. Single coherent scene, not a triptych or montage.",
+      "alt": "سه گروه با تعداد افزایشی کارتن در کنار دفتر حساب تجاری و نمونه لفاف محافظ روی میز سبز تیره",
+      "caption": "مرز تعداد و شرایط حساب تجاری باید پیش از تأیید سفارش روشن باشد.",
+      "afterHeading": "نمایش قیمت را با گروه مشتری هماهنگ کنید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "e47c588012a0d6bf8d2dec74776481b74afb9138243f03b79552602b910556f3",
+      "sha256": "3bd118e31544fa4ac8eb0253a530093d2af63563eebc689fc9daf43977e6c2d8",
+      "bytes": 196592
+    },
+    {
+      "role": "detail-2",
+      "file": "apps/web/public/images/articles/b2b-wholesale-website/detail-2.webp",
+      "prompt": "Use case: stylized-concept. Asset type: second inline editorial illustration for a Persian B2B wholesale article, hypothetical example about packaging supplies, approved quotation and prepared bulk shipment. Wide landscape 16:9 cinematic close view of a real warehouse packing bench: an open kraft carton in foreground contains rows of uniform ivory protective packaging sleeves bundled in groups with plain mint paper bands; behind it a substantial tightly organized pallet of sealed master cartons is ready for dispatch. On the bench lies a blank thick ivory quotation folder held by one mint metal clip, with a second closed earlier folder offset underneath, visually showing a revised approved quotation retained alongside the prepared consignment. No writing or markings on either folder. Distinct low side angle, believable industrial scale, premium staged editorial 3D realism, tactile paper fibers and folded cardboard, midnight teal #001014 background, restrained cyan #00dfd6 practical edge light and warm ivory highlights. Calm precise fulfilment, clean composition with central subject. No words, letters, numerals, logos, barcodes, fake interfaces, charts, watermark, laptop, shield or floating cubes.",
+      "alt": "کارتن حاوی بسته‌های لفاف محافظ با نوار نعنایی، پوشه‌های پیش‌فاکتور و پالت آماده ارسال",
+      "caption": "در سفارش لوازم بسته‌بندی، تعداد بسته، تعداد واحد و نسخه پیش‌فاکتور باید هماهنگ بمانند.",
+      "afterHeading": "مثال فرضی: سفارش لوازم بسته‌بندی",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "a4eed383d58056db16d15f18d8143d1b6c736c9ae3e592d0d5ba4733fedf3065",
+      "sha256": "4ce4012d1d2829a972193e8ff78c6b19966129ba7e2e8f3e9d48a4113368fd72",
+      "bytes": 162686
+    }
+  ],
+  "optimizedFormat": "WebP",
+  "optimizedQuality": 86
+}

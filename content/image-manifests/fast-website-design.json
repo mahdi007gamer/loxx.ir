@@ -1,0 +1,47 @@
+{
+  "slug": "fast-website-design",
+  "tool": "built-in image_gen",
+  "assets": [
+    {
+      "role": "cover",
+      "file": "apps/web/public/images/articles/fast-website-design/cover.webp",
+      "prompt": "Use case: stylized-concept. Premium clean editorial 3D illustration for a Persian web studio article about website performance. Landscape 16:9. Midnight teal #001014 and #031b22, mint/cyan #00dfd6 and #76e8db, restrained warm ivory, tactile frosted glass and brushed metal, controlled sophisticated studio lighting. Crisp purposeful composition, low visual noise. No words, letters, logos, watermark, numbers, fake charts or scores, racing cars, speedometers, lightning symbols, generic laptop or shield. This is conceptual editorial imagery, never a screenshot or client work. Cover: an elegant lightweight kinetic website sculpture on a dark stone studio pedestal. Several thin ivory page-like planes with generous spacing, one sculptural image panel and subtle navigation-like physical controls form an open architectural structure, with an unobstructed luminous mint path passing fluidly through the central structure. Slender rails and a few sharply frozen small traveling light beads suggest restrained efficient movement. All important objects centrally framed, broad negative space, eye-level three-quarter wide camera. Design communicates a usable lightweight structure, not a numerical speed claim.",
+      "alt": "ساختار سبک صفحات وب با قاب‌های روشن و مسیر پیوسته نور فیروزه‌ای روی پایه سنگی",
+      "caption": "ساختار سبک و مسیر روشن، پایه تجربه سریع و قابل استفاده است.",
+      "afterHeading": "",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "96a0d8109715e0b4a2cb59dc8284f7235832e92b800ce860ee07eadb3fcc2552",
+      "sha256": "c4f2d731f1d0e7d76d20a1744f8ce3ba90172434a98e680e18ffc323d75c0dd6",
+      "bytes": 140792
+    },
+    {
+      "role": "detail-1",
+      "file": "apps/web/public/images/articles/fast-website-design/detail-1.webp",
+      "prompt": "Use case: stylized-concept. Premium clean editorial 3D illustration for a Persian web studio article about website performance. Landscape 16:9. Midnight teal #001014 and #031b22, mint/cyan #00dfd6 and #76e8db, restrained warm ivory, tactile frosted glass and brushed metal, controlled sophisticated studio lighting. Crisp purposeful composition, low visual noise. No words, letters, logos, watermark, numbers, fake charts or scores, racing cars, speedometers, lightning symbols, generic laptop or shield. This is conceptual editorial imagery, never a screenshot or client work. Inline illustration about diagnosing loading bottlenecks and prioritising the first visible view. A physical gallery-page loading atelier: in the foreground, one fully illuminated ivory hero frame presents a beautiful sculptural ceramic object, alongside a small solid action control. Behind it, several secondary photo modules on separate stepped rails wait quietly in softer focus, clearly deferred. One route delivers the necessary first-view object directly while optional gallery tiles remain behind. The hero is crisp and ready; no chaos, no comparison collage, no arrows or textual labels. Close three-quarter perspective with refined spatial depth.",
+      "alt": "قاب روشن تصویر اصلی با گلدان سرامیکی در جلو و قاب‌های فرعی روی ریل‌های عقب",
+      "caption": "محتوای لازم برای نمای نخست باید پیش از بخش‌های فرعی آماده شود.",
+      "afterHeading": "گلوگاه را قبل از راه‌حل نام ببرید",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "ca40c5dc5b8d3733dd0896d412640a3bf20c583aba61d033d77264096a027bf5",
+      "sha256": "10680247fc1ad45704bf080ffe7a64203514610de94c67f9d63a5b7fa446cb46",
+      "bytes": 109076
+    },
+    {
+      "role": "detail-2",
+      "file": "apps/web/public/images/articles/fast-website-design/detail-2.webp",
+      "prompt": "Use case: stylized-concept. Premium clean editorial 3D illustration for a Persian web studio article about website performance. Landscape 16:9. Midnight teal #001014 and #031b22, mint/cyan #00dfd6 and #76e8db, restrained warm ivory, tactile frosted glass and brushed metal, controlled sophisticated studio lighting. Crisp purposeful composition, low visual noise. No words, letters, logos, watermark, numbers, fake charts or scores, racing cars, speedometers, lightning symbols, generic laptop or shield. This is conceptual editorial imagery, never a screenshot or client work. Inline illustration for a hypothetical heavy portfolio page and responding to interaction while background work continues. Macro view of a refined physical website interaction mechanism: an ivory tactile button connected by a very short mint-lit linkage to an open display aperture, the mechanism visibly engaged and aligned. A few substantial glass image plates travel slowly on a separate lower rail in the background, while a small translucent video-like panel remains resting in a reserved bay until requested. Separation of immediate interaction from heavier background tasks is visually clear. Sculptural mechanical editorial product shot, distinct low angle, no human hand and no readable UI.",
+      "alt": "دکمه عاجی با اتصال نورانی کوتاه به نمایشگر و صفحه‌های تصویری روی ریل جداگانه",
+      "caption": "تعامل کاربر و بارگیری محتوای سنگین را می‌توان با اولویت‌های جدا مدیریت کرد.",
+      "afterHeading": "مثال فرضی: صفحه معرفی پروژه سنگین",
+      "width": 1672,
+      "height": 941,
+      "originalSha256": "ecf204fbd904e71a7833bc8709f430babab391797491961407d3557d8eacf5a8",
+      "sha256": "1c0187563ee9d5377f3e9d482c910f893e02d960c8f07a381869917d6aa893a7",
+      "bytes": 133898
+    }
+  ],
+  "optimizedFormat": "WebP",
+  "optimizedQuality": 86
+}
